@@ -1,0 +1,44 @@
+name: Family Office Orchestrator
+
+on:
+  schedule:
+    - cron: "0 1 * * *"     # 01:00 UTC = 08:00 WIB
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: orchestrator
+  cancel-in-progress: false
+
+jobs:
+  run-orchestrator:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Ambil kode
+        uses: actions/checkout@v4
+
+      - name: Siapkan Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependency
+        run: pip install -r requirements.txt
+
+      - name: Jalankan orchestrator
+        env:
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          TELEGRAM_CHAT_IDS: ${{ secrets.TELEGRAM_CHAT_IDS }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          SEED_DEMO: "0"
+        run: python orchestrator.py
+
+      - name: Simpan inbox & arsip kembali ke repo
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add inbox.json report_archive.json archive/ || true
+          git commit -m "orchestrator: update state" || echo "Tidak ada perubahan"
+          git push || echo "Tidak ada yang di-push"
