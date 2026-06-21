@@ -32,7 +32,7 @@ jobs:
           TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
           TELEGRAM_CHAT_IDS: ${{ secrets.TELEGRAM_CHAT_IDS }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-          SEED_DEMO: "0"
+          SEED_DEMO: "1"
         run: python orchestrator.py
 
       - name: Simpan inbox & arsip kembali ke repo
