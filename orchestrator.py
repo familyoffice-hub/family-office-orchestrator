@@ -233,6 +233,31 @@ def fallback_report(rows, tanggal):
     out.append("\n— Disclaimer: bukan nasihat investasi/pajak/hukum. Perlu verifikasi & human review.")
     return "\n".join(out)
 
+def _clean_ai(text):
+    """Buang pembungkus ```html / ``` yang kadang ditambahkan AI."""
+    if not text:
+        return text
+    t = text.strip()
+    t = re.sub(r"^```[a-zA-Z]*\s*", "", t)   # buka pagar di awal
+    t = re.sub(r"\s*```$", "", t)            # tutup pagar di akhir
+    return t.strip()
+
+def _tg_safe_html(text):
+    """Telegram hanya mendukung <b><i><u><s><a><code><pre>. Ubah/buang tag lain
+    (mis. <ul><li><h1><p><br>) agar tidak kena error 'can't parse entities'."""
+    if not text:
+        return text
+    t = text
+    t = re.sub(r"(?i)<\s*li\s*>", "• ", t)          # <li> -> bullet
+    t = re.sub(r"(?i)<\s*/\s*li\s*>", "\n", t)       # </li> -> newline
+    t = re.sub(r"(?i)<\s*br\s*/?\s*>", "\n", t)      # <br> -> newline
+    t = re.sub(r"(?i)</?\s*(ul|ol|p|h[1-6]|div|span|strong|em|table|tr|td|th|thead|tbody)\b[^>]*>",
+               "", t)                                 # buang tag tak didukung
+    # <strong>/<em> sudah dibuang di atas; pulihkan jadi bold/italic bila perlu:
+    # (kita biarkan teks polos agar aman)
+    t = re.sub(r"\n{3,}", "\n\n", t)                 # rapikan baris kosong berlebih
+    return t.strip()
+
 def build_report(rows, tanggal):
     has_conf = any((r.get("confidentiality_level","internal") or "").lower()=="confidential" for r in rows)
     if AI_ENABLED:
@@ -240,6 +265,7 @@ def build_report(rows, tanggal):
         draft = call_ai(SUMMARIZER_SYSTEM, summarizer_user(items_text, tanggal), max_tokens=2200)
         if draft:
             safe = call_ai(RISK_SYSTEM, risk_user(draft), max_tokens=2200) or draft
+            safe = _tg_safe_html(_clean_ai(safe))
             header = f"🗞️ <b>DAILY FAMILY OFFICE INTELLIGENCE BRIEF</b> — {tanggal}\n"
             if has_conf:
                 header += "🔒 <b>Mengandung item CONFIDENTIAL — internal only</b>\n"
@@ -273,6 +299,8 @@ def run_once():
     print("Orchestrator jalan:", now.strftime("%Y-%m-%d %H:%M WIB"))
 
     inbox = load_json(INBOX_FILE, [])
+    if not isinstance(inbox, list):
+        inbox = []
     if not inbox and SEED_DEMO:
         print("[i] Inbox kosong -> isi contoh (SEED_DEMO).")
         for r in DEMO_ROWS:
@@ -283,6 +311,8 @@ def run_once():
 
     # anti kirim ganda: 1 laporan per hari
     archive = load_json(ARCHIVE_JSON, [])
+    if not isinstance(archive, list):   # jaga-jaga bila file berisi {} atau tipe lain
+        archive = []
     today_key = now.strftime("%Y-%m-%d")
     if any(a.get("report_date") == today_key for a in archive):
         print("[i] Laporan hari ini sudah dibuat. Berhenti.")
