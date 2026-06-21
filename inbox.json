@@ -1,1 +1,50 @@
-[]
+[
+  {
+    "agent_id": "Tax Agent",
+    "title": "DJP perketat pelaporan aset HNWI",
+    "summary": "Kemenkeu/DJP menambah kewajiban pelaporan aset bagi wajib pajak kaya; berdampak ke tax planning & beneficial ownership.",
+    "source_url": "https://example.com/djp",
+    "confidentiality_level": "internal",
+    "category": "Tax Planning",
+    "output_id": "o5efd4b",
+    "created_at": "2026-06-21T21:10:25.227029+00:00",
+    "is_processed": true,
+    "report_id": "r20260622"
+  },
+  {
+    "agent_id": "Benjamin Agent",
+    "title": "The Fed sinyal tahan suku bunga lebih lama",
+    "summary": "Yield US Treasury naik; tekanan ke USD/IDR dan obligasi.",
+    "source_url": "https://example.com/fed",
+    "confidentiality_level": "internal",
+    "category": "Macro",
+    "output_id": "o5efd55",
+    "created_at": "2026-06-21T21:10:25.237112+00:00",
+    "is_processed": true,
+    "report_id": "r20260622"
+  },
+  {
+    "agent_id": "Risk Agent",
+    "title": "Peringatan penipuan deepfake menargetkan keluarga kaya",
+    "summary": "Modus deepfake/AI meniru tokoh untuk menipu investor; perlu protokol verifikasi.",
+    "source_url": "https://example.com/risk",
+    "confidentiality_level": "internal",
+    "category": "Risk",
+    "output_id": "o5efd5f",
+    "created_at": "2026-06-21T21:10:25.247198+00:00",
+    "is_processed": true,
+    "report_id": "r20260622"
+  },
+  {
+    "agent_id": "Charlie Agent",
+    "title": "Catatan rebalancing portfolio keluarga Q3",
+    "summary": "Detail alokasi internal keluarga.",
+    "source_url": "",
+    "confidentiality_level": "confidential",
+    "category": "Portfolio",
+    "output_id": "o5efd69",
+    "created_at": "2026-06-21T21:10:25.257284+00:00",
+    "is_processed": true,
+    "report_id": "r20260622"
+  }
+]
