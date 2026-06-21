@@ -214,5 +214,17 @@
     "confidentiality_level": "internal",
     "created_at": "2026-06-21T22:42:09.195449+00:00",
     "is_processed": false
+  },
+  {
+    "output_id": "o2f9f1d",
+    "agent_id": "Tools A Monitor",
+    "title": "DJP Masih Optimistis Penerimaan Pajak 2026 Tumbuh 23% - DDTCNews",
+    "summary": "DJP Masih Optimistis Penerimaan Pajak 2026 Tumbuh 23% - DDTCNews",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQY1UxcFVGNTE0LWVfdFJuU1hrMlVQUU9PeXhHdjhMVXN4M00wS3gyek5Qd05vRlVJYlJLSUxuS2FPY1pyR05Cd1RWaVo0dUloNFFyVUR1Z2c1WGRpU0NhdHhYSVctN0pacjFGSWY4Z0FJYmJVd0lEOFQ5emlmS2JvYVFpMi1fRVM5N0k4ZzFWOVZ1aE9oaks4bkRtYXBTQ09WaUE?oc=5",
+    "category": "",
+    "confidentiality_level": "internal",
+    "created_at": "2026-06-21T23:05:20.925621+00:00",
+    "is_processed": false
   }
 ]
