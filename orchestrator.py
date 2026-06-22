@@ -50,6 +50,7 @@ MAX_POSTS = int(os.getenv("MAX_POSTS", "60"))
 MAX_ARTICLES = int(os.getenv("MAX_ARTICLES", "8"))      # batas artikel per hari (hemat kuota AI)
 AI_PACING_SEC = float(os.getenv("AI_PACING_SEC", "6"))  # jeda antar panggilan AI artikel (hindari rate-limit)
 FORCE = os.getenv("FORCE", "0") == "1"                  # paksa tulis ulang artikel website (abaikan is_processed & cek harian)
+ARTICLE_TAG_ALL = os.getenv("ARTICLE_TAG_ALL", "1") == "1"  # beri tag "Artikel" pada tiap artikel AI -> kanal Artikel auto-terisi
 
 JAKARTA = timezone(timedelta(hours=7))
 
@@ -395,6 +396,9 @@ def build_articles(rows, tanggal):
             else:
                 body = f"<p>{html.escape(txt[:500])}</p>"
         cat = website_category(r)
+        tags = [cat]
+        if ARTICLE_TAG_ALL and cat != "Artikel":
+            tags.append("Artikel")     # agar kanal "Artikel" auto-terisi berita AI
         rid = (r.get("output_id") or r.get("title") or "item")
         rid = re.sub(r"[^a-zA-Z0-9_-]+", "-", str(rid))[:60]
         summ = (r.get("summary") or "").strip()
@@ -402,7 +406,7 @@ def build_articles(rows, tanggal):
             summ = re.sub(r"<[^>]+>", "", body)[:160]
         entries.append({
             "id": rid, "date": tanggal, "title": r.get("title", "Berita"),
-            "summary": summ[:200], "tags": [cat], "source": r.get("source_url", ""),
+            "summary": summ[:200], "tags": tags, "source": r.get("source_url", ""),
             "html": body,
         })
     print(f"[i] {len(entries)} artikel High dibangun "
