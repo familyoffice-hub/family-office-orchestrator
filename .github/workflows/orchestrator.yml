@@ -35,7 +35,7 @@ jobs:
           WEB_REPO: ${{ secrets.WEB_REPO }}
           GH_PUSH_TOKEN: ${{ secrets.GH_PUSH_TOKEN }}
           SEED_DEMO: "0"
-          FORCE: "1"
+          FORCE: "0"
         run: python orchestrator.py
 
       - name: Simpan inbox & arsip kembali ke repo
