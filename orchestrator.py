@@ -48,6 +48,8 @@ WEB_POSTS_PATH = os.getenv("WEB_POSTS_PATH", "posts.json")
 GH_PUSH_TOKEN = os.getenv("GH_PUSH_TOKEN", "").strip()  # PAT fine-grained, Contents RW ke repo website
 MAX_POSTS = int(os.getenv("MAX_POSTS", "60"))
 MAX_ARTICLES = int(os.getenv("MAX_ARTICLES", "8"))      # batas artikel per hari (hemat kuota AI)
+AI_PACING_SEC = float(os.getenv("AI_PACING_SEC", "6"))  # jeda antar panggilan AI artikel (hindari rate-limit)
+FORCE = os.getenv("FORCE", "0") == "1"                  # paksa tulis ulang artikel website (abaikan is_processed & cek harian)
 
 JAKARTA = timezone(timedelta(hours=7))
 
@@ -125,15 +127,15 @@ def send_telegram(message):
 
 # ----------------------------- Gemini ---------------------------------------
 
-def call_ai(system, user, max_tokens=2000):
+def call_ai(system, user, max_tokens=2000, attempts=6):
     if not AI_ENABLED:
         return None
     url = f"https://generativelanguage.googleapis.com/v1beta/models/{AI_MODEL}:generateContent"
     body = {"system_instruction": {"parts": [{"text": system}]},
             "contents": [{"role": "user", "parts": [{"text": user}]}],
-            "generationConfig": {"maxOutputTokens": max_tokens, "temperature": 0.4,
+            "generationConfig": {"maxOutputTokens": max_tokens, "temperature": 0.5,
                                  "thinkingConfig": {"thinkingBudget": 0}}}
-    for attempt in range(4):
+    for attempt in range(attempts):
         try:
             r = requests.post(url, headers={"x-goog-api-key": GEMINI_API_KEY,
                                             "Content-Type": "application/json"}, json=body, timeout=60)
@@ -144,7 +146,8 @@ def call_ai(system, user, max_tokens=2000):
                 txt = "".join(p.get("text", "") for p in parts).strip()
                 return txt or None
             if r.status_code == 429:
-                print("[i] Gemini 429, tunggu 25s..."); time.sleep(25); continue
+                w = 20 + attempt * 5     # makin lama makin sabar (20s,25s,30s,...)
+                print(f"[i] Gemini 429, tunggu {w}s... (percobaan {attempt+1}/{attempts})"); time.sleep(w); continue
             if r.status_code in (500, 502, 503, 504):
                 w = 8 * (attempt + 1); print(f"[i] Gemini sibuk {r.status_code}, tunggu {w}s..."); time.sleep(w); continue
             print("[!] Gemini error", r.status_code, r.text[:200]); return None
@@ -304,12 +307,16 @@ ARTICLE_SYSTEM = ("Anda jurnalis keuangan untuk audiens ritel Indonesia. Tulis r
 
 def _single_article_user(item):
     return (
-        "Tulis artikel berita singkat (120-200 kata) Bahasa Indonesia dari informasi di bawah. "
-        "Gunakan HANYA tag <p> (boleh 1 subjudul <h3> bila perlu). Paragraf pembuka merangkum inti berita, "
-        "lalu 1-2 paragraf konteks/dampak/yang perlu diperhatikan. "
-        "JANGAN mengarang angka, nama, atau kutipan yang tidak ada di sumber. "
-        "JANGAN beri nasihat investasi (ini informasi, bukan rekomendasi). "
-        "JANGAN tulis judul utama (h1) atau disclaimer.\n\n"
+        "Tulis ulang informasi di bawah menjadi artikel berita yang menarik dan mudah dibaca, "
+        "dalam Bahasa Indonesia yang mengalir. Panjang 3-4 paragraf (sekitar 180-280 kata). "
+        "Gunakan HANYA tag <p> untuk tiap paragraf (boleh 1 subjudul <h3> bila membantu). "
+        "Struktur: (1) paragraf pembuka yang merangkum inti berita dengan kalimat kuat; "
+        "(2) paragraf konteks atau latar; (3) paragraf dampak/arti bagi investor atau pasar; "
+        "(4) paragraf penutup tentang hal yang perlu diperhatikan ke depan. "
+        "Tulis netral dan informatif, jangan kaku. "
+        "JANGAN mengarang angka, nama, tanggal, atau kutipan yang tidak ada di sumber. "
+        "JANGAN memberi nasihat investasi (ini informasi, bukan rekomendasi). "
+        "JANGAN menulis judul utama (h1) maupun disclaimer.\n\n"
         f"JUDUL: {item.get('title','')}\n"
         f"RINGKASAN SUMBER: {item.get('summary','')}\n"
         f"KATEGORI: {item.get('category','')}\n"
@@ -371,14 +378,22 @@ def build_articles(rows, tanggal):
         print("[i] Tidak ada berita High non-rahasia -> tidak ada artikel diterbitkan.")
         return []
     entries = []
-    for r in public[:MAX_ARTICLES]:
+    for idx, r in enumerate(public[:MAX_ARTICLES]):
         body = None
         if AI_ENABLED:
-            body = call_ai(ARTICLE_SYSTEM, _single_article_user(r), max_tokens=700)
+            if idx > 0:
+                time.sleep(AI_PACING_SEC)      # jeda antar panggilan agar tidak kena rate-limit
+            body = call_ai(ARTICLE_SYSTEM, _single_article_user(r), max_tokens=900)
             body = _web_safe_html(body) if body else None
         if not body:
-            # fallback tanpa AI
-            body = f"<p>{html.escape((r.get('summary') or r.get('title') or '')[:400])}</p>"
+            # fallback tanpa AI: pakai ringkasan sumber (1-2 paragraf)
+            txt = (r.get("summary") or r.get("title") or "").strip()
+            parts = re.split(r"(?<=[.!?])\s+", txt)
+            if len(parts) > 2:
+                mid = len(parts) // 2
+                body = f"<p>{html.escape(' '.join(parts[:mid]))}</p><p>{html.escape(' '.join(parts[mid:]))}</p>"
+            else:
+                body = f"<p>{html.escape(txt[:500])}</p>"
         cat = website_category(r)
         rid = (r.get("output_id") or r.get("title") or "item")
         rid = re.sub(r"[^a-zA-Z0-9_-]+", "-", str(rid))[:60]
@@ -458,14 +473,14 @@ def run_once():
     if not isinstance(archive, list):   # jaga-jaga bila file berisi {} atau tipe lain
         archive = []
     today_key = now.strftime("%Y-%m-%d")
-    if any(a.get("report_date") == today_key for a in archive):
+    if not FORCE and any(a.get("report_date") == today_key for a in archive):
         print("[i] Laporan hari ini sudah dibuat. Berhenti.")
         return
 
     # ambil item belum diproses & masih dalam rentang waktu
     cutoff = datetime.now(timezone.utc) - timedelta(hours=LOOKBACK_HOURS)
     def fresh(r):
-        if r.get("is_processed"):
+        if r.get("is_processed") and not FORCE:    # FORCE: proses ulang walau sudah ditandai
             return False
         try:
             return datetime.fromisoformat(r.get("created_at")) >= cutoff
@@ -486,7 +501,20 @@ def run_once():
         # tetap catat agar tidak dicek berulang? Tidak; cukup berhenti.
         return
 
-    print(f"[i] {len(uniq)} item diproses (AI={'on' if AI_ENABLED else 'off'}).")
+    print(f"[i] {len(uniq)} item diproses (AI={'on' if AI_ENABLED else 'off'}{', FORCE' if FORCE else ''}).")
+
+    # MODE FORCE: hanya tulis ulang artikel website (tanpa kirim Telegram / ubah arsip)
+    if FORCE:
+        if WEB_REPO and GH_PUSH_TOKEN:
+            try:
+                entries = build_articles(uniq, tanggal)
+                if entries:
+                    publish_many_to_web(entries)
+            except Exception as e:
+                print("[!] Penerbitan website gagal:", e)
+        print("[i] Selesai (FORCE: artikel website ditulis ulang).")
+        return
+
     report = build_report(uniq, tanggal)
 
     ok = send_telegram(report)
