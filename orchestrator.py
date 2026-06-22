@@ -47,6 +47,7 @@ WEB_REPO = os.getenv("WEB_REPO", "").strip()            # mis. "familyoffice-hub
 WEB_POSTS_PATH = os.getenv("WEB_POSTS_PATH", "posts.json")
 GH_PUSH_TOKEN = os.getenv("GH_PUSH_TOKEN", "").strip()  # PAT fine-grained, Contents RW ke repo website
 MAX_POSTS = int(os.getenv("MAX_POSTS", "60"))
+MAX_ARTICLES = int(os.getenv("MAX_ARTICLES", "8"))      # batas artikel per hari (hemat kuota AI)
 
 JAKARTA = timezone(timedelta(hours=7))
 
@@ -301,15 +302,17 @@ DEMO_ROWS = [
 ARTICLE_SYSTEM = ("Anda jurnalis keuangan untuk audiens ritel Indonesia. Tulis ringkas, jelas, "
                   "netral, dan informatif dalam Bahasa Indonesia. Bukan nasihat investasi.")
 
-def _article_user(items_text, tanggal):
+def _single_article_user(item):
     return (
-        f"Tulis SATU artikel ringkasan pasar harian (sekitar 400-550 kata) untuk tanggal {tanggal}, "
-        f"berdasarkan poin-poin di bawah. Gunakan HANYA tag HTML: <p>, <h3>, <ul>, <li>, <b>. "
-        f"Mulai dengan 1 paragraf pembuka, lalu 2-4 subjudul <h3> (mis. Makro & Pasar, Saham, "
-        f"Crypto & DeFi, Yang Perlu Diperhatikan) masing-masing dengan paragraf singkat. "
-        f"JANGAN mengarang angka/kutipan yang tidak ada. JANGAN beri nasihat investasi (ini informasi, "
-        f"bukan rekomendasi). JANGAN tulis judul utama (h1) atau disclaimer — itu ditambahkan otomatis.\n\n"
-        f"POIN:\n{items_text}"
+        "Tulis artikel berita singkat (120-200 kata) Bahasa Indonesia dari informasi di bawah. "
+        "Gunakan HANYA tag <p> (boleh 1 subjudul <h3> bila perlu). Paragraf pembuka merangkum inti berita, "
+        "lalu 1-2 paragraf konteks/dampak/yang perlu diperhatikan. "
+        "JANGAN mengarang angka, nama, atau kutipan yang tidak ada di sumber. "
+        "JANGAN beri nasihat investasi (ini informasi, bukan rekomendasi). "
+        "JANGAN tulis judul utama (h1) atau disclaimer.\n\n"
+        f"JUDUL: {item.get('title','')}\n"
+        f"RINGKASAN SUMBER: {item.get('summary','')}\n"
+        f"KATEGORI: {item.get('category','')}\n"
     )
 
 def _web_safe_html(t):
@@ -321,36 +324,80 @@ def _web_safe_html(t):
     t = re.sub(r"(?i)<\s*/?\s*(html|head|body|h1|h2)\b[^>]*>", "", t)       # buang wrapper & h1/h2
     return t.strip()
 
-def build_article(rows, tanggal, today_key):
-    """Buat 1 artikel dari item NON-confidential. Return entry dict atau None."""
-    public = [r for r in rows if (r.get("confidentiality_level","internal") or "").lower() != "confidential"]
-    if not public:
-        print("[i] Tidak ada item publik (semua confidential) -> tidak menerbitkan artikel.")
-        return None
-    items_text = build_items_text(public)
-    body = None
-    if AI_ENABLED:
-        body = call_ai(ARTICLE_SYSTEM, _article_user(items_text, tanggal), max_tokens=1800)
-        body = _web_safe_html(body) if body else None
-    if not body:
-        # fallback tanpa AI: daftar ringkas
-        lis = "".join(f"<li><b>{html.escape(r.get('title',''))}</b> — {html.escape((r.get('summary') or '')[:160])}</li>"
-                      for r in public[:10])
-        body = f"<p>Ringkasan pasar untuk {html.escape(tanggal)} berdasarkan pemantauan otomatis.</p><ul>{lis}</ul>"
-    # tags dari kategori
-    tags, seen = [], set()
-    for r in public:
-        c = (r.get("category") or "").strip()
-        if c and c.lower() not in seen:
-            seen.add(c.lower()); tags.append(c)
-    tags = tags[:4] or ["Pasar"]
-    top = public[0].get("title", "Catatan Pasar")
-    summary = f"{len(public)} sorotan hari ini, termasuk: {top}."
-    return {"id": today_key, "date": tanggal, "title": f"Catatan Pasar Harian — {tanggal}",
-            "summary": summary[:200], "tags": tags, "html": body}
+def website_category(item):
+    """Petakan berita ke salah satu kategori website: Saham / Crypto / Makro / Regulation."""
+    raw = (item.get("category") or "").strip().lower()
+    # 1) pakai klasifikasi eksplisit dari Tools A bila sudah jelas
+    explicit = {
+        "crypto": "Crypto", "kripto": "Crypto", "defi": "Crypto", "rwa": "Crypto", "token": "Crypto",
+        "regulation": "Regulation", "regulasi": "Regulation", "tax": "Regulation", "pajak": "Regulation",
+        "compliance": "Regulation",
+        "equity": "Saham", "stocks": "Saham", "stock": "Saham", "saham": "Saham", "ipo": "Saham",
+        "macro": "Makro", "makro": "Makro", "economy": "Makro", "ekonomi": "Makro", "rates": "Makro",
+        "risk": "Makro", "security risk": "Makro", "fraud": "Makro",
+    }
+    if raw in explicit:
+        return explicit[raw]
+    # 2) heuristik kata kunci (urutan: regulasi -> crypto -> makro -> saham)
+    s = raw + " " + (item.get("title") or "").lower() + " " + (item.get("summary") or "").lower()
+    def has(*ws): return any(w in s for w in ws)
+    if has("pajak", "tax", "djp", "kemenkeu", "ppatk", "crs", "fatca", "ojk", "sec ",
+           "regulasi", "regulation", "aturan", "kebijakan", "sanksi", "aml", "kyc", "izin", "undang"):
+        return "Regulation"
+    if has("bitcoin", "ethereum", "btc", "eth", "crypto", "kripto", "token", "blockchain",
+           "stablecoin", "rwa", "defi", "on-chain", "altcoin", "web3", "nft", "solana", "binance"):
+        return "Crypto"
+    if has("fed", "the fed", "suku bunga", "interest rate", "inflasi", "inflation", "yield",
+           "bank sentral", "gdp", "ecb", "boj", "resesi", "makro", "macro", "pertumbuhan ekonomi"):
+        return "Makro"
+    if has("saham", "stock", "equity", "ihsg", "dividen", "emiten", "bursa", "ipo",
+           "obligasi", "sbn", "reksa", "lq45", "indeks"):
+        return "Saham"
+    return "Makro"
 
-def publish_to_web(entry):
-    """Tambahkan artikel ke posts.json di repo website via GitHub API (1 commit)."""
+def _is_high(r):
+    p = (r.get("priority") or "").lower()
+    if p:
+        return p == "high"
+    # item lama dari Tools A tidak punya field priority -> Tools A hanya push High
+    return "tools a" in (r.get("agent_id") or "").lower()
+
+def build_articles(rows, tanggal):
+    """Buat 1 artikel per berita HIGH non-confidential, dengan kategori masing-masing."""
+    public = [r for r in rows
+              if (r.get("confidentiality_level", "internal") or "").lower() != "confidential"
+              and _is_high(r)]
+    if not public:
+        print("[i] Tidak ada berita High non-rahasia -> tidak ada artikel diterbitkan.")
+        return []
+    entries = []
+    for r in public[:MAX_ARTICLES]:
+        body = None
+        if AI_ENABLED:
+            body = call_ai(ARTICLE_SYSTEM, _single_article_user(r), max_tokens=700)
+            body = _web_safe_html(body) if body else None
+        if not body:
+            # fallback tanpa AI
+            body = f"<p>{html.escape((r.get('summary') or r.get('title') or '')[:400])}</p>"
+        cat = website_category(r)
+        rid = (r.get("output_id") or r.get("title") or "item")
+        rid = re.sub(r"[^a-zA-Z0-9_-]+", "-", str(rid))[:60]
+        summ = (r.get("summary") or "").strip()
+        if not summ:
+            summ = re.sub(r"<[^>]+>", "", body)[:160]
+        entries.append({
+            "id": rid, "date": tanggal, "title": r.get("title", "Berita"),
+            "summary": summ[:200], "tags": [cat], "source": r.get("source_url", ""),
+            "html": body,
+        })
+    print(f"[i] {len(entries)} artikel High dibangun "
+          f"({', '.join(sorted(set(e['tags'][0] for e in entries)))}).")
+    return entries
+
+def publish_many_to_web(entries):
+    """Push beberapa artikel ke posts.json repo website (1 commit)."""
+    if not entries:
+        return False
     if not WEB_REPO or not GH_PUSH_TOKEN:
         print("[i] WEB_REPO/GH_PUSH_TOKEN belum diset -> lewati penerbitan ke website.")
         return False
@@ -366,18 +413,22 @@ def publish_to_web(entry):
                 posts = []
         else:
             sha = None; posts = []
-        # buang contoh & artikel dengan id sama, taruh yang baru paling depan
-        posts = [p for p in posts if p.get("id") not in (entry["id"], "contoh-2026-06-22")
-                 and not str(p.get("id","")).startswith("contoh")]
-        posts.insert(0, entry)
+        new_ids = {e["id"] for e in entries}
+        # buang id contoh/demo & duplikat; pertahankan artikel manual (artikel-*)
+        posts = [p for p in posts
+                 if p.get("id") not in new_ids
+                 and not str(p.get("id", "")).startswith("contoh")
+                 and not str(p.get("id", "")).startswith("demo")]
+        posts = entries + posts            # berita baru di paling depan
         posts = posts[:MAX_POSTS]
         new_b64 = base64.b64encode(json.dumps(posts, ensure_ascii=False, indent=2).encode()).decode()
-        payload = {"message": f"artikel: {entry['title']}", "content": new_b64}
+        payload = {"message": f"berita: {len(entries)} artikel High ({datetime.now(JAKARTA).strftime('%Y-%m-%d')})",
+                   "content": new_b64}
         if sha:
             payload["sha"] = sha
-        pr = requests.put(url, headers=headers, json=payload, timeout=20)
+        pr = requests.put(url, headers=headers, json=payload, timeout=25)
         if pr.status_code in (200, 201):
-            print(f"[i] Artikel diterbitkan ke website: {entry['title']}")
+            print(f"[i] {len(entries)} artikel diterbitkan ke website.")
             return True
         print("[!] Gagal terbit ke website:", pr.status_code, pr.text[:150]); return False
     except Exception as e:
@@ -440,12 +491,12 @@ def run_once():
 
     ok = send_telegram(report)
 
-    # Terbitkan artikel harian ke website (hanya item non-confidential).
+    # Terbitkan tiap berita High (non-rahasia) sebagai artikel berkategori ke website.
     if WEB_REPO and GH_PUSH_TOKEN:
         try:
-            entry = build_article(uniq, tanggal, today_key)
-            if entry:
-                publish_to_web(entry)
+            entries = build_articles(uniq, tanggal)
+            if entries:
+                publish_many_to_web(entries)
         except Exception as e:
             print("[!] Penerbitan website gagal:", e)
 
