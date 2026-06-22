@@ -1,0 +1,45 @@
+name: Sheet Articles (Google Sheet -> Artikel)
+
+on:
+  schedule:
+    - cron: "10 1 * * *"   # 08:10 WIB
+    - cron: "0 9 * * *"    # 16:00 WIB
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sheet-articles
+  cancel-in-progress: false
+
+jobs:
+  run-sheet-articles:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Ambil kode
+        uses: actions/checkout@v4
+
+      - name: Siapkan Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependency
+        run: pip install -r requirements.txt
+
+      - name: Jalankan sheet articles
+        env:
+          SHEET_CSV_URL: ${{ secrets.SHEET_CSV_URL }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          WEB_REPO: ${{ secrets.WEB_REPO }}
+          GH_PUSH_TOKEN: ${{ secrets.GH_PUSH_TOKEN }}
+        run: python sheet_articles.py
+
+      - name: Simpan catatan kembali ke repo
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add sheet_log.json || true
+          git commit -m "sheet: update catatan artikel" || echo "Tidak ada perubahan"
+          git push || echo "Tidak ada yang di-push"
