@@ -42,6 +42,12 @@ MAX_ITEMS = int(os.getenv("MAX_ITEMS", "60"))          # batas item yang diprose
 LOOKBACK_HOURS = int(os.getenv("LOOKBACK_HOURS", "30"))  # ambil item sejauh ini ke belakang
 SEED_DEMO = os.getenv("SEED_DEMO", "0") == "1"          # isi contoh bila inbox kosong
 
+# Penerbitan ke WEBSITE (GitHub Pages). Artikel harian ditulis AI lalu di-push ke repo website.
+WEB_REPO = os.getenv("WEB_REPO", "").strip()            # mis. "familyoffice-hub/website"
+WEB_POSTS_PATH = os.getenv("WEB_POSTS_PATH", "posts.json")
+GH_PUSH_TOKEN = os.getenv("GH_PUSH_TOKEN", "").strip()  # PAT fine-grained, Contents RW ke repo website
+MAX_POSTS = int(os.getenv("MAX_POSTS", "60"))
+
 JAKARTA = timezone(timedelta(hours=7))
 
 # Kata kunci untuk skor lokal (pra-urut sebelum dikirim ke AI)
@@ -290,6 +296,93 @@ DEMO_ROWS = [
      "source_url": "", "confidentiality_level": "confidential", "category": "Portfolio"},
 ]
 
+# ----------------------------- Penerbit Website -----------------------------
+
+ARTICLE_SYSTEM = ("Anda jurnalis keuangan untuk audiens ritel Indonesia. Tulis ringkas, jelas, "
+                  "netral, dan informatif dalam Bahasa Indonesia. Bukan nasihat investasi.")
+
+def _article_user(items_text, tanggal):
+    return (
+        f"Tulis SATU artikel ringkasan pasar harian (sekitar 400-550 kata) untuk tanggal {tanggal}, "
+        f"berdasarkan poin-poin di bawah. Gunakan HANYA tag HTML: <p>, <h3>, <ul>, <li>, <b>. "
+        f"Mulai dengan 1 paragraf pembuka, lalu 2-4 subjudul <h3> (mis. Makro & Pasar, Saham, "
+        f"Crypto & DeFi, Yang Perlu Diperhatikan) masing-masing dengan paragraf singkat. "
+        f"JANGAN mengarang angka/kutipan yang tidak ada. JANGAN beri nasihat investasi (ini informasi, "
+        f"bukan rekomendasi). JANGAN tulis judul utama (h1) atau disclaimer — itu ditambahkan otomatis.\n\n"
+        f"POIN:\n{items_text}"
+    )
+
+def _web_safe_html(t):
+    """Izinkan tag aman untuk web; buang sisanya. Input dari AI kita sendiri."""
+    if not t:
+        return ""
+    t = _clean_ai(t)
+    t = re.sub(r"(?is)<\s*(script|style)[^>]*>.*?<\s*/\s*\1\s*>", "", t)   # buang script/style
+    t = re.sub(r"(?i)<\s*/?\s*(html|head|body|h1|h2)\b[^>]*>", "", t)       # buang wrapper & h1/h2
+    return t.strip()
+
+def build_article(rows, tanggal, today_key):
+    """Buat 1 artikel dari item NON-confidential. Return entry dict atau None."""
+    public = [r for r in rows if (r.get("confidentiality_level","internal") or "").lower() != "confidential"]
+    if not public:
+        print("[i] Tidak ada item publik (semua confidential) -> tidak menerbitkan artikel.")
+        return None
+    items_text = build_items_text(public)
+    body = None
+    if AI_ENABLED:
+        body = call_ai(ARTICLE_SYSTEM, _article_user(items_text, tanggal), max_tokens=1800)
+        body = _web_safe_html(body) if body else None
+    if not body:
+        # fallback tanpa AI: daftar ringkas
+        lis = "".join(f"<li><b>{html.escape(r.get('title',''))}</b> — {html.escape((r.get('summary') or '')[:160])}</li>"
+                      for r in public[:10])
+        body = f"<p>Ringkasan pasar untuk {html.escape(tanggal)} berdasarkan pemantauan otomatis.</p><ul>{lis}</ul>"
+    # tags dari kategori
+    tags, seen = [], set()
+    for r in public:
+        c = (r.get("category") or "").strip()
+        if c and c.lower() not in seen:
+            seen.add(c.lower()); tags.append(c)
+    tags = tags[:4] or ["Pasar"]
+    top = public[0].get("title", "Catatan Pasar")
+    summary = f"{len(public)} sorotan hari ini, termasuk: {top}."
+    return {"id": today_key, "date": tanggal, "title": f"Catatan Pasar Harian — {tanggal}",
+            "summary": summary[:200], "tags": tags, "html": body}
+
+def publish_to_web(entry):
+    """Tambahkan artikel ke posts.json di repo website via GitHub API (1 commit)."""
+    if not WEB_REPO or not GH_PUSH_TOKEN:
+        print("[i] WEB_REPO/GH_PUSH_TOKEN belum diset -> lewati penerbitan ke website.")
+        return False
+    import base64
+    url = f"https://api.github.com/repos/{WEB_REPO}/contents/{WEB_POSTS_PATH}"
+    headers = {"Authorization": f"Bearer {GH_PUSH_TOKEN}", "Accept": "application/vnd.github+json"}
+    try:
+        r = requests.get(url, headers=headers, timeout=20)
+        if r.status_code == 200:
+            data = r.json(); sha = data["sha"]
+            posts = json.loads(base64.b64decode(data["content"]).decode("utf-8"))
+            if not isinstance(posts, list):
+                posts = []
+        else:
+            sha = None; posts = []
+        # buang contoh & artikel dengan id sama, taruh yang baru paling depan
+        posts = [p for p in posts if p.get("id") not in (entry["id"], "contoh-2026-06-22")
+                 and not str(p.get("id","")).startswith("contoh")]
+        posts.insert(0, entry)
+        posts = posts[:MAX_POSTS]
+        new_b64 = base64.b64encode(json.dumps(posts, ensure_ascii=False, indent=2).encode()).decode()
+        payload = {"message": f"artikel: {entry['title']}", "content": new_b64}
+        if sha:
+            payload["sha"] = sha
+        pr = requests.put(url, headers=headers, json=payload, timeout=20)
+        if pr.status_code in (200, 201):
+            print(f"[i] Artikel diterbitkan ke website: {entry['title']}")
+            return True
+        print("[!] Gagal terbit ke website:", pr.status_code, pr.text[:150]); return False
+    except Exception as e:
+        print("[!] Exception terbit ke website:", e); return False
+
 # ----------------------------- Main -----------------------------------------
 
 def run_once():
@@ -346,6 +439,15 @@ def run_once():
     report = build_report(uniq, tanggal)
 
     ok = send_telegram(report)
+
+    # Terbitkan artikel harian ke website (hanya item non-confidential).
+    if WEB_REPO and GH_PUSH_TOKEN:
+        try:
+            entry = build_article(uniq, tanggal, today_key)
+            if entry:
+                publish_to_web(entry)
+        except Exception as e:
+            print("[!] Penerbitan website gagal:", e)
 
     # arsip + tandai processed
     rid = "r" + now.strftime("%Y%m%d")
