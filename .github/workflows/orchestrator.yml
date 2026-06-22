@@ -32,6 +32,8 @@ jobs:
           TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
           TELEGRAM_CHAT_IDS: ${{ secrets.TELEGRAM_CHAT_IDS }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          WEB_REPO: ${{ secrets.WEB_REPO }}
+          GH_PUSH_TOKEN: ${{ secrets.GH_PUSH_TOKEN }}
           SEED_DEMO: "0"
         run: python orchestrator.py
 
