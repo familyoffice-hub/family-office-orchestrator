@@ -213,7 +213,8 @@
     "category": "",
     "confidentiality_level": "internal",
     "created_at": "2026-06-21T22:42:09.195449+00:00",
-    "is_processed": false
+    "is_processed": true,
+    "report_id": "r20260622"
   },
   {
     "output_id": "o2f9f1d",
