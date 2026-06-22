@@ -32,7 +32,12 @@ import hashlib
 from io import StringIO
 from datetime import datetime, timezone, timedelta
 
+import sys
 import requests
+try:
+    sys.stdout.reconfigure(line_buffering=True)  # log tampil real-time di Actions
+except Exception:
+    pass
 try:
     from dotenv import load_dotenv
     load_dotenv()
@@ -51,7 +56,7 @@ GH_PUSH_TOKEN = os.getenv("GH_PUSH_TOKEN", "").strip()
 
 LOG_FILE = os.getenv("SHEET_LOG_FILE", "sheet_log.json")    # catatan judul yang sudah terbit
 MAX_POSTS = int(os.getenv("MAX_POSTS", "60"))               # batas total artikel di posts.json
-MAX_PER_RUN = int(os.getenv("MAX_PER_RUN", "2"))            # artikel per jalan (hemat kuota AI)
+MAX_PER_RUN = int(os.getenv("MAX_PER_RUN", "1"))            # artikel per jalan (hemat kuota AI)
 MAX_TOKENS = int(os.getenv("ARTICLE_MAX_TOKENS", "8192"))   # cukup untuk ~2.500 kata
 AI_PACING_SEC = float(os.getenv("AI_PACING_SEC", "8"))      # jeda antar panggilan AI
 AI_TEMPERATURE = float(os.getenv("AI_TEMPERATURE", "0.85")) # lebih "humanized"
@@ -121,7 +126,7 @@ def key_judul(judul):
 
 
 # ----------------------------- AI (Gemini) ----------------------------------
-def call_ai(system, user, max_tokens=MAX_TOKENS, attempts=6):
+def call_ai(system, user, max_tokens=MAX_TOKENS, attempts=3):
     if not AI_ENABLED:
         return None
     url = f"https://generativelanguage.googleapis.com/v1beta/models/{AI_MODEL}:generateContent"
@@ -133,7 +138,7 @@ def call_ai(system, user, max_tokens=MAX_TOKENS, attempts=6):
         try:
             r = requests.post(url, headers={"x-goog-api-key": GEMINI_API_KEY,
                                             "Content-Type": "application/json"},
-                              json=body, timeout=120)
+                              json=body, timeout=180)
             if r.status_code == 200:
                 cands = r.json().get("candidates", [])
                 if not cands:
@@ -142,11 +147,11 @@ def call_ai(system, user, max_tokens=MAX_TOKENS, attempts=6):
                 txt = "".join(p.get("text", "") for p in parts).strip()
                 return txt or None
             if r.status_code == 429:
-                w = 25 + attempt * 8
+                w = 15 + attempt * 5
                 print(f"[i] Gemini 429, tunggu {w}s... ({attempt+1}/{attempts})")
                 time.sleep(w); continue
             if r.status_code in (500, 502, 503, 504):
-                w = 10 * (attempt + 1)
+                w = 8 * (attempt + 1)
                 print(f"[i] Gemini sibuk {r.status_code}, tunggu {w}s..."); time.sleep(w); continue
             print("[!] Gemini error", r.status_code, r.text[:200]); return None
         except Exception as e:
@@ -225,6 +230,7 @@ def build_entries(titles, sudah_terbit):
             if entries:
                 time.sleep(AI_PACING_SEC)
             prompt = PROMPT_TEMPLATE.replace("{JUDUL}", judul).replace("{TANGGAL}", tgl_id)
+            print(f"[i] Menulis artikel (AI, bisa 30-120 detik): {judul[:60]}")
             body = call_ai(ARTICLE_SYSTEM, prompt)
             body = web_safe_html(body) if body else None
         if not body:
