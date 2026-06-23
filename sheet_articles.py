@@ -126,7 +126,7 @@ def key_judul(judul):
 
 
 # ----------------------------- AI (Gemini) ----------------------------------
-def call_ai(system, user, max_tokens=MAX_TOKENS, attempts=3):
+def call_ai(system, user, max_tokens=MAX_TOKENS, attempts=6):
     if not AI_ENABLED:
         return None
     url = f"https://generativelanguage.googleapis.com/v1beta/models/{AI_MODEL}:generateContent"
@@ -147,7 +147,7 @@ def call_ai(system, user, max_tokens=MAX_TOKENS, attempts=3):
                 txt = "".join(p.get("text", "") for p in parts).strip()
                 return txt or None
             if r.status_code == 429:
-                w = 15 + attempt * 5
+                w = 20 + attempt * 8
                 print(f"[i] Gemini 429, tunggu {w}s... ({attempt+1}/{attempts})")
                 time.sleep(w); continue
             if r.status_code in (500, 502, 503, 504):
