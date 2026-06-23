@@ -8,5 +8,15 @@
     "sent_at": "2026-06-22T06:57:18.090085+00:00",
     "item_count": 6,
     "confidentiality_level": "internal"
+  },
+  {
+    "report_id": "r20260623",
+    "report_date": "2026-06-23",
+    "report_title": "Daily Brief 23 Jun 2026",
+    "delivery_channel": "telegram",
+    "delivery_status": "failed",
+    "sent_at": "2026-06-23T05:12:25.302254+00:00",
+    "item_count": 11,
+    "confidentiality_level": "internal"
   }
 ]
