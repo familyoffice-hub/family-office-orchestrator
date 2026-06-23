@@ -2,7 +2,7 @@ name: Sheet Articles (Google Sheet -> Artikel)
 
 on:
   schedule:
-    - cron: "10 1 * * *"   # 08:10 WIB
+    - cron: "0 4 * * *"    # 11:00 WIB
     - cron: "0 9 * * *"    # 16:00 WIB
   workflow_dispatch:
 
