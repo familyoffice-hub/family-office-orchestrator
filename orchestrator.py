@@ -47,8 +47,8 @@ WEB_REPO = os.getenv("WEB_REPO", "").strip()            # mis. "familyoffice-hub
 WEB_POSTS_PATH = os.getenv("WEB_POSTS_PATH", "posts.json")
 GH_PUSH_TOKEN = os.getenv("GH_PUSH_TOKEN", "").strip()  # PAT fine-grained, Contents RW ke repo website
 MAX_POSTS = int(os.getenv("MAX_POSTS", "60"))
-MAX_ARTICLES = int(os.getenv("MAX_ARTICLES", "8"))      # batas artikel per hari (hemat kuota AI)
-AI_PACING_SEC = float(os.getenv("AI_PACING_SEC", "6"))  # jeda antar panggilan AI artikel (hindari rate-limit)
+MAX_ARTICLES = int(os.getenv("MAX_ARTICLES", "3"))      # batas artikel per hari (hemat kuota AI)
+AI_PACING_SEC = float(os.getenv("AI_PACING_SEC", "12"))  # jeda antar panggilan AI artikel (hindari rate-limit)
 FORCE = os.getenv("FORCE", "0") == "1"                  # paksa tulis ulang artikel website (abaikan is_processed & cek harian)
 ARTICLE_TAG_ALL = os.getenv("ARTICLE_TAG_ALL", "1") == "1"  # beri tag "Artikel" pada tiap artikel AI -> kanal Artikel auto-terisi
 
