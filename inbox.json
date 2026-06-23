@@ -582,5 +582,44 @@
     "confidentiality_level": "internal",
     "created_at": "2026-06-23T11:51:13.686511+00:00",
     "is_processed": false
+  },
+  {
+    "output_id": "o2e72e1",
+    "agent_id": "Tools A Monitor",
+    "title": "B Swift Talks Estate Planning, Generational Wealth, and Family Legacy with Attorney Jennifer Naughton - Hot 100.9",
+    "summary": "B Swift Talks Estate Planning, Generational Wealth, and Family Legacy with Attorney Jennifer Naughton - Hot 100.9",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBjLW9Rc3ZlOEZ1REFqb0pnWDJiVUV2VF9oOFpzTmllc1NhOXV3YnlLUzktcnlhN3hHZG8zN2pnYWhkRi1abkRZaGFDX1RuQzlVNE5RdmZKaldidw?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-06-23T19:30:44.065226+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o2ea1e5",
+    "agent_id": "Tools A Monitor",
+    "title": "Inside Kevin Warsh's selection process for the next Atlanta Fed president",
+    "summary": "Perubahan kepemimpinan di bank sentral regional dapat mengindikasikan pergeseran dalam prioritas kebijakan moneter dan dampaknya terhadap pasar keuangan serta aset investasi.",
+    "raw_output": "",
+    "source_url": "https://www.cnbc.com/2026/06/23/fed-warsh-atlanta-michael-faulkender.html",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-06-23T19:30:56.101676+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o305ef5",
+    "agent_id": "Tools A Monitor",
+    "title": "DJP Lampung kedepankan pendekatan persuasif guna dorong kepatuhan WP - ANTARA News Lampung",
+    "summary": "DJP Lampung kedepankan pendekatan persuasif guna dorong kepatuhan WP - ANTARA News Lampung",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYVZ1bXMzaGlSeFM2WnFNOGxpcXBuc2RqbVJobzJxcTVPc1ZHakhQVlBaMHhxejFFWUZMYnE0c0J1U2VJTUZCX1R0RXFJRG9leTllSGV2MkdKTkVlX2dnTTJUbG52QWhwMHVyanpSRXdzUjJ4ZThGa3ZjUHMzVUEzSjg1eGZ5bm5YZmZBYTAyeFJ1aE15UWJlMF9rY2I0TGVEbk9qcHhxSngzMkJTTF9DcU8tYw?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-06-23T19:32:50.037835+00:00",
+    "is_processed": false
   }
 ]
