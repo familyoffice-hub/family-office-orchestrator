@@ -60,6 +60,13 @@ MAX_PER_RUN = int(os.getenv("MAX_PER_RUN", "1"))            # artikel per jalan 
 MAX_TOKENS = int(os.getenv("ARTICLE_MAX_TOKENS", "8192"))   # cukup untuk ~2.500 kata
 AI_PACING_SEC = float(os.getenv("AI_PACING_SEC", "8"))      # jeda antar panggilan AI
 AI_TEMPERATURE = float(os.getenv("AI_TEMPERATURE", "0.85")) # lebih "humanized"
+AI_ATTEMPTS = int(os.getenv("AI_ATTEMPTS", "3"))            # percobaan ulang per panggilan (turun dari 6)
+# Anggaran waktu TOTAL untuk semua kerja AI dalam 1 jalan (detik). Bila lewat,
+# AI dihentikan -> run selesai, tidak muter habiskan kuota.
+AI_BUDGET_SEC = float(os.getenv("AI_BUDGET_SEC", "240"))
+# Bila AI gagal berturut-turut sebanyak ini (kuota habis), STOP -> jangan coba
+# judul berikutnya (mencegah loop lewat ratusan judul saat 429).
+MAX_AI_FAILS = int(os.getenv("MAX_AI_FAILS", "2"))
 
 JAKARTA = timezone(timedelta(hours=7))
 _BLN_EN = ["Jan", "Feb", "Mar", "Apr", "May", "Jun",
@@ -126,8 +133,17 @@ def key_judul(judul):
 
 
 # ----------------------------- AI (Gemini) ----------------------------------
-def call_ai(system, user, max_tokens=MAX_TOKENS, attempts=6):
+def call_ai(system, user, max_tokens=MAX_TOKENS, attempts=None):
     if not AI_ENABLED:
+        return None
+    if attempts is None:
+        attempts = AI_ATTEMPTS
+    # Tenggat waktu global utk SEMUA panggilan AI dalam run ini.
+    now = time.monotonic()
+    if call_ai._deadline is None:
+        call_ai._deadline = now + AI_BUDGET_SEC
+    if now >= call_ai._deadline:
+        print("[i] Anggaran waktu AI habis -> lewati AI.")
         return None
     url = f"https://generativelanguage.googleapis.com/v1beta/models/{AI_MODEL}:generateContent"
     body = {"system_instruction": {"parts": [{"text": system}]},
@@ -135,6 +151,9 @@ def call_ai(system, user, max_tokens=MAX_TOKENS, attempts=6):
             "generationConfig": {"maxOutputTokens": max_tokens, "temperature": AI_TEMPERATURE,
                                  "thinkingConfig": {"thinkingBudget": 0}}}
     for attempt in range(attempts):
+        if time.monotonic() >= call_ai._deadline:
+            print("[i] Anggaran waktu AI habis di tengah proses -> berhenti coba.")
+            return None
         try:
             r = requests.post(url, headers={"x-goog-api-key": GEMINI_API_KEY,
                                             "Content-Type": "application/json"},
@@ -148,15 +167,22 @@ def call_ai(system, user, max_tokens=MAX_TOKENS, attempts=6):
                 return txt or None
             if r.status_code == 429:
                 w = 20 + attempt * 8
+                if time.monotonic() + w >= call_ai._deadline:
+                    print("[i] Gemini 429 & anggaran AI hampir habis -> stop.")
+                    return None
                 print(f"[i] Gemini 429, tunggu {w}s... ({attempt+1}/{attempts})")
                 time.sleep(w); continue
             if r.status_code in (500, 502, 503, 504):
                 w = 8 * (attempt + 1)
+                if time.monotonic() + w >= call_ai._deadline:
+                    print("[i] Gemini sibuk & anggaran AI hampir habis -> stop.")
+                    return None
                 print(f"[i] Gemini sibuk {r.status_code}, tunggu {w}s..."); time.sleep(w); continue
             print("[!] Gemini error", r.status_code, r.text[:200]); return None
         except Exception as e:
             print("[!] Gemini exception", e); time.sleep(6)
     return None
+call_ai._deadline = None
 
 
 def _clean_ai(text):
@@ -217,6 +243,7 @@ def build_entries(titles, sudah_terbit):
         return [], []
 
     entries, new_keys, seen = [], [], set()
+    fails = 0
     for idx, judul in enumerate(antri):
         if len(entries) >= MAX_PER_RUN:
             break
@@ -234,8 +261,14 @@ def build_entries(titles, sudah_terbit):
             body = call_ai(ARTICLE_SYSTEM, prompt)
             body = web_safe_html(body) if body else None
         if not body:
+            fails += 1
             print(f"[!] Lewati '{judul[:40]}...' (AI gagal/menonaktif).")
+            if fails >= MAX_AI_FAILS:
+                print(f"[i] AI gagal {fails}x beruntun (kemungkinan kuota habis) "
+                      f"-> berhenti, coba lagi jadwal berikutnya.")
+                break
             continue
+        fails = 0   # sukses -> reset hitungan gagal
 
         summ = re.sub(r"<[^>]+>", " ", body)
         summ = re.sub(r"\s+", " ", summ).strip()[:200]
