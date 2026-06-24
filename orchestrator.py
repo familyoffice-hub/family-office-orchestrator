@@ -14,11 +14,20 @@ tampil + label 🔒), agar data sensitif keluarga tidak bocor ke LLM.
 
 import os
 import re
+import sys
 import json
 import time
 import html
 import traceback
 from datetime import datetime, timezone, timedelta
+
+# Penting: di GitHub Actions stdout di-buffer (bukan terminal), sehingga log
+# tampak "diam/mentok" padahal skrip masih jalan. Paksa langsung-tampil:
+try:
+    sys.stdout.reconfigure(line_buffering=True)
+    sys.stderr.reconfigure(line_buffering=True)
+except Exception:
+    pass
 
 import requests
 try:
@@ -34,6 +43,11 @@ TELEGRAM_CHAT_IDS = [c.strip() for c in os.getenv("TELEGRAM_CHAT_IDS", "").split
 GEMINI_API_KEY = os.getenv("GEMINI_API_KEY", "").strip()
 AI_MODEL = os.getenv("AI_MODEL", "gemini-2.5-flash-lite")
 AI_ENABLED = bool(GEMINI_API_KEY)
+# Batas percobaan ulang per panggilan AI (sebelumnya 6 -> bikin lama saat kuota habis)
+AI_ATTEMPTS = int(os.getenv("AI_ATTEMPTS", "3"))
+# Anggaran waktu TOTAL untuk semua kerja AI dalam 1 run (detik).
+# Bila terlampaui, AI dilewati & pakai laporan fallback -> job tidak menggantung.
+AI_BUDGET_SEC = float(os.getenv("AI_BUDGET_SEC", "210"))
 
 INBOX_FILE = os.getenv("INBOX_FILE", "inbox.json")
 ARCHIVE_JSON = os.getenv("ARCHIVE_JSON", "report_archive.json")
@@ -128,8 +142,17 @@ def send_telegram(message):
 
 # ----------------------------- Gemini ---------------------------------------
 
-def call_ai(system, user, max_tokens=2000, attempts=6):
+def call_ai(system, user, max_tokens=2000, attempts=None):
     if not AI_ENABLED:
+        return None
+    if attempts is None:
+        attempts = AI_ATTEMPTS
+    # Pasang tenggat waktu global pada panggilan AI pertama dalam run ini.
+    now = time.monotonic()
+    if call_ai._deadline is None:
+        call_ai._deadline = now + AI_BUDGET_SEC
+    if now >= call_ai._deadline:
+        print("[i] Anggaran waktu AI habis -> lewati AI, pakai fallback.")
         return None
     url = f"https://generativelanguage.googleapis.com/v1beta/models/{AI_MODEL}:generateContent"
     body = {"system_instruction": {"parts": [{"text": system}]},
@@ -137,6 +160,9 @@ def call_ai(system, user, max_tokens=2000, attempts=6):
             "generationConfig": {"maxOutputTokens": max_tokens, "temperature": 0.5,
                                  "thinkingConfig": {"thinkingBudget": 0}}}
     for attempt in range(attempts):
+        if time.monotonic() >= call_ai._deadline:
+            print("[i] Anggaran waktu AI habis di tengah proses -> berhenti coba, pakai fallback.")
+            return None
         try:
             r = requests.post(url, headers={"x-goog-api-key": GEMINI_API_KEY,
                                             "Content-Type": "application/json"}, json=body, timeout=60)
@@ -148,13 +174,22 @@ def call_ai(system, user, max_tokens=2000, attempts=6):
                 return txt or None
             if r.status_code == 429:
                 w = 20 + attempt * 5     # makin lama makin sabar (20s,25s,30s,...)
+                # jangan tidur melewati tenggat -> hentikan saja & pakai fallback
+                if time.monotonic() + w >= call_ai._deadline:
+                    print("[i] Gemini 429 & anggaran AI hampir habis -> stop, pakai fallback.")
+                    return None
                 print(f"[i] Gemini 429, tunggu {w}s... (percobaan {attempt+1}/{attempts})"); time.sleep(w); continue
             if r.status_code in (500, 502, 503, 504):
-                w = 8 * (attempt + 1); print(f"[i] Gemini sibuk {r.status_code}, tunggu {w}s..."); time.sleep(w); continue
+                w = 8 * (attempt + 1)
+                if time.monotonic() + w >= call_ai._deadline:
+                    print("[i] Gemini sibuk & anggaran AI hampir habis -> stop, pakai fallback.")
+                    return None
+                print(f"[i] Gemini sibuk {r.status_code}, tunggu {w}s..."); time.sleep(w); continue
             print("[!] Gemini error", r.status_code, r.text[:200]); return None
         except Exception as e:
             print("[!] Gemini exception", e); time.sleep(5)
     return None
+call_ai._deadline = None
 
 # ----------------------------- Skor lokal -----------------------------------
 
