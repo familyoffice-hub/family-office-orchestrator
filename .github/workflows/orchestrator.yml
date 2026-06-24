@@ -27,7 +27,7 @@ jobs:
       - name: Install dependency
         run: pip install -r requirements.txt
 
-      - name: Jalankan orchestrator
+     - name: Jalankan orchestrator
         env:
           TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
           TELEGRAM_CHAT_IDS: ${{ secrets.TELEGRAM_CHAT_IDS }}
@@ -36,6 +36,7 @@ jobs:
           GH_PUSH_TOKEN: ${{ secrets.GH_PUSH_TOKEN }}
           SEED_DEMO: "0"
           FORCE: "0"
+          MAX_ARTICLES: "2"
         run: python orchestrator.py
 
       - name: Simpan inbox & arsip kembali ke repo
