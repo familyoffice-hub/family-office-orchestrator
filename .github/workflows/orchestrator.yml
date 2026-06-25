@@ -2,7 +2,7 @@ name: Family Office Orchestrator
 
 on:
   schedule:
-    - cron: "0 1 * * *"
+    - cron: "17 1 * * *"    # 08:17 WIB (digeser dari menit 00 agar tidak dilewati GitHub)
   workflow_dispatch:
 
 permissions:
