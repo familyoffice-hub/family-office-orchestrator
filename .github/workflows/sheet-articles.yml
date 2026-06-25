@@ -2,8 +2,8 @@ name: Sheet Articles (Google Sheet -> Artikel)
 
 on:
   schedule:
-    - cron: "0 4 * * *"    # 11:00 WIB
-    - cron: "0 9 * * *"    # 16:00 WIB
+    - cron: "23 4 * * *"    # 11:23 WIB (digeser dari menit 00 agar tidak dilewati GitHub)
+    - cron: "23 9 * * *"    # 16:23 WIB
   workflow_dispatch:
 
 permissions:
