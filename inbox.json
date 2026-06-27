@@ -1692,5 +1692,31 @@
     "confidentiality_level": "internal",
     "created_at": "2026-06-27T09:33:40.993644+00:00",
     "is_processed": false
+  },
+  {
+    "output_id": "o57effd",
+    "agent_id": "Tools A Monitor",
+    "title": "DJP Tunjuk 7 Pemungut Pajak Digital Baru Termasuk Strava - Tempo.co",
+    "summary": "DJP Tunjuk 7 Pemungut Pajak Digital Baru Termasuk Strava - Tempo.co",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbzlnUGwzRnRFbE9WYlpyNWc3RnN4OVQ3YkY4cEticHdsUjZXcWxZX2VuZ2Rib01QNzdQSmV1OHJOeFEzZ0ZyZlZOV2xvQzZLR0R0RkJPWTdnQzNWUU9TNW1aMmNudGx1allnM0pQekUwN2NzY3puSDNmYXM5X2h4Z1BwVFkwZFZYZFZRcVl3YnJhLXpmVmxaMg?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-06-27T15:56:03.069291+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o5803dc",
+    "agent_id": "Tools A Monitor",
+    "title": "Purbaya Bantah Restitusi Pajak Ditahan, Tuding Ada Permainan Oknum DJP - Rmol.id",
+    "summary": "Purbaya Bantah Restitusi Pajak Ditahan, Tuding Ada Permainan Oknum DJP - Rmol.id",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQamVDblQ2R1VnWWQ0ZzJ6dEtCOGtnanE5TTlQMnJnRXlEeXoyRHpmcFV3LXREYWY1X0JaVnJuWnZpMW5mZWtYV2N4Y1NUTVVsVmtZbTduNkpsbU80ZEZYTWhZc1N1WGxlNGNSLWR0cGliMUNWYVpLOG9TWnlIWUxtaUNZT0gwRmdral84UEp0N2xEZnl2azU1RGx3SEVYZ3YwUy1vcWFTbnhHZmpjdGliZ1Y3S1BxeEk?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-06-27T15:56:08.156300+00:00",
+    "is_processed": false
   }
 ]
