@@ -1844,5 +1844,31 @@
     "confidentiality_level": "internal",
     "created_at": "2026-06-28T10:26:31.288737+00:00",
     "is_processed": false
+  },
+  {
+    "output_id": "o4c6bcb",
+    "agent_id": "Tools A Monitor",
+    "title": "Pajak UMKM di Marketplace Segera Berlaku? DJP Tunggu Keputusan Menkue - Harianjogja.com",
+    "summary": "Pajak UMKM di Marketplace Segera Berlaku? DJP Tunggu Keputusan Menkue - Harianjogja.com",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVl9xek9kZ1poV2RtbEpfRG90NGN3Q2h2dndRZFprQkVfYThUbmExdTd5WkRFc1NpQWVTZ1dwUG95RDdESHI4ZFhsdmNGdDlfdDM0NmFJX0NxUlNsRzJzLTVYcXg1QndvQm40cDAwVlljLUphcTRFWHA5bGRTRUFRdU9FSEQ3LU4xMDZaZFF1a1phZFM3dHhyVkxIVlF0eXh4dGRlaTNkQzlOQnBH?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-06-28T16:43:28.331067+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o4e095f",
+    "agent_id": "Tools A Monitor",
+    "title": "DJP Pastikan Aturan Pajak Marketplace Tidak Berlaku untuk Ojol - Ikatan Konsultan Pajak Indonesia",
+    "summary": "DJP Pastikan Aturan Pajak Marketplace Tidak Berlaku untuk Ojol - Ikatan Konsultan Pajak Indonesia",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNbFhDcjktR3RXUnZENW9aX3cxT2dORXU0MVlab0w4Z0w2VlA2WlMwek9jb1dsU3dSOGNDQUhRdFNLNkNYV0s5b1JfNWs5engxODRoNU5pYlNpc2lZVmJhaDdON25wVjRfMVRxVEladjZZOXFpdFpEVGZ6bHN6b2xqY3FnZUhQTHBCSmc?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-06-28T16:45:14.207857+00:00",
+    "is_processed": false
   }
 ]
