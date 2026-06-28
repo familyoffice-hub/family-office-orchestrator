@@ -1870,5 +1870,31 @@
     "confidentiality_level": "internal",
     "created_at": "2026-06-28T16:45:14.207857+00:00",
     "is_processed": false
+  },
+  {
+    "output_id": "o3002dc",
+    "agent_id": "Tools A Monitor",
+    "title": "Eurojust Coordinates Global Crackdown on €600 Million Crypto Investment Fraud Network - TRM Labs",
+    "summary": "Eurojust Coordinates Global Crackdown on €600 Million Crypto Investment Fraud Network - TRM Labs",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQnNyT0xUdGM5QmZUOENkMzlCNHVPZFRMV2dJTGxWYmR1OGE3SVN5d2Z3dk9PemNoS1lnWVZROUJDQkl1SUxmell0cWRHUXl1a28zcXpweXNRR1V0eGw1eno0QURsSUpjbzNjTFRmRmNQbDNtbi1wTDVCb183Tkt1S1FDRXBQdC1KalhCUEFIT3RFRVl6LS10MEd6NHpJemM2ZXVrVDRqVmJyNEVyWW5pQjZ6Wndidmp0Xzg0V1A4ODdwOG8?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-06-28T21:45:46.460778+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o30166e",
+    "agent_id": "Tools A Monitor",
+    "title": "Penandatanganan Perjanjian Kerja Sama Optimalisasi Pemungutan Pajak Pusat dan Pajak Daerah Antara DJP - DJPK - PEMDA TAHUN 2021 :: Berita Cilegon - Berita Cilegon",
+    "summary": "Penandatanganan Perjanjian Kerja Sama Optimalisasi Pemungutan Pajak Pusat dan Pajak Daerah Antara DJP - DJPK - PEMDA TAHUN 2021 :: Berita Cilegon - Berita Cilegon",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQdENYMV84ZXl4MkNyN1JzemtMUEJvbk5WQWdtMzNXSVdrMm04SnlGcmlWdGlIc1M1T25kb2g4OXhkNTR3RzdScmswVTlwbmNWM1BOX0JXaEJ3SldvOVdEc1NkYUpKUVd0X1J2TjFXWVNicnJIUEdPLTRBTjVxakdqZ241Rkt0S0g4Uk9RMldHQnVGM3pDb1pQdEFWWHFwRlhvbHp4cm8tMzFQWGFPQVQ3d3RpTFdxUmRNSXRycTFKTDZwSy1qX1lBWWoxdVRyUWdlZDl2LUc4dDNsUTVIZ3loMXNkM3JJSFJVRGtnRDZaTzZ5dzFUakswQVVUdUFBdk01UkxyZERUbw?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-06-28T21:45:51.470138+00:00",
+    "is_processed": false
   }
 ]
