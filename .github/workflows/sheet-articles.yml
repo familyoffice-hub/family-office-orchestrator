@@ -2,7 +2,7 @@ name: Sheet Articles (Google Sheet -> Artikel)
 
 on:
   schedule:
-    - cron: "23 4 * * *"    # 11:23 WIB (digeser dari menit 00 agar tidak dilewati GitHub)
+    - cron: "23 4 * * *"    # 11:23 WIB (cadangan; pemicu utama via Apps Script)
     - cron: "23 9 * * *"    # 16:23 WIB
   workflow_dispatch:
 
@@ -19,6 +19,8 @@ jobs:
     steps:
       - name: Ambil kode
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Siapkan Python
         uses: actions/setup-python@v5
@@ -41,5 +43,11 @@ jobs:
           git config user.name "github-actions"
           git config user.email "actions@github.com"
           git add sheet_log.json || true
-          git commit -m "sheet: update catatan artikel" || echo "Tidak ada perubahan"
-          git push || echo "Tidak ada yang di-push"
+          git commit -m "sheet: update catatan artikel" || { echo "Tidak ada perubahan untuk disimpan"; exit 0; }
+          for i in 1 2 3 4 5; do
+            if git pull --rebase --autostash origin main && git push origin HEAD:main; then
+              echo "Push sukses (percobaan $i)"; exit 0
+            fi
+            echo "Push bentrok/gagal, ulang ($i)..."; sleep 4
+          done
+          echo "GAGAL push catatan setelah 5 percobaan"; exit 1
