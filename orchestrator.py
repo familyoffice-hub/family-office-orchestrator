@@ -280,12 +280,21 @@ def fallback_report(rows, tanggal):
     return "\n".join(out)
 
 def _clean_ai(text):
-    """Buang pembungkus ```html / ``` yang kadang ditambahkan AI."""
+    """Buang pembungkus ```html / ``` dan kerangka dokumen HTML (<style>,<head>,
+    <script>,<html>,<body>) yang kadang ditambahkan AI, agar brief tidak bocor CSS."""
     if not text:
         return text
     t = text.strip()
     t = re.sub(r"^```[a-zA-Z]*\s*", "", t)   # buka pagar di awal
     t = re.sub(r"\s*```$", "", t)            # tutup pagar di akhir
+    # buang blok yang isinya tak boleh muncul sebagai teks
+    t = re.sub(r"(?is)<\s*style[^>]*>.*?<\s*/\s*style\s*>", "", t)
+    t = re.sub(r"(?is)<\s*script[^>]*>.*?<\s*/\s*script\s*>", "", t)
+    t = re.sub(r"(?is)<\s*head[^>]*>.*?<\s*/\s*head\s*>", "", t)
+    # buang tag kerangka dokumen, sisakan isinya
+    t = re.sub(r"(?i)<\s*/?\s*(html|body)\b[^>]*>", "", t)
+    t = re.sub(r"(?i)<!\s*doctype[^>]*>", "", t)
+    t = re.sub(r"\n{3,}", "\n\n", t)
     return t.strip()
 
 def _tg_safe_html(text):
