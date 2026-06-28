@@ -2,7 +2,7 @@ name: Family Office Orchestrator
 
 on:
   schedule:
-    - cron: "17 1 * * *"    # 08:17 WIB (digeser dari menit 00 agar tidak dilewati GitHub)
+    - cron: "17 1 * * *"    # 08:17 WIB (cadangan; pemicu utama via Apps Script)
   workflow_dispatch:
 
 permissions:
@@ -18,6 +18,8 @@ jobs:
     steps:
       - name: Ambil kode
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Siapkan Python
         uses: actions/setup-python@v5
@@ -44,5 +46,11 @@ jobs:
           git config user.name "github-actions"
           git config user.email "actions@github.com"
           git add inbox.json report_archive.json archive/ || true
-          git commit -m "orchestrator: update state" || echo "Tidak ada perubahan"
-          git push || echo "Tidak ada yang di-push"
+          git commit -m "orchestrator: update state" || { echo "Tidak ada perubahan untuk disimpan"; exit 0; }
+          for i in 1 2 3 4 5; do
+            if git pull --rebase --autostash origin main && git push origin HEAD:main; then
+              echo "Push sukses (percobaan $i)"; exit 0
+            fi
+            echo "Push bentrok/gagal, ulang ($i)..."; sleep 4
+          done
+          echo "GAGAL push arsip setelah 5 percobaan"; exit 1
