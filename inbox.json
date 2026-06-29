@@ -2129,5 +2129,70 @@
     "confidentiality_level": "internal",
     "created_at": "2026-06-29T14:52:17.982868+00:00",
     "is_processed": false
+  },
+  {
+    "output_id": "o178cb2",
+    "agent_id": "Tools A Monitor",
+    "title": "OJK Malang: BI Rate naik picu naiknya suku bunga kredit - Elshinta",
+    "summary": "OJK Malang: BI Rate naik picu naiknya suku bunga kredit - Elshinta",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUkhKS2VyX3N6ZW9oQTY4UjVUT2VDVFJlMWREM0wyRVJBVlpzZmktSy0wT05neXMtMTVqdHlkZW9IZUNhS1B1Ukt3VUpUbFJ3djItR3RUblZkU3B6ZG5SQ0Ryb2lzTmpMQlB6S1l3aGZRbFhuWUU4ZEM2Q2h6Z2d3WVZGM3B5cnUxRzlZSTRKTm9xd2cyWmdzaHc1bk1mX3NqZW9N?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-06-29T22:19:03.346283+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o17a10e",
+    "agent_id": "Tools A Monitor",
+    "title": "Penandatanganan Perjanjian Kerja Sama Optimalisasi Pemungutan Pajak Pusat dan Pajak Daerah Antara DJP - DJPK - PEMDA TAHUN 2021 :: Berita Cilegon - Berita Cilegon",
+    "summary": "Penandatanganan Perjanjian Kerja Sama Optimalisasi Pemungutan Pajak Pusat dan Pajak Daerah Antara DJP - DJPK - PEMDA TAHUN 2021 :: Berita Cilegon - Berita Cilegon",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQVVByY3BDVXFTeHhPTVd0MmtFVnZETHN6a0FXVnd5N3NUWS0zSmJCRUdfTzBVRWNhODBEY0NPY3RaYnNYSWpwOTAtNE1uUUI2NE9xZVVSdjREaWJ5RVJGTjNOTmV4ZjlYaUVKTUNYVF9xREZwN24yZnhyU0cyWEZCMEJrRHJTM0ZPcEt4SzZFX0YybW42b3FHWC1PM21zRkwzaTI3NHFpaFZNaTBaTDAzaS0tSEt1Z3pVTERVaXRNLU94WjlsbzIwdGdJSHlLOFVGazdqOHhKM3Zrbk9NV1JkN3RRSWlJU1dZMHhRS0dYbl9BUTBMaDBQRWJxSWFqV3J6Um9WaVp2Yw?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-06-29T22:19:08.558658+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o17b4ef",
+    "agent_id": "Tools A Monitor",
+    "title": "IRS says Trump Account contributions will not trigger annual gift tax reporting requirements",
+    "summary": "IRS says Trump Account contributions will not trigger annual gift tax reporting requirements",
+    "raw_output": "",
+    "source_url": "https://www.cnbc.com/2026/06/29/irs-trump-account-contributions-will-not-trigger-gift-tax-reporting.html",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-06-29T22:19:13.647867+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o17d17e",
+    "agent_id": "Tools A Monitor",
+    "title": "UBS Makes Raft Of Asia-Pacific Senior Wealth Management Appointments - WealthBriefingAsia",
+    "summary": "UBS Makes Raft Of Asia-Pacific Senior Wealth Management Appointments - WealthBriefingAsia",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSFRtcEF3VHpQSmwyOXVkTlNDUFJtYnMtTFc2Q0IxakdsZ1RYcnpPVjVlZWtzZ3VBemNCTTZaRG1pMEVBTGRadzRTVDg0ajZvMW1HODgwRE83TVAyZzYyQVN4Z09ZSDloUU9tTDFYamRpWWFXR0VNN1l4TkVPUE1sOTItNGJrVE9mU1ZtQ3p1cjhOUGFuZVZOal9HSFVfd3J0d3ZieVR0NUV5UWRhYnFwZjFmenAwRVpPcGJn?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-06-29T22:19:20.958306+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o17e559",
+    "agent_id": "Tools A Monitor",
+    "title": "JPMorgan urges strong safeguards as congress weighs crypto market structure rules - CoinDesk",
+    "summary": "JPMorgan urges strong safeguards as congress weighs crypto market structure rules - CoinDesk",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNR1hQNFBsQjZVemlfNFVhUlZwcHBMUHlXbXF5Z2Jwdzh2WHZXeGFfcFpOVnBsYnA4NnAwTXdlYV9SOURJc0tmYnVmSURsd2Nma0VBVXEySGU1MEhiaGJXclRPdlI1eTBKZjhicDRRZFFSY2lhakFLaDZmMjlVaFBUWXl4c1l0Y2FaaGVxQW1uZTRxSXRDZVZGdnZxS1pEZVVCeUlEeWJWQ0NkMkR4WDczM3kydTQzSkhlNExwdzZBUkhXdHpNZVpHMm9R?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-06-29T22:19:26.041915+00:00",
+    "is_processed": false
   }
 ]
