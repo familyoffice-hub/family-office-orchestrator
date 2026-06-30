@@ -55,6 +55,10 @@ WEB_POSTS_PATH = os.getenv("WEB_POSTS_PATH", "posts.json")
 GH_PUSH_TOKEN = os.getenv("GH_PUSH_TOKEN", "").strip()
 
 LOG_FILE = os.getenv("SHEET_LOG_FILE", "sheet_log.json")    # catatan judul yang sudah terbit
+# Catatan anti-dobel disimpan DURABLE di repo (lewat GitHub API), supaya tetap
+# bertahan walau dijalankan di Railway (disk bersih tiap run). Default: repo Website.
+LOG_REPO = os.getenv("LOG_REPO", os.getenv("WEB_REPO", "")).strip()
+LOG_PATH_WEB = os.getenv("LOG_PATH_WEB", "sheet_log.json")
 MAX_POSTS = int(os.getenv("MAX_POSTS", "60"))               # batas total artikel di posts.json
 MAX_PER_RUN = int(os.getenv("MAX_PER_RUN", "1"))            # artikel per jalan (hemat kuota AI)
 MAX_TOKENS = int(os.getenv("ARTICLE_MAX_TOKENS", "8192"))   # cukup untuk ~2.500 kata
@@ -332,14 +336,89 @@ def publish_to_web(entries, attempts=4):
     print("[!] Gagal terbit setelah beberapa percobaan."); return False
 
 
+# -------------------- Anti-dobel durable (lewat GitHub API) -----------------
+def _gh_headers():
+    return {"Authorization": f"Bearer {GH_PUSH_TOKEN}",
+            "Accept": "application/vnd.github+json"}
+
+
+def load_log_durable():
+    """Ambil sheet_log.json dari repo (LOG_REPO) lewat GitHub API -> (list, sha).
+    Berguna di Railway yang disk-nya bersih tiap run."""
+    if not LOG_REPO or not GH_PUSH_TOKEN:
+        return [], None
+    url = f"https://api.github.com/repos/{LOG_REPO}/contents/{LOG_PATH_WEB}"
+    try:
+        r = requests.get(url, headers=_gh_headers(), timeout=20)
+        if r.status_code == 200:
+            d = r.json()
+            log = json.loads(base64.b64decode(d["content"]).decode("utf-8"))
+            return (log if isinstance(log, list) else []), d.get("sha")
+        return [], None
+    except Exception as e:
+        print("[!] Gagal ambil catatan durable:", e)
+        return [], None
+
+
+def save_log_durable(log, sha, attempts=4):
+    if not LOG_REPO or not GH_PUSH_TOKEN:
+        return
+    url = f"https://api.github.com/repos/{LOG_REPO}/contents/{LOG_PATH_WEB}"
+    for attempt in range(attempts):
+        b64 = base64.b64encode(json.dumps(log, ensure_ascii=False, indent=2).encode()).decode()
+        payload = {"message": f"sheet: update catatan artikel ({tanggal_posts()})", "content": b64}
+        if sha:
+            payload["sha"] = sha
+        try:
+            r = requests.put(url, headers=_gh_headers(), json=payload, timeout=25)
+            if r.status_code in (200, 201):
+                print(f"[i] Catatan durable diperbarui: {len(log)} judul.")
+                return
+            if r.status_code in (409, 422):
+                g = requests.get(url, headers=_gh_headers(), timeout=20)
+                sha = g.json().get("sha") if g.status_code == 200 else None
+                time.sleep(3); continue
+            print("[!] Gagal simpan catatan durable:", r.status_code, r.text[:120]); return
+        except Exception as e:
+            print("[!] Exception simpan catatan durable:", e); time.sleep(4)
+    print("[!] Gagal simpan catatan durable setelah beberapa percobaan.")
+
+
+def keys_from_posts():
+    """Turunkan kunci judul yang SUDAH terbit langsung dari posts.json
+    (artikel SEO ber-id 'sheet-<kunci>'). Membuat anti-dobel tetap jalan
+    walau catatan lokal hilang (mis. di Railway)."""
+    if not WEB_REPO or not GH_PUSH_TOKEN:
+        return set()
+    url = f"https://api.github.com/repos/{WEB_REPO}/contents/{WEB_POSTS_PATH}"
+    try:
+        r = requests.get(url, headers=_gh_headers(), timeout=20)
+        if r.status_code != 200:
+            return set()
+        posts = json.loads(base64.b64decode(r.json()["content"]).decode("utf-8"))
+        out = set()
+        for p in (posts if isinstance(posts, list) else []):
+            pid = str(p.get("id", ""))
+            if pid.startswith("sheet-"):
+                out.add(pid[len("sheet-"):])
+        return out
+    except Exception as e:
+        print("[!] Gagal turunkan kunci dari posts.json:", e)
+        return set()
+
+
 # ----------------------------- Main -----------------------------------------
 def main():
     print("=" * 60)
     print("SHEET ARTICLES |", datetime.now(JAKARTA).strftime("%Y-%m-%d %H:%M WIB"))
-    log = load_json(LOG_FILE, [])
-    if not isinstance(log, list):
-        log = []
-    sudah = set(log)
+
+    # Anti-dobel = gabungan: catatan lokal + catatan durable di repo + kunci dari posts.json.
+    log_local = load_json(LOG_FILE, [])
+    if not isinstance(log_local, list):
+        log_local = []
+    log_durable, log_sha = load_log_durable()
+    sudah = set(log_local) | set(log_durable) | keys_from_posts()
+    print(f"[i] {len(sudah)} judul tercatat sudah terbit (anti-dobel).")
 
     titles = read_titles()
     if not titles:
@@ -350,10 +429,10 @@ def main():
         print("Selesai (tidak ada artikel baru)."); return
 
     if publish_to_web(entries):
-        log.extend(new_keys)
-        log = list(dict.fromkeys(log))[-1000:]
-        save_json(LOG_FILE, log)
-        print(f"[i] Catatan diperbarui: {len(log)} judul tercatat.")
+        merged = list(dict.fromkeys(list(log_durable) + list(log_local) + new_keys))[-1000:]
+        save_json(LOG_FILE, merged)          # catatan lokal (berguna di GitHub Actions)
+        save_log_durable(merged, log_sha)    # catatan durable (berguna di Railway)
+        print(f"[i] Catatan diperbarui: {len(merged)} judul tercatat.")
     print("Selesai.")
 
 
