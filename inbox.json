@@ -3240,5 +3240,57 @@
     "confidentiality_level": "internal",
     "created_at": "2026-07-03T10:17:14.063901+00:00",
     "is_processed": false
+  },
+  {
+    "output_id": "o7d3501",
+    "agent_id": "Tools A Monitor",
+    "title": "As ACA enrollment falls by millions, Trump administration and policy gurus disagree on why",
+    "summary": "As ACA enrollment falls by millions, Trump administration and policy gurus disagree on why",
+    "raw_output": "",
+    "source_url": "https://www.cnbc.com/2026/07/03/aca-enrollment-enhanced-subsidies-lapse-fraud.html",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-07-03T17:03:25.569502+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o7d4936",
+    "agent_id": "Tools A Monitor",
+    "title": "Bank Indonesia Naikkan Suku Bunga Acuan Jadi 5,25% - Ikatan Konsultan Pajak Indonesia",
+    "summary": "Bank Indonesia Naikkan Suku Bunga Acuan Jadi 5,25% - Ikatan Konsultan Pajak Indonesia",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBsQ3hSVzZ1TG9neVZTeXZDbThvdkNZUlRUeHpkandfT2dwMHMyZ21aVmZMTzVsdXNySnJmUGJwU1FFazNGUDd5MWtfbmtRMGtCblo2dWdQcFZkbkN3YmVtelgwMV9wSWNDd0JtbGk1RjFpWFBNY2Vz?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-07-03T17:03:30.742554+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o7d5dc8",
+    "agent_id": "Tools A Monitor",
+    "title": "Manhattan luxury real estate sales hold firm despite fears of a 'Mamdani effect'",
+    "summary": "Manhattan luxury real estate sales hold firm despite fears of a 'Mamdani effect'",
+    "raw_output": "",
+    "source_url": "https://www.cnbc.com/2026/07/03/manhattan-luxury-real-estate-sales-mamdani.html",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-07-03T17:03:36.008516+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o7d7218",
+    "agent_id": "Tools A Monitor",
+    "title": "Scottsdale’s Susan Bailey and UBS’s Bailey Wealth Management have been recognized - yourvalley.net",
+    "summary": "Scottsdale’s Susan Bailey and UBS’s Bailey Wealth Management have been recognized - yourvalley.net",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQZ3FjdF9ua1N5VFdqTURqbTRTc0FRTzRfdHdoUzdidkxIX19HMmlIaURvcEFpc0FoQ09odVIzNUVvRFc0Nk1wY2R6S1ZnYWtPc1BaV21lUDhCaVZQcDcydzhERVVxX19VM3B3RFlTRjljMkZIZ1Nrb3NTVkoyQU55elZVUy1LR2ZWSlFZX3BtdmVSdUpNZ2xDdVNUeDlUdU0wTXFZOVk5TjdsQjcybGVMRmJDMGZIRkdDNkwxc3p3Z0tPR0FnVXlQUVNUYkZmRGdFa3RTMXgxODdZdDdB?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-07-03T17:03:41.208226+00:00",
+    "is_processed": false
   }
 ]
