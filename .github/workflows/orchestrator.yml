@@ -34,7 +34,12 @@ jobs:
           TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
           TELEGRAM_CHAT_IDS: ${{ secrets.TELEGRAM_CHAT_IDS }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-          WEB_REPO: ${{ secrets.WEB_REPO }}
+          # WEB_REPO sengaja DIKOSONGKAN sementara: Gemini mati -> artikel jadi
+          # "judul saja". Dengan WEB_REPO kosong, orchestrator TIDAK menerbitkan
+          # artikel ke website (build/publish otomatis dilewati), tapi brief
+          # Telegram dan commit arsip TETAP jalan normal.
+          # Untuk mengaktifkan lagi nanti: kembalikan ke ${{ secrets.WEB_REPO }}
+          WEB_REPO: ""
           GH_PUSH_TOKEN: ${{ secrets.GH_PUSH_TOKEN }}
           SEED_DEMO: "0"
           FORCE: "0"
