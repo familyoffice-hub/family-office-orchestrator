@@ -3109,7 +3109,8 @@
     "priority": "High",
     "confidentiality_level": "internal",
     "created_at": "2026-07-03T10:16:19.241502+00:00",
-    "is_processed": false
+    "is_processed": true,
+    "report_id": "r20260704"
   },
   {
     "output_id": "o39c000",
@@ -3122,7 +3123,8 @@
     "priority": "High",
     "confidentiality_level": "internal",
     "created_at": "2026-07-03T10:16:24.704812+00:00",
-    "is_processed": false
+    "is_processed": true,
+    "report_id": "r20260704"
   },
   {
     "output_id": "o39d53b",
@@ -3135,7 +3137,8 @@
     "priority": "High",
     "confidentiality_level": "internal",
     "created_at": "2026-07-03T10:16:30.139537+00:00",
-    "is_processed": false
+    "is_processed": true,
+    "report_id": "r20260704"
   },
   {
     "output_id": "o39ea8e",
@@ -3148,7 +3151,8 @@
     "priority": "High",
     "confidentiality_level": "internal",
     "created_at": "2026-07-03T10:16:35.598789+00:00",
-    "is_processed": false
+    "is_processed": true,
+    "report_id": "r20260704"
   },
   {
     "output_id": "o39ffe8",
@@ -3161,7 +3165,8 @@
     "priority": "High",
     "confidentiality_level": "internal",
     "created_at": "2026-07-03T10:16:41.064674+00:00",
-    "is_processed": false
+    "is_processed": true,
+    "report_id": "r20260704"
   },
   {
     "output_id": "o3a1552",
@@ -3174,7 +3179,8 @@
     "priority": "High",
     "confidentiality_level": "internal",
     "created_at": "2026-07-03T10:16:46.546191+00:00",
-    "is_processed": false
+    "is_processed": true,
+    "report_id": "r20260704"
   },
   {
     "output_id": "o3a2a96",
@@ -3187,7 +3193,8 @@
     "priority": "High",
     "confidentiality_level": "internal",
     "created_at": "2026-07-03T10:16:51.990128+00:00",
-    "is_processed": false
+    "is_processed": true,
+    "report_id": "r20260704"
   },
   {
     "output_id": "o3a3fe8",
@@ -3200,7 +3207,8 @@
     "priority": "High",
     "confidentiality_level": "internal",
     "created_at": "2026-07-03T10:16:57.448289+00:00",
-    "is_processed": false
+    "is_processed": true,
+    "report_id": "r20260704"
   },
   {
     "output_id": "o3a560b",
@@ -3213,7 +3221,8 @@
     "priority": "High",
     "confidentiality_level": "internal",
     "created_at": "2026-07-03T10:17:03.115415+00:00",
-    "is_processed": false
+    "is_processed": true,
+    "report_id": "r20260704"
   },
   {
     "output_id": "o3a6b76",
@@ -3226,7 +3235,8 @@
     "priority": "High",
     "confidentiality_level": "internal",
     "created_at": "2026-07-03T10:17:08.598592+00:00",
-    "is_processed": false
+    "is_processed": true,
+    "report_id": "r20260704"
   },
   {
     "output_id": "o3a80cf",
@@ -3239,7 +3249,8 @@
     "priority": "High",
     "confidentiality_level": "internal",
     "created_at": "2026-07-03T10:17:14.063901+00:00",
-    "is_processed": false
+    "is_processed": true,
+    "report_id": "r20260704"
   },
   {
     "output_id": "o7d3501",
@@ -3252,7 +3263,8 @@
     "priority": "High",
     "confidentiality_level": "internal",
     "created_at": "2026-07-03T17:03:25.569502+00:00",
-    "is_processed": false
+    "is_processed": true,
+    "report_id": "r20260704"
   },
   {
     "output_id": "o7d4936",
@@ -3265,7 +3277,8 @@
     "priority": "High",
     "confidentiality_level": "internal",
     "created_at": "2026-07-03T17:03:30.742554+00:00",
-    "is_processed": false
+    "is_processed": true,
+    "report_id": "r20260704"
   },
   {
     "output_id": "o7d5dc8",
@@ -3278,7 +3291,8 @@
     "priority": "High",
     "confidentiality_level": "internal",
     "created_at": "2026-07-03T17:03:36.008516+00:00",
-    "is_processed": false
+    "is_processed": true,
+    "report_id": "r20260704"
   },
   {
     "output_id": "o7d7218",
@@ -3291,7 +3305,8 @@
     "priority": "High",
     "confidentiality_level": "internal",
     "created_at": "2026-07-03T17:03:41.208226+00:00",
-    "is_processed": false
+    "is_processed": true,
+    "report_id": "r20260704"
   },
   {
     "output_id": "o5eabcb",
@@ -3304,7 +3319,8 @@
     "priority": "High",
     "confidentiality_level": "internal",
     "created_at": "2026-07-04T09:10:04.363168+00:00",
-    "is_processed": false
+    "is_processed": true,
+    "report_id": "r20260704"
   },
   {
     "output_id": "o5ec0d3",
@@ -3317,7 +3333,8 @@
     "priority": "High",
     "confidentiality_level": "internal",
     "created_at": "2026-07-04T09:10:09.747716+00:00",
-    "is_processed": false
+    "is_processed": true,
+    "report_id": "r20260704"
   },
   {
     "output_id": "o5ed614",
@@ -3330,7 +3347,8 @@
     "priority": "High",
     "confidentiality_level": "internal",
     "created_at": "2026-07-04T09:10:15.188891+00:00",
-    "is_processed": false
+    "is_processed": true,
+    "report_id": "r20260704"
   },
   {
     "output_id": "o5eeb5b",
@@ -3343,7 +3361,8 @@
     "priority": "High",
     "confidentiality_level": "internal",
     "created_at": "2026-07-04T09:10:20.635105+00:00",
-    "is_processed": false
+    "is_processed": true,
+    "report_id": "r20260704"
   },
   {
     "output_id": "o5f0065",
@@ -3356,7 +3375,8 @@
     "priority": "High",
     "confidentiality_level": "internal",
     "created_at": "2026-07-04T09:10:26.021126+00:00",
-    "is_processed": false
+    "is_processed": true,
+    "report_id": "r20260704"
   },
   {
     "output_id": "o5f15c7",
@@ -3369,6 +3389,7 @@
     "priority": "High",
     "confidentiality_level": "internal",
     "created_at": "2026-07-04T09:10:31.495336+00:00",
-    "is_processed": false
+    "is_processed": true,
+    "report_id": "r20260704"
   }
 ]
