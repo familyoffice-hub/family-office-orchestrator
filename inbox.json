@@ -3404,5 +3404,18 @@
     "confidentiality_level": "internal",
     "created_at": "2026-07-04T15:46:31.428746+00:00",
     "is_processed": false
+  },
+  {
+    "output_id": "o9536a0",
+    "agent_id": "Tools A Monitor",
+    "title": "DJP Manfaatkan Data Konsumsi Listrik untuk Cek Kewajaran Pajak - Ikatan Konsultan Pajak Indonesia",
+    "summary": "DJP Manfaatkan Data Konsumsi Listrik untuk Cek Kewajaran Pajak - Ikatan Konsultan Pajak Indonesia",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQWJ5V0Nsd09Wd0hneGZpYXJGMlZZWG1UT1FEcUhoOEpVam4zQlpiZlFNX01vN0FWcmRCUlRzWkM5R0VBTzZPY2xZTWlhYzl4NU1sUXVkVlFMVW13dlR4LXFsclZ0MFZKaDcwNUQydzhHMkdNeDRXUDlfTnZCeWlyVWwwdlZWQncwVGc?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-07-04T21:16:18.848899+00:00",
+    "is_processed": false
   }
 ]
