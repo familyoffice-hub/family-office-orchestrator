@@ -3391,5 +3391,18 @@
     "created_at": "2026-07-04T09:10:31.495336+00:00",
     "is_processed": true,
     "report_id": "r20260704"
+  },
+  {
+    "output_id": "o987504",
+    "agent_id": "Tools A Monitor",
+    "title": "Coretax DJP Terus Diperbaiki, Kemenkeu Janjikan Sistem Pajak Lebih Cepat dan Mudah Digunakan - Media Nikel Indonesia",
+    "summary": "Coretax DJP Terus Diperbaiki, Kemenkeu Janjikan Sistem Pajak Lebih Cepat dan Mudah Digunakan - Media Nikel Indonesia",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNU0h3T1gwUHpxalhJaDQ5d1lpbDJ6Qy16Z1FTbFhLbHQxbzBIdnQtRjU5ZUpvcjNKclUtS2xxM2liRGtILWZ1N1VBNlBaN3UzNUM4ZG52dGQ1Q2lnWHpTNjlFYm1nWldzR1E5YzQ1UmNiSl9QZ3FuR3VtZmxIZmtYQ0d3SHZtNk1DOXQ1ZUZfTklPTy1vTVdLdW5FY0E2akUwdmhXTnpJSEhQSHpwRHVOdFFETHJkNmlTcTFrTUxxTnY?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-07-04T15:46:31.428746+00:00",
+    "is_processed": false
   }
 ]
