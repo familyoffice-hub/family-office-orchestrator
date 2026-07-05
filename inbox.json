@@ -3545,5 +3545,44 @@
     "created_at": "2026-07-05T09:48:37.839348+00:00",
     "is_processed": true,
     "report_id": "r20260705"
+  },
+  {
+    "output_id": "o6a7f4d",
+    "agent_id": "Tools A Monitor",
+    "title": "Tak Cuma PPh 0,5%, Ternyata Ini Target Besar DJP dari Pungutan Pajak Marketplace - kontan.co.id",
+    "summary": "Tak Cuma PPh 0,5%, Ternyata Ini Target Besar DJP dari Pungutan Pajak Marketplace - kontan.co.id",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaEVBY1RrQkY4M19VNHlIQzY0dmkzZXdsQ3QzSU5pbktGZ0xuY1J3MkQ3VFdvNVVJU2tKRjYwSm1lNS1fWGpfU2lwUHBrR1ZRazkzdVppQzRJVmRGQnF0OEhWX2dPZ3FuWV9WR2RqLVAzcFB5bFhvOUowTFNCUk9TRHRKUnBDOFZfc0pkT21jX05xX2JzYjJNWFppMWR5QmpDWUdrWEQ1SmFPZkRwQVFVSF9B0gGrAUFVX3lxTE1lbndxS3JXckI4T3d0UEc4ZG5Ya2lPQm9qcnk0ZWdpUW50ZC1IWnFSZGlkV1h4V3FnTzk3R0NydTZSYzJ2b1NyWjQ2ZjdiLVRKOVpYMS00YVl6bENwQzRGTGdWUXZWNVJkYVB2QUZMSGQ3Z1ZqdVF5ODgyWlA1Z0s4N1FRakFxWDZCWmZSR01LaXYwVmhqRkFlWnZ4cjVXLTAxdDExenUyTk02dw?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-07-05T15:56:19.405796+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o6a94cd",
+    "agent_id": "Tools A Monitor",
+    "title": "Coretax DJP: Terobosan Reformasi Perpajakan atau Tantangan Menuju Pelayanan Pajak Digital yang Lebih Baik - Serangtimur.co.id",
+    "summary": "Coretax DJP: Terobosan Reformasi Perpajakan atau Tantangan Menuju Pelayanan Pajak Digital yang Lebih Baik - Serangtimur.co.id",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1EU3VZS0QzRmhnUjRreExlczYyRzFDZXJGMnF3bzJ4M05DTUx0WjJFU2NEdWlUTXRZalBpTHNMUEVKRVpoS1hCaTdxRHRqaTFnZWQyMGdzMG8ybUszQ1NnbDFhOWNlSFpiWVlwVHM2cTlITlEtdU9mbmp4Vm5iWGs?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-07-05T15:56:24.909413+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o6aaa2d",
+    "agent_id": "Tools A Monitor",
+    "title": "Strava Resmi Pungut PPN, DJP Tegaskan Hanya Berlaku Untuk Fitur Premium - Ikatan Konsultan Pajak Indonesia",
+    "summary": "Strava Resmi Pungut PPN, DJP Tegaskan Hanya Berlaku Untuk Fitur Premium - Ikatan Konsultan Pajak Indonesia",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSThFLTJFNVY2Qm9tNGpPQUZLeHFGY2tCeExBTW52UlNrQ2tNWTZVVjRvRDA1Y2FENldsMnR3bjI5em8zaW5YNnc3WG5FTFlGVENGMjdveno5dU5CNGNidTJ6WGVTb3dQWkViT1FFd3BxWU8zbkx6MDBCUlk3YVhzekNwRjBHbzgwYWFTU0NXcDV0dnhp?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-07-05T15:56:30.381070+00:00",
+    "is_processed": false
   }
 ]
