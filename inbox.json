@@ -3873,5 +3873,57 @@
     "confidentiality_level": "internal",
     "created_at": "2026-07-06T14:08:31.467619+00:00",
     "is_processed": false
+  },
+  {
+    "output_id": "o79414f",
+    "agent_id": "Tools A Monitor",
+    "title": "SEC Names Paul Knight as Chief Operating Officer",
+    "summary": "SEC Names Paul Knight as Chief Operating Officer",
+    "raw_output": "",
+    "source_url": "https://www.sec.gov/newsroom/press-releases/2026-62-sec-names-paul-knight-chief-operating-officer",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-07-06T22:45:46.575789+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o795662",
+    "agent_id": "Tools A Monitor",
+    "title": "Family Office Insights: An update on beneficial ownership reporting requirements under the Corporate Transparency Act - Squire Patton Boggs",
+    "summary": "Family Office Insights: An update on beneficial ownership reporting requirements under the Corporate Transparency Act - Squire Patton Boggs",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOc1dmY09qaFMyTGp5QU1rWWpYVGU5OHNFRVQ2eGFTV0N2MkZyaU8wNGRtN0JsMFVzem9odWZ4SzJqU1E4NkFsWmRCVGExY1NTaTJMQXhMcDNkVUpGVml1dVB3Ym1rNVFRTzc4N0F4eE9qS0pKTEFqQ2Z6VG5FV2QyejcxQkFHdTQ2MzFSR1RaU2VfbmtMZGkyNTlFMGdPT21oU2dSb1htbmRDR0tlcTdJTGRBNHdHTDRiM09GSi12SDB6bndGZXBOSW84bkdVYm01Z3c?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-07-06T22:45:51.970348+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o796a72",
+    "agent_id": "Tools A Monitor",
+    "title": "Regions Private Wealth Management Wins Two Global Private Banking Innovation Awards for Second Consecutive Year - Business Wire",
+    "summary": "Regions Private Wealth Management Wins Two Global Private Banking Innovation Awards for Second Consecutive Year - Business Wire",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQZHhwTE16MW9wTGNSUFFFY19peDVCS1NGbjdBaUtJelh5WjczcVBqRVotbGltOW1Qall2eFNzVGl0eUZQT0pjcEtYcmZ6cFZNRU5yNzVvalFzYkRySUJzR05hS1JPOUZoQkVLcUxucm5GRWlNaVlOcjRlYms3TkhDbXd2SWxmZ2NVczRuYVNoMXo3SjRwUl93TV9HVDN2dmxOUEd1ajFscjhHOTNKRnRTMENhMXBLMG8zY1ZDd0xTdnNYSF9nWHBVWWhYYVlGY2JBNU03bXpIZWVYck9jclA2cjhDTXhQOW1TOE5YQmJUMF8yWjZfNDlRZ2ttNkk?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-07-06T22:45:57.106933+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o797e7c",
+    "agent_id": "Tools A Monitor",
+    "title": "JPMorgan’s JLTXX tokenized money market fund surges 250% in a month to nearly $700M - Crypto Briefing",
+    "summary": "JPMorgan’s JLTXX tokenized money market fund surges 250% in a month to nearly $700M - Crypto Briefing",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPOTdBajcxZW1SanE4YmVPWmpFU0RFOVBsbm0wZVhFamxKOFF5aWpxcnZVNlF0UnN4R0JHcENPTEpyRTFnR2IxYmx1b0w3WEJlNHE2SnczXzFDeGMwYlVKUDBvc181MFEyd0M1Rm5OTEZCWTBnV3QxRWkzaXp4aVVGR09jU3B5Tjc4YnJCTWhETnVsMEE?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-07-06T22:46:02.236947+00:00",
+    "is_processed": false
   }
 ]
