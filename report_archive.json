@@ -158,5 +158,15 @@
     "sent_at": "2026-07-06T23:40:49.445706+00:00",
     "item_count": 26,
     "confidentiality_level": "internal"
+  },
+  {
+    "report_id": "r20260708",
+    "report_date": "2026-07-08",
+    "report_title": "Daily Brief 08 Jul 2026",
+    "delivery_channel": "telegram",
+    "delivery_status": "sent",
+    "sent_at": "2026-07-08T06:17:10.630078+00:00",
+    "item_count": 20,
+    "confidentiality_level": "internal"
   }
 ]
