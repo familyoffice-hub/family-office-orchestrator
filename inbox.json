@@ -4934,5 +4934,57 @@
     "confidentiality_level": "internal",
     "created_at": "2026-07-10T11:25:32.076857+00:00",
     "is_processed": false
+  },
+  {
+    "output_id": "o69957b",
+    "agent_id": "Tools A Monitor",
+    "title": "Penandatanganan Perjanjian Kerja Sama Optimalisasi Pemungutan Pajak Pusat dan Pajak Daerah Antara DJP - DJPK - PEMDA TAHUN 2021 :: Berita Cilegon - Berita Cilegon",
+    "summary": "Penandatanganan Perjanjian Kerja Sama Optimalisasi Pemungutan Pajak Pusat dan Pajak Daerah Antara DJP - DJPK - PEMDA TAHUN 2021 :: Berita Cilegon - Berita Cilegon",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOX2JxenczNHh0UUllS1JaeVB3QTZ1X2pQTVBGczh2T0JmNG1FVGVQdGZXbzlmYWNQQ25tcGJaSk9Jck9pNlhHYmhCd0xoNWxRRzlrcjJsOGNheTdpSy1kNHJpcEt5bW54ZVQ0bURMbTRiQ0REeVpOckYwbFRVQ1pGWkIteWdhTTVKQ3kxWFRncGp6Sml4R2lldjNDUDR5TnpFQWFNTC1Yc0E3aTVNX1hPNVZDQlJoa2xiQkN3RFVFQkxtR1VzcjdVRlgzcWV0RHc4clZRV1pwdElodjRWdlQxeFdxNWQ3MVBBQlBBb1dxcURNbTRyNDRvOFRTZHJvYTBaeU5DZ2Rtaw?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-07-10T18:08:39.547566+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o69a983",
+    "agent_id": "Tools A Monitor",
+    "title": "DJP Sebar 1,85 Juta Surel ke Penunggak Pajak, Nilainya Sentuh Rp 36 Triliun - SinPo.id",
+    "summary": "DJP Sebar 1,85 Juta Surel ke Penunggak Pajak, Nilainya Sentuh Rp 36 Triliun - SinPo.id",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOU1R2Z24zWGQ1YlozYXV2RjJyZUtFRlJGODB3cnpkMUpzZkQxSVlaM0Y0Z0IyN0JNeW9SLVhrYnNld2VwSmEzZGUxQVY1YUJ6Y0JNdGRNS3ZlNExObDd1ejRzTnozeDVSRjJEY20wVmpIMWNOclVOeG9yWjJhSVYxZUxCdExoNlB1cXBsM2V0dFM1QktQS2lYLXRiMTExMlFNLTVPaDlNVQ?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-07-10T18:08:44.675346+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o69bd70",
+    "agent_id": "Tools A Monitor",
+    "title": "SEC Office of Municipal Securities Updates FAQs for Registration of Municipal Advisors",
+    "summary": "SEC Office of Municipal Securities Updates FAQs for Registration of Municipal Advisors",
+    "raw_output": "",
+    "source_url": "https://www.sec.gov/newsroom/press-releases/2026-66-sec-office-municipal-securities-updates-faqs-registration-municipal-advisors",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-07-10T18:08:49.776856+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o69d15d",
+    "agent_id": "Tools A Monitor",
+    "title": "Stablecoin issuer Circle just got the greenlight to operate as a bank. The shares are up 5%",
+    "summary": "Stablecoin issuer Circle just got the greenlight to operate as a bank. The shares are up 5%",
+    "raw_output": "",
+    "source_url": "https://www.cnbc.com/2026/07/10/circle-gets-an-occ-bank-charter-as-stablecoin-competition-heats-up-shares-surge-14percent.html",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-07-10T18:08:54.877329+00:00",
+    "is_processed": false
   }
 ]
