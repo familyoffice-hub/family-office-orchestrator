@@ -5144,5 +5144,31 @@
     "confidentiality_level": "internal",
     "created_at": "2026-07-11T15:33:15.137418+00:00",
     "is_processed": false
+  },
+  {
+    "output_id": "o1cea70",
+    "agent_id": "Tools A Monitor",
+    "title": "Penandatanganan Perjanjian Kerja Sama Optimalisasi Pemungutan Pajak Pusat dan Pajak Daerah Antara DJP - DJPK - PEMDA TAHUN 2021 :: Berita Cilegon - Berita Cilegon",
+    "summary": "Penandatanganan Perjanjian Kerja Sama Optimalisasi Pemungutan Pajak Pusat dan Pajak Daerah Antara DJP - DJPK - PEMDA TAHUN 2021 :: Berita Cilegon - Berita Cilegon",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOeXlMTnFqbXhiRFBZRkNxa2tBdU5SZWdhLWhlU29EOUFkSHo5eWU2bGpDcnpNd3hFNXVhb2dzcHV2VEc4SHhwUXlDRjNHX0FlazhQdnRteERfQk4yYkcyUmdzR0dQdVVwcTMzbU9tNV9mS0dXRmYyaTdkYUx0S1RVVmhpRmtPalYxRUZjbkhWYWlhYXNDbFVSbEMtRFpabU5GQ0tvTFduWnhYdl9KUHd6MEVEaXdGanl1c3BUQnc3YlYxWXEzaEh6ZVptdlh3TVJyQW9feE03SlVlUVlhQ0tCSUpmNGdoM2ZfUkJMaXZLeVFFUkstMy1JTGNuTGtFUEFncDN1bHFxVQ?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-07-11T20:31:35.024109+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o1cffa5",
+    "agent_id": "Tools A Monitor",
+    "title": "SEC, CFTC Seek Public Comment on the Harmonization of Portfolio Margining Frameworks",
+    "summary": "SEC, CFTC Seek Public Comment on the Harmonization of Portfolio Margining Frameworks",
+    "raw_output": "",
+    "source_url": "https://www.sec.gov/newsroom/press-releases/2026-59-sec-cftc-seek-public-comment-harmonization-portfolio-margining-frameworks",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-07-11T20:31:40.453960+00:00",
+    "is_processed": false
   }
 ]
