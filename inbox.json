@@ -5183,5 +5183,31 @@
     "created_at": "2026-07-11T20:31:40.453960+00:00",
     "is_processed": true,
     "report_id": "r20260712"
+  },
+  {
+    "output_id": "o281836",
+    "agent_id": "Tools A Monitor",
+    "title": "DJP Sudah Kirim Surat ke 1,85 Juta Penunggak Pajak Senilai Rp 36 Triliun - kumparan.com - Kumparan",
+    "summary": "DJP Sudah Kirim Surat ke 1,85 Juta Penunggak Pajak Senilai Rp 36 Triliun - kumparan.com - Kumparan",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMmQwX1pNenJfbE5vdUxNbHlRVGNiOTFXV1l3OWNuMVRXZXN2cmJCVGVkOFlDbEJyeXgtb0g0TE82UUF3S0dFWDJWcHdCYjdBeWlWLTJqMFJBRWlHMFIwbTlZOUF5MzBfTVR0WmIyOFhFRkd3azc2eTZSd0VGR3JjaWZtbmdFTjdSMWotWWZIQUxhX0Y2SVkxYl9fNzZadWRCUjB2VW40TDgzUlRaNVhrY1E3R0psbVMzMXozZdIBxAFBVV95cUxQYU43UnRrbEt2RHZIeTcteU12YzNCa3ZyTW01TWZuOFBSYlkyZTJLMDR1V1lZTzZZTTNCaERkOHdQdUdTZlBicFBjQ3BQdkw3M1ZQWmRLSEc4WmNhdmdKN21UWkticHVsS0VxekptNFpaNTd0MHZmTERsVm5aamh0Rmp2eGFGb011bXh5UnNadU91c1ZCYXczZGlkcjFPTl9zeHJfTHRxUmJFSFFmckI2N3pXYUV4cWdvY2VHWDlyTzBNZjVE?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-07-12T07:50:27.638614+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o282c46",
+    "agent_id": "Tools A Monitor",
+    "title": "DJP Tebar 250 Ribu Surat Cinta ke Wajib Pajak, Ada Apa? - Ikatan Konsultan Pajak Indonesia",
+    "summary": "DJP Tebar 250 Ribu Surat Cinta ke Wajib Pajak, Ada Apa? - Ikatan Konsultan Pajak Indonesia",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9URmZ3T1Jodk1ybl9McWkydGhJa0ZfOVpsTVZrVW9Qa01sUTU2eWNnQlRxSHNISEFUQTNXb2wtSHI0SUNNT0l6bnFLdXk0TW5GWkxJU1JWVjNDX04xZ2lvSFpWa0VXRTYxRndnQlV6M2FrSUVjTk5feDAzV1MyZw?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-07-12T07:50:32.774947+00:00",
+    "is_processed": false
   }
 ]
