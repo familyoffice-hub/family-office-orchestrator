@@ -5943,5 +5943,83 @@
     "confidentiality_level": "internal",
     "created_at": "2026-07-14T16:47:50.062653+00:00",
     "is_processed": false
+  },
+  {
+    "output_id": "o49a89c",
+    "agent_id": "Tools A Monitor",
+    "title": "SEC Rescinds Policy Regarding Denials of Settlements in Enforcement Actions",
+    "summary": "SEC Rescinds Policy Regarding Denials of Settlements in Enforcement Actions",
+    "raw_output": "",
+    "source_url": "https://www.sec.gov/newsroom/press-releases/2026-45-sec-rescinds-policy-regarding-denials-settlements-enforcement-actions",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-07-14T21:33:47.292735+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o4a8105",
+    "agent_id": "Tools A Monitor",
+    "title": "DJP Catat Intensifikasi Pajak Tembus Rp74,8 T, Wajib Pajak Bertambah 143.449 - Kompas.tv",
+    "summary": "DJP Catat Intensifikasi Pajak Tembus Rp74,8 T, Wajib Pajak Bertambah 143.449 - Kompas.tv",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQemlOc2I3RWh3eklPODg1YUVRR3lWVS1aaVlxM2MxcmFTRlg2cmd4Mno5U1FIVUxmZk5qM0xsd0dSdm5hcm5RVzRBeUl1TVNxRTJyQjBEci1JT3g3ZWFnc1phTzVSVXZ0Q25MWmJBX2lTWDhtdm9aV3JnNk1YeEIxbWVrZVUwdV9kRnh6Q0pZMkdEbXlGbkVXSEF6VG9rNFhmM0E3ODk4dVNtZjNIS25WVG5n0gG3AUFVX3lxTFAyNWVZN1NHVVBndVo4T0o5NzNKR2t3LVhaSF9keldsem52NTFQLW9hQXJsWEJQUTk1Zm9QNFZjemRmRk5WS0lXcXEtRzd0MkJKRzloSTNYdGdiS2NTZmEteXF6dFBQMU5ad3JQOXFjcnVBdVpVcXprVHVQWlZQOTE5NTdFaktRSFlNblgtcjZpTmpWckFiMWVyQm8zMjNLSENJYmdCbnhCVTR6UVl4YmJ3eE81WkRnVQ?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-07-14T21:34:42.693759+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o4c1da4",
+    "agent_id": "Tools A Monitor",
+    "title": "Crypto giant Circle rebuffed efforts to help scam victims, police say - International Consortium of Investigative Journalists - ICIJ",
+    "summary": "Crypto giant Circle rebuffed efforts to help scam victims, police say - International Consortium of Investigative Journalists - ICIJ",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVUx6QllTaG1EdlFxM3NSNHdMNk5uemJ1TmhjcEdyaFE1clFPcGN1QzFxdWZPN1V5LVlMc1BrU3dId1c0dE5KNnoyQVVnbnIxdnZhYk1vdjUwTkc4RHdmZjVTV0ZlUVNHNVhBeWZMZjlVM3lZNklvU2JMdVAzamF1TVJGSUM1dUxVMk9kanoyM1A2TGZmaThKTUdEelJwdmlIeHZSTnlYczBXQklKMlV2UUtpV2RvV0VDZ3c?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-07-14T21:36:28.324227+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o4dba30",
+    "agent_id": "Tools A Monitor",
+    "title": "14 Crypto Scam Types (and How Blockchain Forensics Helps Detect and Disrupt Them) - TRM Labs",
+    "summary": "14 Crypto Scam Types (and How Blockchain Forensics Helps Detect and Disrupt Them) - TRM Labs",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNV0NfQ21VMXB3MFQ4M3RpNVVFMURNMWx5Vjg0QVNGcGY1WERHcE9nTzN6WHZuaEVtZ3lsWGw3czFCZWhORnBuZ25YQks1bHRjbDNvWk5pYks5Z2xTMUZpNWdFdndIVGhQQVZYRGduUkR4WVdzSEhBUFlFRWw0VUxvSnlLQVVneEl6LUhYY0lyY0hnR3NCeXJQNExPS1Y3dVJTQVZNZlhqbjY2TmxlaVhSemdpNDVhNFNqc3c?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-07-14T21:38:13.936312+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o4f56ed",
+    "agent_id": "Tools A Monitor",
+    "title": "Federal Reserve Board issues enforcement action with former employee of Manufacturers and Traders Trust Company",
+    "summary": "Federal Reserve Board issues enforcement action with former employee of Manufacturers and Traders Trust Company",
+    "raw_output": "",
+    "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260618a.htm",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-07-14T21:39:59.597670+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o4fcd63",
+    "agent_id": "Tools A Monitor",
+    "title": "OneSeven Partners with Miami University to Prepare the Next Generation of Wealth Management Advisors - AdvisorHub",
+    "summary": "OneSeven Partners with Miami University to Prepare the Next Generation of Wealth Management Advisors - AdvisorHub",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPNlNDZk5fakN2MUhmc1c3YXZLLVlqMVFQa2VUbkZRamdFTllkRFJuZl9nZFNRWHZ0TGdLV1hWcVRGSmQtTklXNU04d25lOW41QW84b01lZ29sckVGRzdvMExDVDg0QnFTWWZERXVMUHJzVXBEeDFlQXZrSUxmUXJldzdYR25MOG1yVDFkWW9FM3lGd3J1bG5uLUVfT1UyY2ZnaWZFTVFUbXVsMVd3SGozWm42OTV4NDNvcHJ0MG9INUhEWFRQUUx0cXdycnVlZnl4QXFrRA?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-07-14T21:40:29.923533+00:00",
+    "is_processed": false
   }
 ]
