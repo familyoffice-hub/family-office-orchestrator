@@ -7583,5 +7583,18 @@
     "confidentiality_level": "internal",
     "created_at": "2026-07-19T15:33:53.502399+00:00",
     "is_processed": false
+  },
+  {
+    "output_id": "o30045c",
+    "agent_id": "Tools A Monitor",
+    "title": "Pengawasan Pajak Makin Ketat, DJP Kini Libatkan Babinsa dan Polisi Desa - kontan.co.id",
+    "summary": "Pengawasan Pajak Makin Ketat, DJP Kini Libatkan Babinsa dan Polisi Desa - kontan.co.id",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVFJOWkcyT3BvZlVMaU04LThpcDNHcmFMZFhHWC11N3BGSm92djctamdUekZDV2NZVEFLa25xa0hZWVJJV1V6R09QWWJGb0dEdTh1aVBPLWF5MFE1cEpWaUVWeHYzQTlubUJuZ0FLQXREdW5OOGpIdGxhbmV0Q3IzR3NmN0l2V0ttOWVwbXN5NmZyc1BUelA4VVh5b2h6dXQxWGJ2QVBrLWnSAaIBQVVfeXFMT2xVMkFtUXg2TERTVnoxb0JOZUZYeWhBWVJFSU1yeG5pQXpRRHA0Q19WQnI3Vk1nTzlYemZuSnQ2NXNCdWFrV19oWXEwZ1NzMkw1NGxCdS1TQm5fVWMtVVN5Z3N1SG1ZVjhvblBITkNBMXpFWDF3Y0d2YzQtUFc2Uk9kWGhJdzJnV2Q4U0wtaXp0eW1pWWx1c2owd3NteHBEWVp3?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-07-19T20:32:26.844418+00:00",
+    "is_processed": false
   }
 ]
