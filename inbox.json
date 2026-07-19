@@ -7518,5 +7518,70 @@
     "confidentiality_level": "internal",
     "created_at": "2026-07-19T07:52:51.527285+00:00",
     "is_processed": false
+  },
+  {
+    "output_id": "o4f864b",
+    "agent_id": "Tools A Monitor",
+    "title": "IHSG Bersiap! BI, China hingga ECB Putuskan Suku Bunga Pekan Depan - CNBC Indonesia",
+    "summary": "IHSG Bersiap! BI, China hingga ECB Putuskan Suku Bunga Pekan Depan - CNBC Indonesia",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQOHBoZFo5WmQtQmZyU21BX2trM0dyd09XRHRBNm16SUtoM2YtcWc0ZHdrSUpzYk1tS0ZWLVJRU09ZbWN5ZGRBTk1veHFvRjZ1c25NLTNpMUg1d1RNckZrMU0zTWF6TWppTGlGYWJDZGtvMl9ydURuVkVGUExuVWFwZldac2Q3eWZFVjYwVERsOTc0QVJiamlaUm4xUHkwZ1Y0S2c3Nm9wMzNjejNGZGJxRzlMSkgxOVRtRGlsR3BUQVd5M2ZRekZLQw?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-07-19T15:33:31.723619+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o4f9b8e",
+    "agent_id": "Tools A Monitor",
+    "title": "Kemenkeu Libatkan Babinsa dalam Pengawasan Wajib Pajak - Tempo.co",
+    "summary": "Kemenkeu Libatkan Babinsa dalam Pengawasan Wajib Pajak - Tempo.co",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRGhYWkVjb1JtaUFPODhZTDk4aDB0RjI0ckwyTzJ5bDNlV0t1UlZ0dFltbXVtdjl2TXBWd0pxNkczcm1McmUzMFM3NmZYc0pWVnBjeFVuRUtfR2h2UkJoWGxmZFM5VGF0VVNJOUNSWjFiVnltWUdTMU1EYVlqQXVNdDNHNENRci05OEFPS3JtSVBldG1PVkE?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-07-19T15:33:37.166866+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o4fb0f1",
+    "agent_id": "Tools A Monitor",
+    "title": "DJP Perketat Pengawasan Pajak, Gunakan Web Scraping hingga Turun Langsung ke Lapangan - malang.disway.id - Disway Malang",
+    "summary": "DJP Perketat Pengawasan Pajak, Gunakan Web Scraping hingga Turun Langsung ke Lapangan - malang.disway.id - Disway Malang",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPU1pqNTVoMWFGbzY3WUtEUmFUckJNY3U0Q185aWRmM3hyb0ViVVpJN1NmUEZkRGxQdHNvNENVWTZrZ2dpblZ1OVdfNzQyaDd0VktIbmU2ZURGZ1ZKYUdGMjhXM2J0VEJRZlZ1NjNxMWFtVExHQkpvbFNQRzBfTVpsUXZBbVVzMWxsZG9BQTI3X2syTFJUMTVlY1p3d292N0Q2aFBtQ0lEeUxLeXN0N0pISkpTQ1FqVHczMnRZODBENWVJMVRicHRwUjEzU2xIWldTY3NB0gG7AUFVX3lxTE5SNVVzQ2ExVnh4ekhNX2ZlNDN4Zm11Q3lsdHFpMi1OYVRDcFRXbFBhdWV1Zm9Na3pfQ0NrNUlNSXdPSzJoMHVyQ0o2MEMtZExsc25oYUVaS01DWGlJeFh2OU80eG1jNVRHd3JOVFJlV1lzS1YzRGdJMXVTd25FVXZxNTd1cWNxd2tSUUR4bGxnN3FLMzdLSGtkbjBiX0ZLbzl3SjlHSWFaYjhNTFhJX2RJcU93QUxVSGJsbDg?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-07-19T15:33:42.641618+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o4fc61a",
+    "agent_id": "Tools A Monitor",
+    "title": "DJP Gandeng Babinsa Perkuat Pengawasan Pajak, Ini Catatan dari Ekonom - republika.co.id",
+    "summary": "DJP Gandeng Babinsa Perkuat Pengawasan Pajak, Ini Catatan dari Ekonom - republika.co.id",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSFIyS0h5U3pLWDNiWWNaMGxkNTlxUDlld0FzZkJfbVJiQ1BWQThXOXo1Si1RZXBrT3VVbjdfSmpLS25Wc2NnTlVyNVFwb1FNdzFDY0xHUktVRTcwTW5LZlZoQ0ltc016Wjh4aVV6UlNRQzFyN2ZwNnptM0lRMUhkd1Z1MG5ibTdwcmtEZ3psWHltaUZyNXhwLXE0R1BBVC1RM2c4OURlLUdQdjlKVVRCNFI4V3YxT1Vp?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-07-19T15:33:48.058057+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o4fdb5e",
+    "agent_id": "Tools A Monitor",
+    "title": "DJP Terbitkan Pedoman Baru Akses Informasi Keuangan - Ikatan Konsultan Pajak Indonesia",
+    "summary": "DJP Terbitkan Pedoman Baru Akses Informasi Keuangan - Ikatan Konsultan Pajak Indonesia",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBjcldacWpLT3BRWjhnOHAzU1Ruay00TWVlLWtRNE5ULVdqbjJvLW1tZnR5OU9CRmxDc05rbXZRNlhISGRleXBvT2RFSnRxRzdJM2VZWDF2b3BodURXTGhYdzJYMlZiQVlrX3ZvYlVWbDdvUVZkUGJadEpnaw?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-07-19T15:33:53.502399+00:00",
+    "is_processed": false
   }
 ]
