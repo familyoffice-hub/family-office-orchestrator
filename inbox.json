@@ -7848,5 +7848,31 @@
     "confidentiality_level": "internal",
     "created_at": "2026-07-20T17:10:10.608240+00:00",
     "is_processed": false
+  },
+  {
+    "output_id": "o435297",
+    "agent_id": "Tools A Monitor",
+    "title": "Viral Babinsa & Bhabinkamtibmas Ikut Buru Wajib Pajak, Ini Penjelasan Resmi DJP - KONTAN",
+    "summary": "Viral Babinsa & Bhabinkamtibmas Ikut Buru Wajib Pajak, Ini Penjelasan Resmi DJP - KONTAN",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOb0lLOERxekNubllRcWdlekhsUEZodGlTZTVmVGQxNXZLMWtPQmxSMnMzVEY0bHJnOEhoSEpjbXZaeTZIX1g2VmRVVkcwcjJ0THdPZTFCU01hMlJOMF8wSnAyOWxTV1VOWWoxOVZxN1cwR0wyeGZkMlBNVVBxcDVBVGlPRFJCWE42Smg3RlZLV3VWNVpRV3IxRlVGR0Nnem91Z1cwRnZia2lqVmlpMTIw?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-07-20T21:53:32.055203+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o436697",
+    "agent_id": "Tools A Monitor",
+    "title": "DJP Libatkan Babinsa dan Bhabinkamtibmas untuk Awasi Kepatuhan Wajib Pajak - Warta Ekonomi",
+    "summary": "DJP Libatkan Babinsa dan Bhabinkamtibmas untuk Awasi Kepatuhan Wajib Pajak - Warta Ekonomi",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSHhsSWlRQ0lORnVUV01OZjBlaHJSN2pSb3EyTXpmbVE1bFZvazBRRmdIeDVqeWdRaGg2QUc0SWxWS0pkTlloM3lDSmJ5T2RvQTA3dEc3NlFETFhNbUdiWUlyZzhGQlNJZnNqbmVsengyUVk0MkFNZmk5cU1HbkNCSkdXTXdwY1F0dzVRYlh5WHFEMG02dDNSekdOaF9mYi1TSG53N3dmeERob2RvYTRBa3B30gG3AUFVX3lxTE9fek40bnY5OFhSMVhmOWdVUWNwaUdjWHJGcTVpOVlSX2pmWnRhdEtaUHo1M2t2WDFEUGJ3WHE4SzhRTTMxQ3NWNVB3Q2I4SHJwUlUwbUZxal9KOGlBalVtSGZiMnY4dnFjSURkOUk1NmZYakNSYVZJXzRDbjA4eUNPQ25MYTlzVUxpb0ZzWTEzTzJJbHQxMlR5aTViYkdJWjFFOHVvOXhsU0VUa1NfZEQ4TDFyQU5tOA?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-07-20T21:53:37.175249+00:00",
+    "is_processed": false
   }
 ]
