@@ -8167,5 +8167,83 @@
     "confidentiality_level": "internal",
     "created_at": "2026-07-21T14:01:41.219259+00:00",
     "is_processed": false
+  },
+  {
+    "output_id": "o287533",
+    "agent_id": "Tools A Monitor",
+    "title": "$100M New Jersey deli fraudster James Patten sentenced to 21 months in prison",
+    "summary": "$100M New Jersey deli fraudster James Patten sentenced to 21 months in prison",
+    "raw_output": "",
+    "source_url": "https://www.cnbc.com/2026/07/21/new-jersey-deli-fraud-james-patten-sentenced.html",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-07-21T19:37:31.443262+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o288971",
+    "agent_id": "Tools A Monitor",
+    "title": "Bessent says U.S. could sanction China over AI model 'theft'",
+    "summary": "Bessent says U.S. could sanction China over AI model 'theft'",
+    "raw_output": "",
+    "source_url": "https://www.cnbc.com/2026/07/21/bessent-china-ai-sanctions.html",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-07-21T19:37:36.625392+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o2a25e0",
+    "agent_id": "Tools A Monitor",
+    "title": "DJP Kemenkeu: Babinsa Hanya Dukung Koordinasi agar Petugas Pajak Lapangan Berjalan Sesuai Prosedur - Iconomics",
+    "summary": "DJP Kemenkeu: Babinsa Hanya Dukung Koordinasi agar Petugas Pajak Lapangan Berjalan Sesuai Prosedur - Iconomics",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQdkpZREYtajU0eUpkdWl3VmxmVmNJUkpaR2ZVaXhzZHlmaGdzZG1ZX3B5OGNjUWdaU2lFVGRyX05sM3psbkRYQXh0MW4wamNFNWZkdDRxNTRyRDRvTFBpSzYwT19GQXFTSTY2S2czUnh2R3dnSFNUajJGRVVvZnRZdE9TSWYyNnpLdnYxSEJESDZWYVFZY29xZC1nR2dsem4xS2I4V0dtSHF1RVdnVXZINnpDRDZLQ0VzakViSlFjZkcwWC1PSDN1aWM1bkNESjg4WmktR3pQWTBUM1hD?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-07-21T19:39:22.208067+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o2bc296",
+    "agent_id": "Tools A Monitor",
+    "title": "IRS chief Frank Bisignano dismisses JPMorgan spying allegations",
+    "summary": "IRS chief Frank Bisignano dismisses JPMorgan spying allegations",
+    "raw_output": "",
+    "source_url": "https://www.cnbc.com/2026/07/21/irs-chief-frank-bisignano-laughs-off-jpmorgan-spying-allegations.html",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-07-21T19:41:07.862833+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o2d60fd",
+    "agent_id": "Tools A Monitor",
+    "title": "Market Optimism Builds Despite Inflation Concerns, Morgan Stanley Wealth Management Pulse Survey Finds - Business Wire",
+    "summary": "Market Optimism Builds Despite Inflation Concerns, Morgan Stanley Wealth Management Pulse Survey Finds - Business Wire",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNRE55cGVhcFp3Zi1aMHFKSTd1dUVWanlvYU9LX2lhNFZ5R2dCd2JaYU04VVdIZWd5cW84SUc0cVIzYld6YVI0Y3A5cWxSTzRZbDlnOTZpNEUyeUMta2N6ZDNvY2d6TUpDaVFwcG8tWVUxWk1ZVGdDUHMwNnhjVW8yRjRTRl95bEF1ZEl1bGkyY0ZnNVk2YWJDNzlfS0xwQ1M2NDNKazBwbDdDbDlrQ3Z6THlPSTIxb1FOUTJPbUZzcGxTS2VKV3U3bm1lcHg3NHlmVnJzSVlZd0lrd1pUQjhsWHZuV1FmVHlybllKZzhpSQ?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-07-21T19:42:53.949574+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o2efd52",
+    "agent_id": "Tools A Monitor",
+    "title": "Banks and Credit Unions Win Crypto Trust by Explaining It First - PYMNTS.com",
+    "summary": "Banks and Credit Unions Win Crypto Trust by Explaining It First - PYMNTS.com",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQmphYVkyMFVUcEkwOV9hdlZXRWdQcUNiNHpWel9WUHVaOEJGb1BLZXNjVjhmUk5NN1NoaDNfZ0JqY2RxZlhRaVl0RTF5NFdWLS1kdEhGZ19WMnZjVEk1NGNJeDVyNkkyVmE5aXljMTBHTGJKR2JSTWZWWURKdHdBYVRBVjhuN1FrS0ZfZWVpZ3JEMkE3Ynd0UjNVUHFsUQ?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-07-21T19:44:39.506798+00:00",
+    "is_processed": false
   }
 ]
