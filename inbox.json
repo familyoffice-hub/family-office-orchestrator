@@ -8873,5 +8873,70 @@
     "created_at": "2026-07-22T19:35:02.768874+00:00",
     "is_processed": true,
     "report_id": "r20260723"
+  },
+  {
+    "output_id": "o650b1c",
+    "agent_id": "Tools A Monitor",
+    "title": "Potensi IHSG menguat usai BI tahan suku bunga di 5,75% - IDNFinancials.com",
+    "summary": "Potensi IHSG menguat usai BI tahan suku bunga di 5,75% - IDNFinancials.com",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQzN6RWo4LTFubXgtbVZXc204dUVOb2M0Z0U3ZHgtZ3g3YXcxNThoT2hjRnhZbU1nT3RWci1mR3VwRzNhZEtRNmpzWmpiMjFmb2I0RG4yV2JvdG9iN2lTU3RQR1pMOUdUY0FRVnl2dlNmRmo2ZDFmdHJFLW9EVW9pQnNtRzdjdDYxRXBGZzU0cHhhX2V5bmx1eUY3ZFFfdw?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-07-23T03:17:01.980377+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o65834a",
+    "agent_id": "Tools A Monitor",
+    "title": "Podcast IKPI Bahas Aturan Baru Kuasa Wajib Pajak, DJP dan Praktisi Pajak Beri Penjelasan - Ikatan Konsultan Pajak Indonesia",
+    "summary": "Podcast IKPI Bahas Aturan Baru Kuasa Wajib Pajak, DJP dan Praktisi Pajak Beri Penjelasan - Ikatan Konsultan Pajak Indonesia",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOY1hxRXJudXVBYTdOWlNObHpSbzVkRGtsOGpNWWJDczAyZHViblk0M2Y2R1dsMEczeEYwa1p4TXdNZEdiMFllT3RVYlZjRlg1MjVEalpaNTdXZUxlOEs4elYzX2pqUl80alhTOXFwaHhPb2s2RFNHclhSUDlQU1ctcEhqcFhHdkR0cXNtck96bW4zOVVPak12ZWp2ZUdYSVM0M1c5WHhaVGN1cGVWM0NV?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-07-23T03:17:32.746401+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o6722d8",
+    "agent_id": "Tools A Monitor",
+    "title": "Penandatanganan Perjanjian Kerja Sama Optimalisasi Pemungutan Pajak Pusat dan Pajak Daerah Antara DJP - DJPK - PEMDA TAHUN 2021 :: Berita Cilegon - Berita Cilegon",
+    "summary": "Penandatanganan Perjanjian Kerja Sama Optimalisasi Pemungutan Pajak Pusat dan Pajak Daerah Antara DJP - DJPK - PEMDA TAHUN 2021 :: Berita Cilegon - Berita Cilegon",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNSzR4ck1NVE9RNHVMd3VmQTc5bmptcXJKLXp0OENyb3JaSUROMTUwd3FLRllrbmJFVmV4MDlYVThuNlhkN3NwNUZISERmZ1BRMVl4SE1WdWRlR0p0Ti1WSk8tVk9taVV6U3g5dFJqV0VBRzRzb2JUVTVkdHRFSEdCQzZVc2RneF9uYlU0VHFFZTB4NHFQb1J4R055Z0ktRXNnNnNpXzdrdkVZelBxTDJ6bm91dE16UGRTUldXS1h2MW5OTngzcTc2QVJPMjRkbmdISkRDT3NpOGNLNUppRUVUMkw5WTdKanBXN01VQnJ2c21VeF9xeUU5SWNvX1cwdzBWMzk0RGtROA?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-07-23T03:19:19.128188+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o68c20d",
+    "agent_id": "Tools A Monitor",
+    "title": "DPR Akan Panggil Kemenkeu, Pertanyakan Urgensi Pelibatan TNI-Polri dalam Pengawasan Pajak - Ikatan Konsultan Pajak Indonesia",
+    "summary": "DPR Akan Panggil Kemenkeu, Pertanyakan Urgensi Pelibatan TNI-Polri dalam Pengawasan Pajak - Ikatan Konsultan Pajak Indonesia",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbHdic0phLUl5QXF5UUpDWDhpbGR4Qy10X1c3TWlkblJnT2x3eDNQTkpxOVZyTVNKaXNQUkUwUk96eVlISEtrM1REandBanE2Q3FwZ05jWkozNG9OZ1Ayd1NmZ294T0NYblNkMFQ0MElPcnRJZldnbS1YSGpJemRqNk5RZm8wMUlSMkVJM1NjOWtFYzJZWDN3dWlmMVEtckV1eWtZTUJmMGJMTmds?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-07-23T03:21:05.421593+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o6a6106",
+    "agent_id": "Tools A Monitor",
+    "title": "Kala Bank Indonesia Dihadapkan Dua Pilihan untuk Jaga Rupiah - Kompas.com",
+    "summary": "Kala Bank Indonesia Dihadapkan Dua Pilihan untuk Jaga Rupiah - Kompas.com",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTW9fbW1leFB6aVJjU1drNzFFNWtDNFFILWpRRXJ3NVZ3SjU4T3AtV2RyZ1ZvSWdQSFdzejFQOERiSXhvYk14S0oyQ2k1cnp5MzRiMGh1enNrT0NGVlRMTm9OaWQ3VkN3U2hDYXJydjdnUWVHRGpqZlVDQ2xfRFF1QnFjQTdZbjMxUTBRajdLYlFXREZNMmlKUmYyX1NiR2lHNFNvNzUya3dCM2M1SU9aSg?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-07-23T03:22:51.654444+00:00",
+    "is_processed": false
   }
 ]
