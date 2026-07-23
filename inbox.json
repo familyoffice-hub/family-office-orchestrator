@@ -9094,5 +9094,83 @@
     "confidentiality_level": "internal",
     "created_at": "2026-07-23T08:37:22.799893+00:00",
     "is_processed": false
+  },
+  {
+    "output_id": "o584662",
+    "agent_id": "Tools A Monitor",
+    "title": "DJP: Penerimaan pajak NTT mencapai Rp1,14 triliun hingga Juni 2026 - ANTARA News Ntt",
+    "summary": "DJP: Penerimaan pajak NTT mencapai Rp1,14 triliun hingga Juni 2026 - ANTARA News Ntt",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVEhNbUktRm9nV3RTZzJwTzRVZ3VjTVVOYW5VVU5Nc1dsX3NnbDcyY0IyZTF4NnM0QkZMREllS20xVkF2TGVZdW9YNjIxTXp6NFJkZEZQQWRIUDFJRnY3TEdEeTNtVm1jRmxhYnJyRmliZHZtRi1POEdjRDY3M2pVWjF1VHQzZGZLOUVSY0t5blNNZmhFQWJTRVRpVVVzTG5RVzdWWkJvWGJORE5D?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-07-23T14:09:45.186982+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o585c17",
+    "agent_id": "Tools A Monitor",
+    "title": "IKPI Jakarta Pusat Hadiri Forum Dialog Perpajakan Kanwil DJP, Perkuat Sinergi dengan Pemangku Kepentingan - Ikatan Konsultan Pajak Indonesia",
+    "summary": "IKPI Jakarta Pusat Hadiri Forum Dialog Perpajakan Kanwil DJP, Perkuat Sinergi dengan Pemangku Kepentingan - Ikatan Konsultan Pajak Indonesia",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYUlWV1FfN1hPRzdyUHlVanM5U19zbXZGMGRHWDhxNW1fTHRnS0lrNG1aa2xTdlppamw3N05XVFprRVlPSWw4b2F6ZjVsUGZqNWY5S0JySnlTNVhITkozVXU3a1lYQVNlNHhWbFgwdHJDQ0kydU1aWUpYckpaaFdJbkVITHQ2Rmg3cGhlY1hkNVgxejBxWlR2ZW0wUC11bnVpTXNoSmVwWFJIeFE0UVNCN3paZ21JeUg2b2RMY19VbXd2dw?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-07-23T14:09:50.743571+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o587034",
+    "agent_id": "Tools A Monitor",
+    "title": "DJP Larang Wajib Pajak Rekam Penjelasan SP2DK via Video Conference - DDTCNews",
+    "summary": "DJP Larang Wajib Pajak Rekam Penjelasan SP2DK via Video Conference - DDTCNews",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPeWdmckt3WmJJaHVPSkNxdTFYYlNsZmVNNHNFNUFYLXhxSmlrcU1ud3MzY0I5bXlGbnNoeHNocG1UX3ZWN3hid3c3RVp0STIyb1FCR0w2Y2dET244UzBNSk9CaWFfQ0tIT256ZDAzMmdtdmtxU0RSSEtGc3l4TENMN2hwdWJlMExFTTNNS2hOXzdMaVZEaTl3T2FlcEoxM2ZXQlFleXRXZ01ZeW85SFQ5UHZMN28?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-07-23T14:09:55.892736+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o58844d",
+    "agent_id": "Tools A Monitor",
+    "title": "A tax break for preserving land has drawn IRS scrutiny. Here’s when it still makes sense",
+    "summary": "A tax break for preserving land has drawn IRS scrutiny. Here’s when it still makes sense",
+    "raw_output": "",
+    "source_url": "https://www.cnbc.com/2026/07/23/conservation-easements-tax-incentives-irs-crackdown.html",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-07-23T14:10:01.037656+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o58985c",
+    "agent_id": "Tools A Monitor",
+    "title": "Traders see September rate hike as European Central Bank mulls energy price spike",
+    "summary": "Traders see September rate hike as European Central Bank mulls energy price spike",
+    "raw_output": "",
+    "source_url": "https://www.cnbc.com/2026/07/23/interest-rate-hike-iran-european-central-bank.html",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-07-23T14:10:06.172875+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o58ac55",
+    "agent_id": "Tools A Monitor",
+    "title": "Chambers High Net Worth Guide Ranks Dykema’s Tax and Estate Planning Teams and Recognizes Three Individuals - Dykema",
+    "summary": "Chambers High Net Worth Guide Ranks Dykema’s Tax and Estate Planning Teams and Recognizes Three Individuals - Dykema",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQcHFLLUhMQkQ4YlhnNG83ZHdHcXcxdUVwQ2hQOVJJN3NhTTcyRTFTbEVVWmgzZ0NxeWp6TDVlaGRUcGdMZlJrcjExOEI5WFZycEVOSzdOdFVpZWd0M0tfZDdKSWNpRm9hcWJoYXFFa0lXNnExb3F3Vlc3cjR5THhNemZqNllXdTRVMEk2amY5OUZCajRQUlREYnJhXzZRcHVSQndBLU5CRFZjSXJVajZKNjRWUDVyMFhRc1cxMXV2VVlwS3hYWjRoNEJMbkNBRndoaHdoTmtTaERoTExkYUtfMnRESkVCa3ZP?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-07-23T14:10:11.285928+00:00",
+    "is_processed": false
   }
 ]
