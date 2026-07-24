@@ -9290,5 +9290,44 @@
     "confidentiality_level": "internal",
     "created_at": "2026-07-23T19:32:06.281054+00:00",
     "is_processed": false
+  },
+  {
+    "output_id": "o1a6d9d",
+    "agent_id": "Tools A Monitor",
+    "title": "OpenAI's Hugging Face hack triggers 'AI Kill Switch' bill in Congress",
+    "summary": "OpenAI's Hugging Face hack triggers 'AI Kill Switch' bill in Congress",
+    "raw_output": "",
+    "source_url": "https://www.cnbc.com/2026/07/23/open-ai-hugging-face-hack-kill-switch-bill-congress.html",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-07-24T02:55:31.997555+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o1ae459",
+    "agent_id": "Tools A Monitor",
+    "title": "IKPI Jakarta Pusat Siap Dukung DJP Perluas Sosialisasi Aturan Pajak agar Tak Timbulkan Salah Tafsir - Ikatan Konsultan Pajak Indonesia",
+    "summary": "IKPI Jakarta Pusat Siap Dukung DJP Perluas Sosialisasi Aturan Pajak agar Tak Timbulkan Salah Tafsir - Ikatan Konsultan Pajak Indonesia",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObUd1UndFQ0dDdjdrdzdQTXhhY2NEUndQUVBJVDZfeGgtLXJsbDZyVTJSTTNJa3hxMlYxQTlPMDRLZ1dRUm9TVkNNWkYtWXNYaFY2NGFyWVBHNDBTTmFzOU1vLXBGeVJQaDYtamJTWlFYc0NoZEFVcjdvZV9ubnVuMjNaVnE4Mk83TWt1eENOVVh6bTlWaDFNMEpEaTB2T2RucG5Tdl84cGxOVWhucjF3RGZ6RDQ3SnE4NHBj?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-07-24T02:56:02.393275+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o1c8184",
+    "agent_id": "Tools A Monitor",
+    "title": "IKPI Denpasar Perkuat Sinergi dengan DJP Bali Lewat Forum Konsultasi Publik - Ikatan Konsultan Pajak Indonesia",
+    "summary": "IKPI Denpasar Perkuat Sinergi dengan DJP Bali Lewat Forum Konsultasi Publik - Ikatan Konsultan Pajak Indonesia",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOT3U0NHJCUmVESVRXQmExdDhkSUNxNVhRbE1vZWpPbzNFNjlZSWhsRHFmdTBmQTU4MkdPWTJ6ZENuRFE2NjR4STBvQWdaV1Q4eFRRb3h0dkt5VHQ4UDZkdkkzb19IdHZDaXFNQ0xnSW45ejg3cDd4SXhPWkhxYkRud2NaWnZ5ZU5RQVU3Q0NUSnMyRTVnM0x6VUtkQQ?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-07-24T02:57:48.164182+00:00",
+    "is_processed": false
   }
 ]
