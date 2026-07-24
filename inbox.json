@@ -9511,5 +9511,44 @@
     "confidentiality_level": "internal",
     "created_at": "2026-07-24T13:52:58.210894+00:00",
     "is_processed": false
+  },
+  {
+    "output_id": "o19a2cc",
+    "agent_id": "Tools A Monitor",
+    "title": "Benarkah Insentif Bank Indonesia Lebih Ampuh Jaga Rupiah Ketimbang Naikkan BI Rate? - Kompas.com",
+    "summary": "Benarkah Insentif Bank Indonesia Lebih Ampuh Jaga Rupiah Ketimbang Naikkan BI Rate? - Kompas.com",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTUhEWXlZQnl2cFpabHNUQXIybll3dkNmc1lsaTZ5TWMyNzFBUGU3TnJKQ0xiR1ZrWFdXMHlGdEZ4QWkyVlNndGVvVkZLY0duazNYWmd3WExUWXROcG9JTGRDaFQzNngzRlJIb2I1UkwxQmluU1dqWndlMHIwS04zdkdvOGxjdk5zaWkwSUJvRGRTNkNEOFczLTdRcmNkMXVrR3c3SHBMV1ZNa1V0UEFaUmJ3LWpxTHJ0S0ZiVWtHdDgtR0I1aEMw?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-07-24T19:34:40.076796+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o19b881",
+    "agent_id": "Tools A Monitor",
+    "title": "Begini Mekanisme Pengawasan Otomatis DJP melalui Coretax - Ortax",
+    "summary": "Begini Mekanisme Pengawasan Otomatis DJP melalui Coretax - Ortax",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBBT2tMb2V0RVotLTdiSktiV0xKeGVfZ3dWd05xTW45ejBfWHRUN0hnN1RLbTl3UjNabVZaemE5UEo2RVR2RjhqRGhUMVkyOTBxMEF3Ull1ZURkUm5ObkdOOUlBemU4OUVIbVlUTTJHN1ZibnVhNVE1SDRqWXZVLUE?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-07-24T19:34:45.633697+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o19cdd1",
+    "agent_id": "Tools A Monitor",
+    "title": "Perkuat Sinergi dan Transparansi Layanan Perpajakan, Kantor Wilayah DJP Jawa Barat III Gelar Forum Konsultasi Publik - Direktorat Jenderal Pajak",
+    "summary": "Perkuat Sinergi dan Transparansi Layanan Perpajakan, Kantor Wilayah DJP Jawa Barat III Gelar Forum Konsultasi Publik - Direktorat Jenderal Pajak",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcXNQNFZLcExOcTVWbDRnaTVEZlFUN2pTMVJzNnZVRDZTT25QSzFSNzZPUGhZbldYdXhYZ3B0MVFiSGM1MzUtdzFndDA2T1pIdVNkSE1vTWdEOGFIeGFIaGhPQVdpVnlKM1lXNVI1RVJ1UEhpV0NBRTJWLXRIN3dEYlR5M251ZWpQRkl3d2ZfdzFzamxhRGZ6akl6a25nOFFsbVN3LUt3MFdkWHgzTWJrMkpBWlRfaE1IdkFmWWJKd25LUE0?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-07-24T19:34:51.089951+00:00",
+    "is_processed": false
   }
 ]
