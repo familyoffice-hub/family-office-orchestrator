@@ -9598,5 +9598,18 @@
     "confidentiality_level": "internal",
     "created_at": "2026-07-25T02:56:34.921685+00:00",
     "is_processed": false
+  },
+  {
+    "output_id": "o6c1e0a",
+    "agent_id": "Tools A Monitor",
+    "title": "Bank Indonesia Tahan Suku Bunga: Apa Artinya Bagi Cicilan, Bisnis, dan Rupiah Kita ? - Radar Tarakan",
+    "summary": "Bank Indonesia Tahan Suku Bunga: Apa Artinya Bagi Cicilan, Bisnis, dan Rupiah Kita ? - Radar Tarakan",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQN3RXanNSSS1NSWNvWUdrUnVoU2hCdmJTSXI4WWdWSHFXLUphMWVPX0ZqZ2ZGNDN4YjRyNV9mUG05ODR6YUI5NXM0TjV2MU1RcHNPWDVLUFhWeFl6Q2tSUGtHOXpZZ01mUU1ITVBJR055UUxHOFBzMTM3NU9kazBMSXJLb2FlYUtwRV9Rc2VMQk5xUVo2RktLb29YOHhQOGpheVhuSUF0b1R3VURZT05LZHFZVDBQektmRjA4SGlfVVhROWZUM19UcGEzZ2QxSkFz0gHQAUFVX3lxTFA3dFdqc1JJLU1JY29ZR2tSdWhTaEJ2YlNJcjhZZ1ZIcVctSmExZU9fRmpnZkY0M3hiNHI1X2ZQbTk4NHphQjk1czRONXYxTVFwc09YNUtQWFZ4WXpDa1JQa0c5ellnTWZRTUhNUElHTnlRTEc4UHMxMzc1T2RrMExJcktvYWVhS3BFX1FzZUxCTnFRWjZGS0tvb1g4eFA4amF5WG5JQXRvVHdVRFlPTktkcVlUMFB6S2ZGMDhIaV9VWFE5ZlQzX1RwYTNnZDFKQXM?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-07-25T08:11:25.578273+00:00",
+    "is_processed": false
   }
 ]
