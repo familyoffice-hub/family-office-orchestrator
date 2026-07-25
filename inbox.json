@@ -9572,5 +9572,31 @@
     "created_at": "2026-07-24T19:34:51.089951+00:00",
     "is_processed": true,
     "report_id": "r20260725"
+  },
+  {
+    "output_id": "o7bcecd",
+    "agent_id": "Tools A Monitor",
+    "title": "DJP Sumbar: Pajak marketplace tidak menyasar pedagang berskala kecil - ANTARA News Sumbar",
+    "summary": "DJP Sumbar: Pajak marketplace tidak menyasar pedagang berskala kecil - ANTARA News Sumbar",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTVd5eGE4V0pSN3pUMzFkNVU1UkFELXhaZUhjV1FnSmNBWWg4Y0tjNDFiM2VZRHBaQ1RCU3Y1LTBGSC1KazJTcEhfU1piMEpPSFdubi1iYjZUbXNULU5tbDVwdGt6clkxUnNBckxYUkpmUTlCUlZiUGg2RVNiNkdBdWU2amdBTTlja09qUkxlWVJfeVFTdVVmYUt5QmE2c3F1WWxmcGN5RlFJdnJsVWRSQg?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-07-25T02:55:13.869181+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o7d0b69",
+    "agent_id": "Tools A Monitor",
+    "title": "SE Baru, DJP Bisa Masukkan HWI ke Daftar Permintaan Informasi Keuangan - DDTCNews",
+    "summary": "SE Baru, DJP Bisa Masukkan HWI ke Daftar Permintaan Informasi Keuangan - DDTCNews",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZld5NGNfM1dKNUd2VmtvVDBHX3FaYUp1Nk1ybHYzR2pxRUJhLVlpd1FPYVhyQlI3Qy1CbzFNLTlKXzhiQnNkd3c2OEJKLU81dnk0NUEtbkJvb3pUaWFtcXpjOFUyTmxJRlZjOV9FcDVXQ3piVW5sZF9EZURsZzZNeGphWFQteWdIcGFTa2JJVUtBdlVCa0NOa294dG1wMTNmbGZVRWMwVnVhMG9WaTBfaVZ0ck5NaFo0?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-07-25T02:56:34.921685+00:00",
+    "is_processed": false
   }
 ]
