@@ -9611,5 +9611,44 @@
     "confidentiality_level": "internal",
     "created_at": "2026-07-25T08:11:25.578273+00:00",
     "is_processed": false
+  },
+  {
+    "output_id": "o69df2e",
+    "agent_id": "Tools A Monitor",
+    "title": "DJP Klarifikasi SE-8 PJ 2026: Sinergi Aparat Desa Murni Edukasi dan Pelindungan Wajib Pajak - beritanasionalupdate.com",
+    "summary": "DJP Klarifikasi SE-8 PJ 2026: Sinergi Aparat Desa Murni Edukasi dan Pelindungan Wajib Pajak - beritanasionalupdate.com",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxORmYxS1ZKckh2OTB5bUIwb2hycDdCakduN0R3TnJ4TDh6aXVHSFNLakZpa2VjUm0xcnVvRENuS1ZzMUlfMmlmZEptMWg0SEFtTzhnWk1WRmNoNzJDUDcwajdBUlJqa08xRjZ6X0FZXzlBVXlOY0pSb0g1dUg2dlNhVGVVRUhTTC1FSk9sVjJlS1lVU3RmOFEwNVE3RHhWOFRNZ1BiQ01BUlM4YlhUYUZLN2VoVHJDYTlIc0ZNbVhLZExCR0E5bkpRY3Jza3p3S25KdFQwMHZaYWx6dw?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-07-25T13:42:18.414470+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o69f3f4",
+    "agent_id": "Tools A Monitor",
+    "title": "Buffett favors an estate tax, but like virtually all billionaires, he won't be paying it",
+    "summary": "Buffett favors an estate tax, but like virtually all billionaires, he won't be paying it",
+    "raw_output": "",
+    "source_url": "https://www.cnbc.com/2026/07/25/buffett-favors-an-estate-tax-but-like-virtually-all-billionaires-he-wont-be-paying-it.html",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-07-25T13:42:23.732758+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o6a08ab",
+    "agent_id": "Tools A Monitor",
+    "title": "Bank Indonesia Menahan Suku Bunga Acuan 5,75 Persen - Tempo.co",
+    "summary": "Bank Indonesia Menahan Suku Bunga Acuan 5,75 Persen - Tempo.co",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbkJMU05jdXZzeEs2M1ZJamtaU1Y0SFo0Rld6Z2hnUkdBcVQ5SGV0NGF1bk85dnM0WTlhbUpKWUNvOFdJdGpyeWFRN2JwN3RERG12aUw4cEFoX2NlNF9OSE5Vc2ZBTzcwbXF4S0pBbDFkM2pXbHJSWUxEV0Ixb09Ub2ZmWl9TOGJ1T045LWwyYmJmdw?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-07-25T13:42:29.035106+00:00",
+    "is_processed": false
   }
 ]
