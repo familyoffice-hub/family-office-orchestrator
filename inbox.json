@@ -9773,5 +9773,57 @@
     "confidentiality_level": "internal",
     "created_at": "2026-07-26T13:37:30.701659+00:00",
     "is_processed": false
+  },
+  {
+    "output_id": "o34345d",
+    "agent_id": "Tools A Monitor",
+    "title": "Suku Bunga Tinggi dan Likuiditas Ketat, OJK Buka Peluang Revisi Rencana Bisnis Bank - Kompas.com",
+    "summary": "Suku Bunga Tinggi dan Likuiditas Ketat, OJK Buka Peluang Revisi Rencana Bisnis Bank - Kompas.com",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObDdiTDVkd0h1QWpIRGxMVV80a2lGalNYVkI5NDlZaTBnRnQ4NjdCUFV4OXZLdXc2M0NDYTF6QktwODdNSGJzWXlJQzlZZWxmdVZ6T2w1U0NCUUdlNTNpTlIyaEF2MTdiaW0tQUd1VDdMS0dUdURzUG0wYkJETW1PYXdEV3Z6dTZ1TWdkd3pkdkJHT0hPdDlzYU5BVFFfSkpRNldlVjZIRGx4bmZSS1pFVTY5UndHV3daY21va253NThCVnVIMWJz?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-07-26T19:17:01.277388+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o3448f3",
+    "agent_id": "Tools A Monitor",
+    "title": "DJP Gandeng 165 Wajib Pajak Kelas Kakap demi Kejar Target Pajak 2026 - Ikatan Konsultan Pajak Indonesia",
+    "summary": "DJP Gandeng 165 Wajib Pajak Kelas Kakap demi Kejar Target Pajak 2026 - Ikatan Konsultan Pajak Indonesia",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPR0YzcFpQbzJxVl95aVVKQ2dOUXdsbE1DQXFpMUxIWm9LZzBYYTlUQTR4MTM0SFptRXVjc0E3UWhJeFpBOTdVZXBDVzJkX0V4YnhFQUZRQ1JHVmlLMmVFeTFtUnNtbUpjWXNBdXh2RkNoN1Z1enQ5cEQ2MTNSX01LZ05rNE44RTE1RDZBeHpqbVI4QQ?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-07-26T19:17:06.547868+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o345d5b",
+    "agent_id": "Tools A Monitor",
+    "title": "Vaudy Starworld Sebut Jalan Sehat IKPI Jadi Momentum Perkuat Kemitraan Organisasi dengan DJP - Ikatan Konsultan Pajak Indonesia",
+    "summary": "Vaudy Starworld Sebut Jalan Sehat IKPI Jadi Momentum Perkuat Kemitraan Organisasi dengan DJP - Ikatan Konsultan Pajak Indonesia",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaEdvVy1KRWtCdEpEVUNCamdNb2xCZnlkU2c4RDFGczkzQjNGTW9aTXF0ZFRhUjQ1ZldiWDY3Q3FtYXotSGJGOG1IS2ZTN0lXZ0FLVEFLMDM3UjNpa0JUMGdXLUZ0T1JIOTdxZ0JaVmZpXy1MZGYtVjZFcUxKWFhFWmtiM2NwTTBGQktNbzhWX1AySzEyUE8xdWtZMlg5cmFFV0tnUy04cGNPaTJJMTJVeEdB?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-07-26T19:17:11.771788+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o3471c3",
+    "agent_id": "Tools A Monitor",
+    "title": "For Gen X investors, dotcom bubble haunts stock market portfolios closing in on retirement",
+    "summary": "For Gen X investors, dotcom bubble haunts stock market portfolios closing in on retirement",
+    "raw_output": "",
+    "source_url": "https://www.cnbc.com/2026/07/26/gen-x-investors-dotcom-bubble-retirement-portfolio.html",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-07-26T19:17:16.995071+00:00",
+    "is_processed": false
   }
 ]
