@@ -9682,5 +9682,31 @@
     "confidentiality_level": "internal",
     "created_at": "2026-07-26T03:21:28.104655+00:00",
     "is_processed": false
+  },
+  {
+    "output_id": "o47b2f1",
+    "agent_id": "Tools A Monitor",
+    "title": "Lima Jenis Surat Imbauan DJP kepada Wajib Pajak - DDTCNews",
+    "summary": "Lima Jenis Surat Imbauan DJP kepada Wajib Pajak - DDTCNews",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNm5BZmczYm5scU5Jb185Vy1qZnVRNkZXSHVDTnBvX25qR1NHLTdtRGtOSFdPR3YxNWs3QU8xZmNWN0FhYVAwbmxEM2ZjMWhRNGdlMEpCVkxpVVdiMm1vb3NfRGExTUNlaUY5TVNhZFA0Tk1qZnRQWUN2TDhZWl9LdjNFRlBwY1BpY3BjT0ZELWFObE00LUl0VTVwQW1ZTEN5dVE?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-07-26T08:31:38.865959+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o47c783",
+    "agent_id": "Tools A Monitor",
+    "title": "Kejar Target Pajak 2026, DJP Gandeng 165 Wajib Pajak Kelas Kakap - kontan.co.id",
+    "summary": "Kejar Target Pajak 2026, DJP Gandeng 165 Wajib Pajak Kelas Kakap - kontan.co.id",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUDBBWXNpY3FnN2RUSTZ5Z2U5RUVoUWlNZFlhS28yaVNvdUdhbF9BUWtlWnkySW85dTFyU3dNN2pBYjdyY1Z6SnphUEN6c29ZOVVLZU1CWkZ3Nl9veXBNYU84eklEZW1Jc0E5MnFUd1ozQ1NBNGJBc3NSTERKTVVQdkVvQ3cyaTVMRmIwNzFoTW1SdmhHZlRRX2dnT2RuWWvSAZgBQVVfeXFMTUJMR0Rza0R4V1NDQi1XVzdmREZwQ2V4VXpfMndhbjUxenFkSngwblFIeGtIVzhOa1ozTUhzeHR6Vm5WSVJhdHhmYTRHZlZ1VDBxdTkzT0huQTRIOE9wT1NyYWk1VmRIR0EtM1hCOEpIUktoUWtiRVNfYkhTSEJhY3JucHdETE9fNUttV3c0YnI3bG9jVzVyXzk?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-07-26T08:31:44.131156+00:00",
+    "is_processed": false
   }
 ]
