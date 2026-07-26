@@ -9656,5 +9656,31 @@
     "created_at": "2026-07-25T13:42:29.035106+00:00",
     "is_processed": true,
     "report_id": "r20260726"
+  },
+  {
+    "output_id": "o5cd034",
+    "agent_id": "Tools A Monitor",
+    "title": "Polri Pastikan Bhabinkamtibmas Tak Tagih Pajak, Tapi Bakal Lakukan Ini Bersama DJP - Warta Ekonomi",
+    "summary": "Polri Pastikan Bhabinkamtibmas Tak Tagih Pajak, Tapi Bakal Lakukan Ini Bersama DJP - Warta Ekonomi",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUHlIN3N6SXhpeW9JcHlfSzd3ZHNiZzBHanN0bHVvMExnRDN6NVVYaERrRVU5Qk1iT1UycUVGT1Jpalk1Wkp0XzJocWo0RmRBdWJIcHZ3aUhKaGFQVEpEbE9iVWIyY1dfZnAySER6TWdRa0ZJb2wtdGxzQzMxX2V5YUhLdFo3QVF3R2VQZ3JBNVlFSDZuRXQ2T3R4MGdLeXFZX1ZzTy1VRFo2YWlxVXREb25CZXpKTndDWHRF0gHAAUFVX3lxTE95TDFwV3ozZUhuY2FPUXpnbjh4b0hSQVc4UU05T3ZiZS1IeW9fUXVPR0YzWG1NUHZ1bVNUNlMwaU03UE5YcGRtdDVKM0FtYVdjTTk1U1liWVpMcVhiTEdRU1RKYkk2MkN1Nl9rSjczT0tvSUMyal8yenZhS1M4UEhWWnlaYjNyaGg5MHZ0RGJTSXRWeUtHZ3ZQWlU5c0lGN3BxRVcwTUdXeUhlcDlyRjd4Ump4VE9xcWtSbWZ0akpQcg?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-07-26T03:21:22.612354+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o5ce5a8",
+    "agent_id": "Tools A Monitor",
+    "title": "Hari Pajak 2026: Perluas Basis Pajak, DJP Gelar Dialog dengan Berbagai Kalangan - Direktorat Jenderal Pajak",
+    "summary": "Hari Pajak 2026: Perluas Basis Pajak, DJP Gelar Dialog dengan Berbagai Kalangan - Direktorat Jenderal Pajak",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNEE1aWFHWlJGcW1BTTVJOW52VjEyTXFMOFRjbGI2VmRWaVhLeGgzUEZPUFdvU2NOM0VhME9aRHdDeFI5azV3RVR3bTI5aFFZS1kycWJEdnhFZkdibW1Oa2syY2VFLVZ2UE84UGxzRmtCclFpeUg4TTVna1ZOencyYmhDZ3BjNFVVV0lkRTUzYVk2R3dXbE1yNEpzZDRFdmRfU201dkFiRjVPaTRfZ3dsYg?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-07-26T03:21:28.104655+00:00",
+    "is_processed": false
   }
 ]
