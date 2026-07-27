@@ -10006,5 +10006,18 @@
     "confidentiality_level": "internal",
     "created_at": "2026-07-27T14:44:13.682210+00:00",
     "is_processed": false
+  },
+  {
+    "output_id": "o123d88",
+    "agent_id": "Tools A Monitor",
+    "title": "Molabecirovic promoted at Florida Trust Wealth Management - Priority Marketing",
+    "summary": "Molabecirovic promoted at Florida Trust Wealth Management - Priority Marketing",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVG5pVWlVa21rTXJsdXVmUnp6a2lXeXQ0V29tZ3RDQ0FKcW91SnVoaW9LaXhQS1FqMkFQWGxrOFJFVTdJRzZBRlU0R1p0dUlNOFRuNWt2QWZSVi1HZl9uM1dZQ2NDQmEzYkl1dGNFWHdvSXRCRTVUMFV4SHRrOXE2SDlaam4zVS1VMWM4MnhQM2lEQQ?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-07-27T19:39:55.400022+00:00",
+    "is_processed": false
   }
 ]
