@@ -9837,5 +9837,70 @@
     "created_at": "2026-07-26T19:17:16.995071+00:00",
     "is_processed": true,
     "report_id": "r20260727"
+  },
+  {
+    "output_id": "o2ee243",
+    "agent_id": "Tools A Monitor",
+    "title": "Apa Dampak Perry Warjiyo Mundur? Rupiah, IHSG, dan Suku Bunga Jadi Sorotan - mediata.id",
+    "summary": "Apa Dampak Perry Warjiyo Mundur? Rupiah, IHSG, dan Suku Bunga Jadi Sorotan - mediata.id",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5mY2ZHUTJJS01wY0o0aEpXQ0g4SzMxQ05ia2FxZU9CMEdKVEU1bGhmTTdjb0pnVEV4VDdFUGNQMGw1RkpxR0h5ZlNtV21VU0FmQ2NoLTZjY2ZfQTV2ajdRWk1rbWE1QQ?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-07-27T03:31:12.579488+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o2ef650",
+    "agent_id": "Tools A Monitor",
+    "title": "IKPI Kepri Tegaskan Pentingnya Perkuat Sinergi dengan DJP Perkuat Pemahaman Regulasi Pajak - Ikatan Konsultan Pajak Indonesia",
+    "summary": "IKPI Kepri Tegaskan Pentingnya Perkuat Sinergi dengan DJP Perkuat Pemahaman Regulasi Pajak - Ikatan Konsultan Pajak Indonesia",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRzFWNThTVk1wbDBmaUpTbDJoczVWVGdXQ2Y1U3AyX20tNm5uSTVBTEk5cS1ULXQ1alhvckpVNlF2YTJZVjNvMGlsTkpmWlBKTG9QU245STEzSjM1eGI3ejhUclZzaV9Ic2dMSHZ3SFRNNEhJVXlqcjlVNmx3Sy1tRXZVWW1DNndsUnZrUk5wRmNlY3VTZlpfWnB4SlRjWGNLaWtHLTRRTnFEOFdNQm5j?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-07-27T03:31:17.712071+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o2f0a6e",
+    "agent_id": "Tools A Monitor",
+    "title": "Singapore tightens monetary policy as rising oil prices rekindle inflation risk",
+    "summary": "Singapore tightens monetary policy as rising oil prices rekindle inflation risk",
+    "raw_output": "",
+    "source_url": "https://www.cnbc.com/2026/07/27/singapore-mas-july-monetary-policy-middle-east-oil-prices-inflation-.html",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-07-27T03:31:22.862237+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o2f1e57",
+    "agent_id": "Tools A Monitor",
+    "title": "BREAKING: Perry Warjiyo Mundur dari Bank Indonesia! Pasar Bersiap Hadapi Babak Baru, Rupiah hingga IHSG Terancam Bergejolak - pasardana.id",
+    "summary": "BREAKING: Perry Warjiyo Mundur dari Bank Indonesia! Pasar Bersiap Hadapi Babak Baru, Rupiah hingga IHSG Terancam Bergejolak - pasardana.id",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNbWRlcWpHQUJvNnVMWU82b3hjWkRIck05MFotV3hxNXhOY0VRNEZGdEdCOUtqSU9BbGhLQnZqUjhfLU8xWkxqY3lNUnZWOXk1akc0ZVFUc2lRVGZheW94X3p1Z0VqWE52cGNmNnlEQTVNVDVRbzhaUDl1VTBGWjl3OXRVanlJOWZ6cXAwYnRPcVlFUjlfMHhOMDN6YzZCN1AwNFZNeEVlRDlxa01DODMweGhOUDhXQWYwRkE3dHpjdGpEcmw2b2t2SjlJRGYxVC1fNE0zMjhFejczOE5wcDVNUlpkTDhyLTc0aG1pcA?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-07-27T03:31:27.959918+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o2f327a",
+    "agent_id": "Tools A Monitor",
+    "title": "Bank Indonesia Tahan Suku Bunga: Apa Artinya Bagi Cicilan, Bisnis, dan Rupiah Kita ? - Radar Tarakan",
+    "summary": "Bank Indonesia Tahan Suku Bunga: Apa Artinya Bagi Cicilan, Bisnis, dan Rupiah Kita ? - Radar Tarakan",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRFJseENNeC0yS2F1SndZbUpIdjU1ZWNKSkZ4TGNDbXFpbWRxRHJQemp4QTdiUkxtdy1IeVdpSFd4cDJsYlZMNEFxaGEzbGw4MllDMDBZZEpfR2tBU3ZIUm14VERQRTZYbk1Za25sRW1NZkNzNUlMQU1YU1h3QzdDZnN4cGkwMmtRZ2kwNU9pT2t0V2tWWC1kdGFCSlFTY01QdXN5dkh0c0g1RHJsU25Ba1ZuVGQ2RnNpRk9mVkR1TkhuTzlMLUl6Z2E2YmfSAdABQVVfeXFMUDd0V2pzUkktTUljb1lHa1J1aFNoQnZiU0lyOFlnVkhxVy1KYTFlT19GamdmRjQzeGI0cjVfZlBtOTg0emFCOTVzNE41djFNUXBzT1g1S1BYVnhZekNrUlBrRzl6WWdNZlFNSE1QSUdOeVFMRzhQczEzNzVPZGswTElyS29hZWFLcEVfUXNlTEJOcVFaNkZLS29vWDh4UDhqYXlYbklBdG9Ud1VEWU9OS2RxWVQwUHpLZkYwOEhpX1VYUTlmVDNfVHBhM2dkMUpBcw?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-07-27T03:31:33.114166+00:00",
+    "is_processed": false
   }
 ]
