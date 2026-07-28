@@ -10307,5 +10307,31 @@
     "confidentiality_level": "internal",
     "created_at": "2026-07-28T14:17:39.233528+00:00",
     "is_processed": false
+  },
+  {
+    "output_id": "o720974",
+    "agent_id": "Tools A Monitor",
+    "title": "Kadispenad Tegaskan Babinsa Tak Periksa Pajak, Hanya Koordinasi Informasi dengan DJP - PontianakPost",
+    "summary": "Kadispenad Tegaskan Babinsa Tak Periksa Pajak, Hanya Koordinasi Informasi dengan DJP - PontianakPost",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOd1BodTl6TnRSb0F0akhCWU8taWZFbjFYMkdmWkx4aXdXSzV2cWppMEh6c1NDVjg1YXRtd3hnMk9zWUtkNkFudTZvNjBYeXRNdE42WE40WGFHT3dxQk1yMDBxZHJjajJsSFM3UDRGWHI2ZHItTGhZd0d6MEV5T0h0X2oxQjZyalR2TGR2UEdSSjBrbHRvRHFsVlBuLW1rZmVEaUNpVjdCdUtBcFJMaWdlOXVDY0x6MU1hWTB3ZGhNUk1SeFhPQ2JmT2VrWjB0ZzlWVGfSAdcBQVVfeXFMT1hwVWlSVU9uMXk1d1ZZOHZFUG1HcEptSmVybXRhdmMwRnphdnE5blRLNm5RWDJONWRDY2p4ZWttaFMxR1RKQXJJNDBIWUpyNkxvWjhaU0g2cThOY2w2QWJtaE5LMVJwSTh4X1hHWU5ybzQ3NWZmTHRPSjRKWEQ2aDJ0U19HREF6TVV3emo1Mk1xbV9CZUFsMG13ZENtTHJ3ejFzVkJDRVhEZWVWcW9oLXlHTGMyT1ZiZmhWclM4b2hSYVk1d2JDQ1FxeU5WYzIzZXYwZllqVWc?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-07-28T19:37:53.524444+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o721e6a",
+    "agent_id": "Tools A Monitor",
+    "title": "DJP Bali Kumpulkan Rp 8,46 Triliun Pajak, Capai 34,83% Target Tahunan - Ikatan Konsultan Pajak Indonesia",
+    "summary": "DJP Bali Kumpulkan Rp 8,46 Triliun Pajak, Capai 34,83% Target Tahunan - Ikatan Konsultan Pajak Indonesia",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPd2pxZ1Q4NU5yNTBJRVdkYmhYV2swdWw4T2FGZlhPUDVqMWpoLVJ3U2dmZjRUOWRqVGZnMHJ1bkI4ZWtYWXowWU9Zamg2SkQ5TDlVYm9WU3ptaGZxTUxvZzdJc0FXOEVrMjBsZ1VaRW1KNWxOc0d5dDNPSGxNR0Y1SW00Q0g3Rm1ubjRkYzJR?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-07-28T19:37:58.890100+00:00",
+    "is_processed": false
   }
 ]
