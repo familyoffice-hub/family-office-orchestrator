@@ -10642,5 +10642,83 @@
     "confidentiality_level": "internal",
     "created_at": "2026-07-29T14:20:13.560178+00:00",
     "is_processed": false
+  },
+  {
+    "output_id": "o2ca244",
+    "agent_id": "Tools A Monitor",
+    "title": "SEC Forms New Retail Fraud Working Group",
+    "summary": "SEC Forms New Retail Fraud Working Group",
+    "raw_output": "",
+    "source_url": "https://www.sec.gov/newsroom/press-releases/2026-63-sec-forms-new-retail-fraud-working-group",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-07-29T19:22:05.124476+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o2d7cd5",
+    "agent_id": "Tools A Monitor",
+    "title": "Federal Reserve Board requests comment on a proposal to amend its requirements for banks to maintain anti-money laundering programs",
+    "summary": "Federal Reserve Board requests comment on a proposal to amend its requirements for banks to maintain anti-money laundering programs",
+    "raw_output": "",
+    "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260707a.htm",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-07-29T19:23:01.077384+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o2df548",
+    "agent_id": "Tools A Monitor",
+    "title": "Eurojust Arrests 5 in €100M Cryptocurrency Investment Fraud Spanning 23 Countries - thehackernews.com",
+    "summary": "Eurojust Arrests 5 in €100M Cryptocurrency Investment Fraud Spanning 23 Countries - thehackernews.com",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8ySktpTG5hQ2NHbUdFVnpnZVBJeW93RnA0eC1ZSlNXcHR6Z2U5Z1JrbWVDOXMyb1FUa3VONm82c3JpQ3MxQjZucHowUWFTUENmTFRzMGM2NTJIb2VaRWM4SkM3bnFrclhnaG5mY1VxYXBtdE0?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-07-29T19:23:31.912228+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o2e6d3f",
+    "agent_id": "Tools A Monitor",
+    "title": "Cryptohack Roundup: Ariomex Leak Flags Iran Sanction Risks - BankInfoSecurity",
+    "summary": "Cryptohack Roundup: Ariomex Leak Flags Iran Sanction Risks - BankInfoSecurity",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZlVEdjhvUWVNdGxmLWlaYWt4Zmx6cUl2NzNBcUduMk5lc1doSFJXVVJjQzFSZkFlc19HLUsyYmR6QzNqNUt2MkFDbjktR0dvSjVuSHhfa3hiN1pYVm5DUUpRUDQ2YUx2MHNldnphcE5qaF9VMnlENjk3ZzNDNVBadlpPRHJEbEUxeTQwMUhqaGxrcnY1SUpVdFRreFhJM1k?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-07-29T19:24:02.623273+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o300bbf",
+    "agent_id": "Tools A Monitor",
+    "title": "DJP Sandera 2 Penunggak Pajak pada 2025, Tagih Utang Rp 46 Miliar - ikpi.or.id",
+    "summary": "DJP Sandera 2 Penunggak Pajak pada 2025, Tagih Utang Rp 46 Miliar - ikpi.or.id",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWFphSVR3RDd4dk9MeTBCMGdDU3BYaXotUWZtNWtsU2lfNmNVVmc5SGlUcU9rbTN1ZElMUkM1ejNXbDF2eldRT2VsMjhvaDJPVUUzaGpwTWtJLThPVnJiVjlHZm15TjVCYjJEeHZ6TFduSm1EZVloV3dTVjRMRVZGRGFyaXhsYkJDNXIzbg?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-07-29T19:25:48.735612+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o30e69a",
+    "agent_id": "Tools A Monitor",
+    "title": "Todd Blanche attorney general nomination on edge as Cornyn questions Trump-IRS settlement",
+    "summary": "Todd Blanche attorney general nomination on edge as Cornyn questions Trump-IRS settlement",
+    "raw_output": "",
+    "source_url": "https://www.cnbc.com/2026/07/29/todd-blanche-attorney-general-trump-irs-audit-cornyn.html",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-07-29T19:26:44.762268+00:00",
+    "is_processed": false
   }
 ]
