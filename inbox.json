@@ -10356,5 +10356,70 @@
     "created_at": "2026-07-28T19:37:58.890100+00:00",
     "is_processed": true,
     "report_id": "r20260729"
+  },
+  {
+    "output_id": "o3828d1",
+    "agent_id": "Tools A Monitor",
+    "title": "European Police Dismantle €600 Million Crypto Investment Fraud Ring - Bitdefender",
+    "summary": "European Police Dismantle €600 Million Crypto Investment Fraud Ring - Bitdefender",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZTc4dzFSeEpuTEg5QlJiaWE4Q3BudlI4NHV4THZrNlhUNmNEbWtHeEdwNlVOQURkWkR0S0tTNG5jaWdVUWJfNEtSVjZSSG5NWGNBZmtudUdHd3A5NFNzOGxYR2tadnZzcEZMc0ZieXJBeldrZXE3ak5CZUJPQklqU0ZMLUp1Z0xtaDJhQ0RibmRKSk9mNnJjNjVfUC1zbzNzeEdZY0JReVhYVFU2c05MMW1zQ0dsT3loZTFYeGkzUQ?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-07-29T02:54:40.465568+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o383ce1",
+    "agent_id": "Tools A Monitor",
+    "title": "Senate sets up votes to sanction Russia for Ukraine war",
+    "summary": "Senate sets up votes to sanction Russia for Ukraine war",
+    "raw_output": "",
+    "source_url": "https://www.cnbc.com/2026/07/28/russia-sanctions-congress-key-vote-lindsey-graham-ukraine.html",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-07-29T02:54:45.601068+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o3850f0",
+    "agent_id": "Tools A Monitor",
+    "title": "DJP Papabrama sita aset penunggak pajak senilai Rp1,77 miliar - ANTARA News Papua",
+    "summary": "DJP Papabrama sita aset penunggak pajak senilai Rp1,77 miliar - ANTARA News Papua",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOE1pVmdOSEEwb2RGVnJxVE9vQy0tVkRWS1lZU05xdDFYM1EzU2NHbGs2LVlUU0NRbTl6VDJOdXFFNDRHYmtlTEtIRU9mekd0U0Exd216aFZjMVRSSW9BWlRIV2RWUE1EbXphaXp4Z3gxRThsWV9GSFRIeEU2SW92c3pzMjhkU0hHTDhJWHZXQzhSUDd0bTlaR0hTdVF4bnQ0Q2Y1WGJB?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-07-29T02:54:50.736699+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o39ee26",
+    "agent_id": "Tools A Monitor",
+    "title": "JPMorgan, three US banks challenge stablecoins with shared deposit tokens - Crypto News",
+    "summary": "JPMorgan, three US banks challenge stablecoins with shared deposit tokens - Crypto News",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBkM2hUUHRDVTcxaFI2RzE1TzI1VE1kSHhwWkFvbTkwcW9yc0pJeXh5V0RjM3RGSjV0dHJlX09HSE1WVldwSklYM0JDaFdCU1lzejRSZTF0U1doX1J6TFYwWDdTRXBVanNLaGZtc1Q3Z3hzdXBmOTJwSWs0SXg?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-07-29T02:56:36.518560+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o3b8aa8",
+    "agent_id": "Tools A Monitor",
+    "title": "DJP Teliti SPT Tahunan, Termasuk yang Hapus Bupot di Coretax - DDTCNews",
+    "summary": "DJP Teliti SPT Tahunan, Termasuk yang Hapus Bupot di Coretax - DDTCNews",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVUdOekhaRGJLM3NGY3gzUXkyTnNaRkFHT1hWb2RMTll6NVhJcDVKQlJaMHJ0MlRZREpRQ1lWRmIxS0cxWGx6eGNRZVJubVRKWkJhdWN4OWprYXNoZExtd2psNXhCVmdyMEF2RUZNcmNnSEgtY1RIVm9Ndmd5aG55VFFncXJJYzJxc0FZOWVwOWRBbDdCV2E3R0xEUzZJRmpGdDdVaEZyTXBKd2s?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-07-29T02:58:22.120777+00:00",
+    "is_processed": false
   }
 ]
