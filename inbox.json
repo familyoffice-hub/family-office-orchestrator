@@ -10748,5 +10748,57 @@
     "created_at": "2026-07-29T19:26:44.762268+00:00",
     "is_processed": true,
     "report_id": "r20260730"
+  },
+  {
+    "output_id": "o8bd472",
+    "agent_id": "Tools A Monitor",
+    "title": "DJP Bali bersama Pemkab Karangasem bentuk tim untuk dongkrak penerimaan pajak - ANTARA News Bali",
+    "summary": "DJP Bali bersama Pemkab Karangasem bentuk tim untuk dongkrak penerimaan pajak - ANTARA News Bali",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSEtzbVNWcy1LLWJPcnRHZmoxSnhMV012SDNZZzVsbHpFMHdscy1SYjk2OVJZMDNCT2ZvWEwxbmR4MWR5aEJYa205ZjA4QTYwSjlQTmVFUmcyV1MzMl9QVGVSZWZkaldvX0RIZ1c3eUk0U002MU1GZHZvWkVBWnRGR0JtcTg0cUdFbkdsY1Juc1ZqckVvT1VFaUU5RTZLY3MyYm1yOTR6SzhTTnlqUjFhUEtKS3h6a2NrVE930gHAAUFVX3lxTE9WNE05VmE1VFVYZEY4V2ZhV004dDdKY0FVNTBCSFZtNUFETzRBWEk5UUt0QnV0N3dRbzRWZFp0Sk8xRWFTajN1RFpXZlllWXFNMUFfNGUxQmpDLTFzeUhGamFtZ01Bb2dRV1FOai01dG1DYzBteUFNSEd3RktMcE5xX2x5SHBwMml0cE5nTThnUFFxQjRXREJnZUlyTTlieEtIN21na3ZEZ1JXQW9Fa3JOUVpWSXVSSlhfUjNQemwwcw?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-07-30T02:39:23.890233+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o8be933",
+    "agent_id": "Tools A Monitor",
+    "title": "The Fed Tahan Bunga di 3,75%, Sinyal Hawkish & IHSG Terancam? - Emitennews.com",
+    "summary": "The Fed Tahan Bunga di 3,75%, Sinyal Hawkish & IHSG Terancam? - Emitennews.com",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWWlFam9mb1h1RDFvaEtrQWNMLXFvWThCYnQzcXh2UUo4amgtTmdZZmFCTE5XUlFOS01ybXhPbjZHZ21uVE1sOHBTSTVIWExtYjQ5cFY5OFpGMXBCZmFsZWxyR084dFY3T3JrLURKTFJLb0lSekpkWmJkcUhaZ3puWk1SUTNyZnktcjdB?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-07-30T02:39:29.203811+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o8bfdd2",
+    "agent_id": "Tools A Monitor",
+    "title": "Piutang Pajak Macet pada DJP 2025 Sebesar Rp35 Triliun, Terbesar di Atas 5 Tahun - Bisnis.com - Ekonomi",
+    "summary": "Piutang Pajak Macet pada DJP 2025 Sebesar Rp35 Triliun, Terbesar di Atas 5 Tahun - Bisnis.com - Ekonomi",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxORnM3RDZHQWxxV0RXUEJGMlRET3NuUi1iLWNNYWNjcVBRYTd0OVN5M0dGR1NJV2trVEhLVDloakVlSmllb0Z2RFhGc3FXYzJVcU9VZEQwNWxNeUxGWFpLbFJlT1kyX3JrZjBkUjRZOGpoY1FoTkhCYzRYRkFDZkF3YU5maGFwX3NBRmJReGhpUjljLVJJS1BTYzYtZy1wUHJRczhkSHRDcFEtUEtaQnNDcGwyRkFLelFMclRIYm1WU2xSRjV2UDM0dlFCU1k?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-07-30T02:39:34.482505+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o8d9b0a",
+    "agent_id": "Tools A Monitor",
+    "title": "OJK Akan Perketat Kepemilikan Saham Pemerintah di Bursa - Tempo.co",
+    "summary": "OJK Akan Perketat Kepemilikan Saham Pemerintah di Bursa - Tempo.co",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQ0YwUEN2UkJsSGF2ejg0R3BwSHRBbXhFcF9QdDMyQlE1dXlqREJnUVFxQjA4LXNBVzRpdWxzbTQtdVNGZS1RckR0X1NmY1ZYb3VFMjhCaDFCUGFkSzFsakVLLWdpb2tUdWFRMXNHbGFwRUM2ZnYwTlJfM3cxLXNrSW5KZW5yZWRYMnNvSGMxclZ3ak9GUzVR?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-07-30T02:41:20.266337+00:00",
+    "is_processed": false
   }
 ]
