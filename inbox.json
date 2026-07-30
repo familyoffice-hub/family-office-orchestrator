@@ -11034,5 +11034,44 @@
     "confidentiality_level": "internal",
     "created_at": "2026-07-30T14:11:17.569763+00:00",
     "is_processed": false
+  },
+  {
+    "output_id": "o4bd29",
+    "agent_id": "Tools A Monitor",
+    "title": "DJP Kalselteng catat realisasi penerimaan pajak Rp6,244 miliar - ANTARA News",
+    "summary": "DJP Kalselteng catat realisasi penerimaan pajak Rp6,244 miliar - ANTARA News",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSlhmUTBhX2JGNVVmYUtKR3phNENORmFJN1Q4WEJsVlRBSHpWTHR4V2puOFJMbGt3dnBrd1ZHWGVYZHpRS21HQnQ4N3N5VFNWNWRmQzVOQVhyZ2wzYWRtckVxWXlnbU1lRXpWVUdjcGJ5MnVBV29Nb2c4T3hyRE5BNGF5N2VkaDNmWWRNQWpOR1FFVVdVQ2xydzl0LWhESll4eFVkY2ozaErSAagBQVVfeXFMTUpYZlEwYV9iRjVVZmFLSkd6YTRDTkZhSTdUOFhCbFZUQUh6Vkx0eFdqbjhSTGxrd3Zwa3dWR1hlWGR6UUttR0J0ODdzeVRTVjVkZkM1TkFYcmdsM2FkbXJFcVl5Z21NZUV6VlVHY3BieTJ1QVdvTW9nOE94ckROQTRheTdlZGgzZllkTUFqTkdRRVVXVUNscnc5dC1oREpZeHhVZGNqM2hK?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-07-30T19:38:30.569094+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o53532",
+    "agent_id": "Tools A Monitor",
+    "title": "SEC Announces Continuation of Small Business Advisory Committee Meeting",
+    "summary": "SEC Announces Continuation of Small Business Advisory Committee Meeting",
+    "raw_output": "",
+    "source_url": "https://www.sec.gov/newsroom/press-releases/2026-71-sec-announces-continuation-small-business-advisory-committee-meeting",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-07-30T19:39:01.298163+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o6d3ae",
+    "agent_id": "Tools A Monitor",
+    "title": "JPMorgan issues blunt warning on crypto's future - thestreet.com",
+    "summary": "JPMorgan issues blunt warning on crypto's future - thestreet.com",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNeEptYVlQbnB1UV9idlk4M3hiWGlvdjdsdTNKUXY1SGh0OFN5SGd1anhIOGN0RS1GNXMxaVo1RU12UUdSQS1XOE1nZFpXbXZJUDVLLVBoU2NxM2VTOXFmbHY0UzNyNFdIYzhiS2dITVhNWlB1VkQzbzk2MlFWbTg1MjlFSmJBc2xqSTZjNkUtQjRadw?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-07-30T19:40:47.406654+00:00",
+    "is_processed": false
   }
 ]
