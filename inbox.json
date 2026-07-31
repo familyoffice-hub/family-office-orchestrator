@@ -11358,5 +11358,18 @@
     "confidentiality_level": "internal",
     "created_at": "2026-07-31T14:16:44.778559+00:00",
     "is_processed": false
+  },
+  {
+    "output_id": "o66fd83",
+    "agent_id": "Tools A Monitor",
+    "title": "Cara DJP Pantau Wajib Pajak Lewat Pengawasan Wilayah - Ortax",
+    "summary": "Cara DJP Pantau Wajib Pajak Lewat Pengawasan Wilayah - Ortax",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9vLUV5YWZ2OWY5VlAwdV9mU2I5a0Q1M1FHQlM2QUhYVWlabHNWVHQ4RVhvUkNxSGhaREdJWmhlYm1WazlSQXFKbFhvcmxiRVFXdDR3MXpQRGM4WDVnaTZ0bGZUQVpVWlJvTmF5QTROZVBNOGo2RnpYcFVR?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-07-31T19:39:09.571660+00:00",
+    "is_processed": false
   }
 ]
