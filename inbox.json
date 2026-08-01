@@ -11431,5 +11431,44 @@
     "confidentiality_level": "internal",
     "created_at": "2026-08-01T08:25:36.539556+00:00",
     "is_processed": false
+  },
+  {
+    "output_id": "o13ef97",
+    "agent_id": "Tools A Monitor",
+    "title": "OpenAI's Hugging Face hack confirmed months of AI cyber warnings: 'Pandora's box is open'",
+    "summary": "OpenAI's Hugging Face hack confirmed months of AI cyber warnings: 'Pandora's box is open'",
+    "raw_output": "",
+    "source_url": "https://www.cnbc.com/2026/08/01/open-ai-hugging-face-hack-cyber-warnings.html",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-08-01T13:35:06.519406+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o1404f0",
+    "agent_id": "Tools A Monitor",
+    "title": "DJP Ungkap Lebih dari Separuh Piutang Pajak Berpotensi Sulit Ditagih - Ikatan Konsultan Pajak Indonesia",
+    "summary": "DJP Ungkap Lebih dari Separuh Piutang Pajak Berpotensi Sulit Ditagih - Ikatan Konsultan Pajak Indonesia",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQN2VVc0hpaUdFM3R0S1RuV3RSbFA3YUh0RVUydlJkZ2RxVkcxMHZXa3N0bmVTaHc4UnZCdUpiTml1ci1UbThOVUJQZWVKTTJ2a3IycE1pX0Y3ZVJHM3pFZklldlluNVk5MlJfamVKbFB4VUQwUmRNTVVnaHg1ZlgtWG85VWZDMGJ1a3RfTGkyS2FqZw?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-08-01T13:35:11.984015+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o141a88",
+    "agent_id": "Tools A Monitor",
+    "title": "Purbaya Yakin Lebih dari Separuh Kanwil DJP Capai Target Pajak Tahun Ini - Ikatan Konsultan Pajak Indonesia",
+    "summary": "Purbaya Yakin Lebih dari Separuh Kanwil DJP Capai Target Pajak Tahun Ini - Ikatan Konsultan Pajak Indonesia",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNzFkTzEwcHBvWjBTdXZ5Y0VpQmoxS0oxU2I0Zi1zSnRJNnBsVDBobDloOXlrcGJNNnZGWlNLLTFmMHVCVERWMjBMcGM5a2Q2dzJFTnRBY0JVTnNWR09jYmNOdzNvVVUtZ2trTEdxaXVtbXMzMlZzRV9fbkItSjNEZG9VemFiSU44QkdJRHkwSG8tWE5TUDdJ?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-08-01T13:35:17.512859+00:00",
+    "is_processed": false
   }
 ]
