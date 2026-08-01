@@ -11470,5 +11470,18 @@
     "confidentiality_level": "internal",
     "created_at": "2026-08-01T13:35:17.512859+00:00",
     "is_processed": false
+  },
+  {
+    "output_id": "o18c374",
+    "agent_id": "Tools A Monitor",
+    "title": "Penerimaan Pajak Kanwil DJP Riau Capai Rp8,62 Triliun per Juni 2026 - Bisnis.com",
+    "summary": "Penerimaan Pajak Kanwil DJP Riau Capai Rp8,62 Triliun per Juni 2026 - Bisnis.com",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNN1NrcDREcXRVXzdKM3ZSLWZRRWRKdDJiSENoVEowckk1clU5a0lkQUk4S3dqY2ZoUnlBUE5CaTQ2WWVBYWx6M1Z3VUxmVGxLeFMtS1YxRlBDdENHT2hrVXoyelJGVEFfTllFd0pzTnlYTFFDSHd3Q3lmZVl4dWZVdW1UbmxVUVNWdTlyTEJ6NDZSajBudEZiZmoyeHRwd3Q2VlJCaTFfbkVsQUVnS0ppcUlMWVFSVFZUaGdN?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-08-01T19:13:42.901004+00:00",
+    "is_processed": false
   }
 ]
