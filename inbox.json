@@ -11392,5 +11392,31 @@
     "created_at": "2026-07-31T19:39:09.571660+00:00",
     "is_processed": true,
     "report_id": "r20260801"
+  },
+  {
+    "output_id": "o42749f",
+    "agent_id": "Tools A Monitor",
+    "title": "Trump appeals order that slammed his IRS lawsuit and referred his lawyer to bar",
+    "summary": "Trump appeals order that slammed his IRS lawsuit and referred his lawyer to bar",
+    "raw_output": "",
+    "source_url": "https://www.cnbc.com/2026/07/31/trump-appeals-irs-lawsuit-blanche-fund.html",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-08-01T03:19:15.231717+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o4288c2",
+    "agent_id": "Tools A Monitor",
+    "title": "DJP Larang Wajib Pajak Rekam Pembahasan P2DK dan Pengawasan Daring - Ortax",
+    "summary": "DJP Larang Wajib Pajak Rekam Pembahasan P2DK dan Pengawasan Daring - Ortax",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYkZCZmZiOFd5Nkg5a2duS29XXzhyN3htb1FycU43SW40SlJoeGgxMnBNeDluYWlETTFBWkVHWTlMdzdlVXkxSGRZSEZWTTFhbTRhVWxJc0U4RlhJNVNRSUh5a1lNcDRrNnMxbF9tNkhqMXZFd2k4ejFjSHlRaVhVMTc5MzZyQWF0UWlOdw?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-08-01T03:19:20.386653+00:00",
+    "is_processed": false
   }
 ]
