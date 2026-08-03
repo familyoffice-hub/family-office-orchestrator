@@ -11865,5 +11865,70 @@
     "confidentiality_level": "internal",
     "created_at": "2026-08-03T14:47:31.784306+00:00",
     "is_processed": false
+  },
+  {
+    "output_id": "o5da374",
+    "agent_id": "Tools A Monitor",
+    "title": "Morgan Stanley: Why Crypto Strengthens The Wealth Management Flywheel (NYSE:MS) - Seeking Alpha",
+    "summary": "Morgan Stanley: Why Crypto Strengthens The Wealth Management Flywheel (NYSE:MS) - Seeking Alpha",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNOThDdDQ4Sk5URDZ0RWRjODdxcWZCV3h3cmdtOWFpNVRUSFQ1V3g3SVkyTnRvUmhCY0pHWmhIM2xQc0VKc2g1QzRrUXVsZWE2ZTV1ODhXQ1luZDFiRHJQT0lwYWU3WXVvdlRma0w1REtyLVZBQ2UxVGI3cXVpSmlUUmFnZTZSYjZrWnRqUWVrcElfYU9hVE5xQ1p6SUNpUDFHZkV0a3FSaUp2azNtdnc?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-08-03T19:42:16.692669+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o5db774",
+    "agent_id": "Tools A Monitor",
+    "title": "Commercial real estate succession planning creates wealth opportunity for advisors - InvestmentNews",
+    "summary": "Commercial real estate succession planning creates wealth opportunity for advisors - InvestmentNews",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNVEJ4R3VpemRwRVdNZWJpSHFyZU1KOU8tb0daMHRkTzVOSnprSklIQWllNTBpdkt6SFZ1cnBtNjZQdTRhaGZyUWs4bnkwa0JPX0lZNmxVN0NEWHdKcEFaT0NhVlVKTURMVHhaQUdaNmRMaXptYnlwWmFobmVYYVY0SklXd21oTFBfdGFzYng0a2EtVWVEa1M2Q3ZOSkJfaDhUVXUxeHJEY09zaHJGLU8xUVlrWHp3RDZlQUJLN2RpUVpFZ2pxNjlaY1cxQWEzZw?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-08-03T19:42:21.812185+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o5dcbab",
+    "agent_id": "Tools A Monitor",
+    "title": "BlackRock deepens RWA push with 2 tokenized funds - Crypto News",
+    "summary": "BlackRock deepens RWA push with 2 tokenized funds - Crypto News",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8yYUdLVFlPLVVfc29HWUkxZFBSYXN6VVJ6SUZPRTVidnk3RXdiSGR3c3hLMmVDdHdKRlo0b0ZqNXUzNmo1VjAyOGhZSVoycjFhSlo5SmtYMHpaazFGdjJhTm8wZGNwbTNIejVBWEZEaHdhdm1vNUhfeVB3?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-08-03T19:42:26.987044+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o5ddfab",
+    "agent_id": "Tools A Monitor",
+    "title": "BlackRock Launches Tokenized Money Market Funds on Solana, Ethereum - Decrypt",
+    "summary": "BlackRock Launches Tokenized Money Market Funds on Solana, Ethereum - Decrypt",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPb2FGeGgwenpGc293ZVZlUllBZlVIRFVnSnFXV3FFQUlVR2pEN0FGeGkyaGs4NHQ0cnltZEt5bVdPczRRU0pDUlZlOUNTT2EzQzFNeGNNa3FoWl9DakxSNHVuZHd2cEdqUHlVRWNrSUtXSEQ5eUxHZVVwbU1Iek9vQWlYbGZHT2_SAY8BQVVfeXFMTmQ1MjZhRThGNUtFZHZJcS02WjRmaGFlWGpGN0RfME81RktFODdJVm4yak9waklRU214a1JXSko2X3g1REo2d3RIWGViZVBpZTB0SGZ0Z3NsREYtamllQm9rV1BfeERaa1RtVTdZZ1pVa0FxWFZWaHRXVWUtLVNCWkpCejNhSjhHRWxKc1lwMzg?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-08-03T19:42:32.107811+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o5f7be5",
+    "agent_id": "Tools A Monitor",
+    "title": "BlackRock expands tokenized cash with new blockchain-based money market offerings - Cryptonews.net",
+    "summary": "BlackRock expands tokenized cash with new blockchain-based money market offerings - Cryptonews.net",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5meTlzcTltU0hSWXV0enVrUnRycnd3ZXlmR3RqY1V1MU1VSUh0cDhYa0RGRHA3dEdMTDdCekRLN2V4LXkzYzVORkJBMkt4aHFoUVdpT0VzQzY?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-08-03T19:44:17.637258+00:00",
+    "is_processed": false
   }
 ]
