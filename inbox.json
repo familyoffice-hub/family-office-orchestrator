@@ -11644,5 +11644,44 @@
     "created_at": "2026-08-02T13:36:04.196327+00:00",
     "is_processed": true,
     "report_id": "r20260803"
+  },
+  {
+    "output_id": "o6ef445",
+    "agent_id": "Tools A Monitor",
+    "title": "Dua Kepala KPP Hadiri Jalan Sehat HUT ke-61 IKPI, Sinergi IKPI dan DJP Menguat di Jambi - Ikatan Konsultan Pajak Indonesia",
+    "summary": "Dua Kepala KPP Hadiri Jalan Sehat HUT ke-61 IKPI, Sinergi IKPI dan DJP Menguat di Jambi - Ikatan Konsultan Pajak Indonesia",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNkJNNUlxSFFWUnNRVzVRbWlBQ3ZraTNiZmloQ1RPazBGZld5Nl9pV1FoWGdvbERqYS1UaXVvaTBQbVVfQUNJMWpLdTlyNlYxRlJYV3pzT2dyWHBnVTRKajZXRnQzYVc4SUhNOE1wUkowR3ZMLV9hUzlMem1jLW81VmY1TEJxdXJZWFpZVHhKYXRLU3YxUFB1cE9zdVRMRmthOFZEb0NPNmZxQQ?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-08-03T03:21:11.493231+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o6f09d0",
+    "agent_id": "Tools A Monitor",
+    "title": "SEC, CFTC Seek Public Comment on the Harmonization of Portfolio Margining Frameworks",
+    "summary": "SEC, CFTC Seek Public Comment on the Harmonization of Portfolio Margining Frameworks",
+    "raw_output": "",
+    "source_url": "https://www.sec.gov/newsroom/press-releases/2026-59-sec-cftc-seek-public-comment-harmonization-portfolio-margining-frameworks",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-08-03T03:21:17.008288+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o6f1f37",
+    "agent_id": "Tools A Monitor",
+    "title": "Dicari! Sosok Ideal Nakhoda Bank Indonesia - kompas.id",
+    "summary": "Dicari! Sosok Ideal Nakhoda Bank Indonesia - kompas.id",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAwSTF5VzAtR1RuemY1MzNTR3dCd2RfXzRwc09KS3Rvb0xUYWg0VDVwamM1MFM3Yy1sQjlPd3NMdFZDMkpIbXl0M2hOUVFSTmVOVW8yNTdsSnpKNnlUSU56ZEFqU2FpWnZGZnJIVXl1X3BqRGxkTXNfSkU1WQ?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-08-03T03:21:22.487679+00:00",
+    "is_processed": false
   }
 ]
