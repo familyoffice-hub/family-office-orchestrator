@@ -11952,5 +11952,57 @@
     "created_at": "2026-08-03T19:44:17.637258+00:00",
     "is_processed": true,
     "report_id": "r20260804"
+  },
+  {
+    "output_id": "o1c6cc0",
+    "agent_id": "Tools A Monitor",
+    "title": "DJP Siapkan Implementasi Pillar Two, Tambah Kode Setoran Pajak Minimum Global - Ikatan Konsultan Pajak Indonesia",
+    "summary": "DJP Siapkan Implementasi Pillar Two, Tambah Kode Setoran Pajak Minimum Global - Ikatan Konsultan Pajak Indonesia",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNb09JMHhzd0hIbnRMYzlWb09KVlR5bTBneGpfOFNDUzk1bEhpYmRPNGduV0gtZDRCS1Zia2ZTNkgwWDR3dE9uTzJVVUZsR0szSElSblBlZFdzcy1HMENzTHY2bUhPcS04eHYyWG1fOUJxcHp4RWVyX0c5R0pVNGNqelZ1MTMxa1F0WVp0eEw2SGxHQnNLTVQyZ3BtWVM?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-08-04T02:51:02.848018+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o1e0a5a",
+    "agent_id": "Tools A Monitor",
+    "title": "BlackRock Launches Two Tokenized Money Market Funds for Stablecoin Reserves - bloomingbit",
+    "summary": "BlackRock Launches Two Tokenized Money Market Funds for Stablecoin Reserves - bloomingbit",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBCVXlzbXRvWGd1Wl82bUhkZlhvajVmVGJpdGdCS2dkb0VtekRmZHhYdDBNTWExVkdUM2RYT05qRE5aZXdSZkhxNl9GV3Z1aU81WlV6Tw?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-08-04T02:52:48.730848+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o1e807f",
+    "agent_id": "Tools A Monitor",
+    "title": "BlackRock launches tokenized money market funds for stablecoin reserves - Cryptonews.net",
+    "summary": "BlackRock launches tokenized money market funds for stablecoin reserves - Cryptonews.net",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1mRjJPOFZTb1NGaXVLMENYUm80NzRpRUx1eVFndUd5dlpCemNlV1hLVFc2dnFRSjROM25HSWV6YWFZTTdibzRkTDEwR1FGUHZ0TUxOTEw5VFE?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-08-04T02:53:18.975863+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o1fdb0a",
+    "agent_id": "Tools A Monitor",
+    "title": "BlackRock Launches 2 Tokenized Money Funds, Seeks License Under GENIUS Act - CoinGape",
+    "summary": "BlackRock Launches 2 Tokenized Money Funds, Seeks License Under GENIUS Act - CoinGape",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONHFvSDZnNjRqNUhEYlo2VVBXUThpUWpMejdTMkRMc2F6QlhlUDFsN05SSGNiMldsNlVFNF9pNHRPWG9zWmtaUXQ0QmlfUmtfRWN6NV9PY0UtVkR4S2lxNjJWT09nNmVFTjdPeUhnd1BfS2U2QWc2ekpJMTNLbmFLam5Da1BGaE11WjVHS3ZMR1JSVFN3a19YazFUaw?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-08-04T02:54:47.690700+00:00",
+    "is_processed": false
   }
 ]
