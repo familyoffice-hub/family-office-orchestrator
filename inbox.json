@@ -12364,5 +12364,70 @@
     "confidentiality_level": "internal",
     "created_at": "2026-08-05T08:41:39.434302+00:00",
     "is_processed": false
+  },
+  {
+    "output_id": "o900487",
+    "agent_id": "Tools A Monitor",
+    "title": "The IRS is getting better at spotting crypto tax mistakes. Here's what it means for investors",
+    "summary": "The IRS is getting better at spotting crypto tax mistakes. Here's what it means for investors",
+    "raw_output": "",
+    "source_url": "https://www.cnbc.com/2026/08/05/irs-form-1099-da-crypto-tax-reporting-rules.html",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-08-05T14:17:18.343391+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o9018d2",
+    "agent_id": "Tools A Monitor",
+    "title": "DJP Lakukan 2 Gijzeling untuk Tagih Utang Pajak Rp46 Miliar - DDTCNews",
+    "summary": "DJP Lakukan 2 Gijzeling untuk Tagih Utang Pajak Rp46 Miliar - DDTCNews",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNVBrUFRHWlNLblFkdVJDUEdVbml2cF83VUhTTHJxX2ItYTlqVnB5Y01mRG1yMG5RS21YX1JyMllmUng1YTdJekpvWHNrdDVDeE1jcWt1MlFKMWY1aDc0eElmUjg2c3hHTElUOEliMWtJX1ZhbVU5dlRYVktkdUFCeXdQOTJIT1NpaU9kLWRkdnFEZ1VkaWt1X1BhdjEtaVFna2Y3eGU5NGd3enc?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-08-05T14:17:23.538242+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o902cdb",
+    "agent_id": "Tools A Monitor",
+    "title": "Aspen Standard Wealth Acquires Denver Private Wealth Management - Business Wire",
+    "summary": "Aspen Standard Wealth Acquires Denver Private Wealth Management - Business Wire",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPeFpiRElqb2dpcjRpdTFFYTlYS2ZVMHQxcGtuVHg0UHBBZGFJNkdwdVhOM1o2UVRibEpHTTBFWGhrQzQ3b1Jfd2ZGMVkwTlg1MnNCZXY5c1FTM1lQUEFTaHhqXzctTEp1UUNqc1hQYlZ0dno1aHM5M1hRVHA4MUt2ZWJMMHh1WF9zZFZLZXFVOVBhUkI2aFpXZGtxVVRuUU02US1ISEJXZ0VkaWtSUm5UelVKanJMbXlFUmVhZg?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-08-05T14:17:28.667437+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o9040e7",
+    "agent_id": "Tools A Monitor",
+    "title": "BlackRock launches tokenized money market fund on Solana and Ethereum - AltcoinBuzz",
+    "summary": "BlackRock launches tokenized money market fund on Solana and Ethereum - AltcoinBuzz",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBEUUdwNDdvNll6eGkxbXlweWtFM1Q1bndGVXI0UlVYbFFPaDdmdXpBMTJoZWxMb2V6THZaRnZnYXdmczBhSjdDOG90eVFGd3d0bmZCVlNkZEhqYzJrVHVWNC13LWVvNE8wLXU4RVpUSS1KaTFoSmc?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-08-05T14:17:33.799237+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o9054e3",
+    "agent_id": "Tools A Monitor",
+    "title": "USU dan Kanwil DJP Sumut II Perkuat Kolaborasi Perpajakan - DDTCNews",
+    "summary": "USU dan Kanwil DJP Sumut II Perkuat Kolaborasi Perpajakan - DDTCNews",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPa3FKNHBjWGo4T2k1Zzh5LTduMmJtS0hIaFBjMm85MWsyVjZMaWY5OWlIWWQyYnRoV2NqR1kzSnVWTEVZTUd6TmhjUFlmWUdHVUFhWmNuVXdsQ2JiX0VPQ005Mm1vZ3ZUWnp1WVBsZ0txOF9UU0R2eWRkZzZ0bXhqdFF6MWJLZHR3bnhzUEVxczJDeVFPNEltQk5FVVNXcTBBS2pRT0FENlVOZw?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-08-05T14:17:38.915608+00:00",
+    "is_processed": false
   }
 ]
