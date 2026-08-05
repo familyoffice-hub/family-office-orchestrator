@@ -12260,5 +12260,57 @@
     "created_at": "2026-08-04T19:41:46.844199+00:00",
     "is_processed": true,
     "report_id": "r20260805"
+  },
+  {
+    "output_id": "o7c2bfd",
+    "agent_id": "Tools A Monitor",
+    "title": "DJP Ubah Sejumlah Ketentuan Pembayaran Pajak untuk Transaksi PPJB - ikpi.or.id",
+    "summary": "DJP Ubah Sejumlah Ketentuan Pembayaran Pajak untuk Transaksi PPJB - ikpi.or.id",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNb2hJd19YcWU3aGNaMUJXejNpLVlyaDJyTlhPOUtWV0JjLU1HWGg2dnp1ZWxGMTlwLTZfSWlUR0RnZ1k5NTJzNDBkR2VMWm9uWTdjQ0ptU2MyZzk2anhFZ292c2w5bE9RbUFjdmJhY0hiODg1eG5kaXh5MC1JenhlRFJXLW5MY3IyaElacEx3?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-08-05T02:48:57.725610+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o7ca267",
+    "agent_id": "Tools A Monitor",
+    "title": "Jim Cramer says one hedge fund's collapse cleared the way for tech's rally",
+    "summary": "Jim Cramer says one hedge fund's collapse cleared the way for tech's rally",
+    "raw_output": "",
+    "source_url": "https://www.cnbc.com/2026/08/04/cramer-one-hedge-fund-collapse-cleared-way-for-tech-rally.html",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-08-05T02:49:28.039357+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o7e3e95",
+    "agent_id": "Tools A Monitor",
+    "title": "The race to tokenize Wall Street: how JPMorgan, Citi, and Wells Fargo are rebuilding settlement rails - Crypto News",
+    "summary": "The race to tokenize Wall Street: how JPMorgan, Citi, and Wells Fargo are rebuilding settlement rails - Crypto News",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPamdtdGd0R0dVU0pRR21zS3oyTmlIODE2STJjU1NSREZLLXdfU3dpeXRBbzAwako3Y1ZtNVRkbUIxN1hDTG9FR1dwWVJBcG9qekpodjA4WUZjdkRyb1dWTXBXcndxVm1oakZlbWdGV2hQYkRjOE1qNk5vcG5makNuZFdITUU?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-08-05T02:51:13.557348+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o7fdb5f",
+    "agent_id": "Tools A Monitor",
+    "title": "Demutualisasi BEI Bakal Efektif Kuartal III, OJK Rampugkan Aturan - Bloomberg Technoz",
+    "summary": "Demutualisasi BEI Bakal Efektif Kuartal III, OJK Rampugkan Aturan - Bloomberg Technoz",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORUlwaGFGOWY1cDY5dGVkR1d0ZTFWYkRSbk96bVVidkVaa2tXSmozaW9zX1ZNUUUyOGlNWG1xQnlDNTFYQkJsVGZZd1dmbFdGVnJ2Mlg5UVFBTDFnOU1hZnVpTmkzRE92MEc3OHdKMmhzTWJGVHpTQkhUUmtmM0E3LXFONGJ3MmxtUWR3TXVrTDhzMEt3N003TEk4MC1XNVI5dVJ3YWZfLTI2NU5xMXU2Zko0U1JVbEU?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-08-05T02:52:59.231988+00:00",
+    "is_processed": false
   }
 ]
