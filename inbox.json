@@ -12312,5 +12312,57 @@
     "confidentiality_level": "internal",
     "created_at": "2026-08-05T02:52:59.231988+00:00",
     "is_processed": false
+  },
+  {
+    "output_id": "o8da5d8",
+    "agent_id": "Tools A Monitor",
+    "title": "India's central bank keeps benchmark rates steady, cites 'moderate' core inflation",
+    "summary": "India's central bank keeps benchmark rates steady, cites 'moderate' core inflation",
+    "raw_output": "",
+    "source_url": "https://www.cnbc.com/2026/08/05/india-rbi-interest-rate-inflation-iran-war.html",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-08-05T08:41:23.032255+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o8dbb07",
+    "agent_id": "Tools A Monitor",
+    "title": "OJK Beberkan Perkembangan Rancangan Aturan Demutualisasi BEI - Infobanknews",
+    "summary": "OJK Beberkan Perkembangan Rancangan Aturan Demutualisasi BEI - Infobanknews",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSHQ3REZlVjRvbEtQQ21RTHlqYWV0bUxUUGJERW4ycU1uUzE4cXhQMUZ3aThoSXA2M2k3NzBnWW1mMWNHdGVxMGE2ZTQ2RUJhYjhwd0RNTkVoazVwUVdMaHZfdkx1VWlJeDZCRjFWWWpuZnJGZ3JTR1VhakNjcWtOVHh4WHJ0YXhiY01FZF93?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-08-05T08:41:28.455994+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o8dd0af",
+    "agent_id": "Tools A Monitor",
+    "title": "DJP Bisa Langsung Mengusulkan Pemeriksaan atas Data Konkret, Ini Penjelasannya - Ortax",
+    "summary": "DJP Bisa Langsung Mengusulkan Pemeriksaan atas Data Konkret, Ini Penjelasannya - Ortax",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOaHd1aVpuZFVWQzJpZ2lXN21lNmltTUxTc1F4aGlhR0lral9tNGhHZTZPaURhYzhPdExaRlZqWVRfR1Y0UDZUZklGUURSV0NrUzQwT2NGR0Jrc3A1ODFBdFVBWnJoSU52ck5ZQVYtczdXTUZ4QTRQd1E3UkoyUmpvOWRMZHZ1UWpVcEZ0aWhoVjB3N0xFTEtObFFINA?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-08-05T08:41:33.999233+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o8de5ea",
+    "agent_id": "Tools A Monitor",
+    "title": "DJP Bisa Tambah Status WP GloBE secara Jabatan, Ini Ketentuannya - DDTCNews",
+    "summary": "DJP Bisa Tambah Status WP GloBE secara Jabatan, Ini Ketentuannya - DDTCNews",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNc3FXR2lhcndicWwzY0xnbkZ4U2o1UjdYeGRFVGY3ZUE3X3VjSnUxNWVPNWdGdXNGSFpvdUdSMWZtT25MZUJ2NlVNeW01dmZ6clc4dG1XUzhFQUcxd2hNbmpKMFFkWkg4TG1XTkx6dklWaFIwb1ctMnpzTFlIaXRzQkxJNU1tOVQxbE9xc3lDcDE2bklENUp6Z2VtY1VyVHF4a2wxTHBaRThyTGFYRDZrcg?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-08-05T08:41:39.434302+00:00",
+    "is_processed": false
   }
 ]
