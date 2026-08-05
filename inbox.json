@@ -12429,5 +12429,70 @@
     "confidentiality_level": "internal",
     "created_at": "2026-08-05T14:17:38.915608+00:00",
     "is_processed": false
+  },
+  {
+    "output_id": "o866359",
+    "agent_id": "Tools A Monitor",
+    "title": "SEC Establishes Financial Reporting and Accounting Unit in Enforcement Division",
+    "summary": "SEC Establishes Financial Reporting and Accounting Unit in Enforcement Division",
+    "raw_output": "",
+    "source_url": "https://www.sec.gov/newsroom/press-releases/2026-72-sec-establishes-financial-reporting-accounting-unit-enforcement-division",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-08-05T19:40:07.257910+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o8677ac",
+    "agent_id": "Tools A Monitor",
+    "title": "Trust fund thefts lead to fraud charges for Cape Breton man - PNI Atlantic News",
+    "summary": "Trust fund thefts lead to fraud charges for Cape Breton man - PNI Atlantic News",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONUxhR1Q2STV6ZTNtN0NfbXQ2d0REZlZjNFFhcnJFSld5SFpaUVRLWmNSdnN1ckU5ajRwR0ROR0hSUk5aUWx4ZV9XMlY3S2V4c2F1ZnlVV3BoVGE4Qjl4djV5QzNqWGtvM2o5N3dtdERIWUphWnBaRkJySV9WeV9wU2ZTTDJyUmNrSFZTRXZLaWJzZlpNX1FoeTAxYWQ?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-08-05T19:40:12.460387+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o868bd6",
+    "agent_id": "Tools A Monitor",
+    "title": "DJP: E-Commerce Akan Kembalikan Pajak Pedagang yang Terlanjur Dipungut - CNBC Indonesia",
+    "summary": "DJP: E-Commerce Akan Kembalikan Pajak Pedagang yang Terlanjur Dipungut - CNBC Indonesia",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNYlRxNHZ0N3gzSjd3dlhpcFpXeC1aYmNvNmdOM0dSZTRyNUlMOE1pVmVZQVdpUEZLejY0WTlWYW84WVV6Qi1ZOTgzakhKM1h3MmJqQWd4czRIMzh6ZGFXZHcxR3I4WmE1T0VibWlWNEl5WkVEQ09mUTNiSU9yaWpPclBXeGhDMGFoM215cE9vQ2ltdHVuaDVVQldGRWtXM3piUXg4VFo1V1QtbkdRaGFyTGdzY094VHdydEItdUh6R090RkJDUThF0gHMAUFVX3lxTE1ycEZEZHRlMXpVZXIzam8tdlF1QTJONkJERldkNzY1clJtaHNPMW5lX21rTVR0WHlIcDlOcTBIVXZRczlNZk9YeEZTdXFieHhsX1pwWmVFQU9pYXRFVnZjb2lZMC1lNWlDWnBjZ09YdGlmbFpxOGNPYnFOOGNRaFVfelNvU1VXM1FiVHdJVHVYVktFVHNfM3RtRTZvU2dtazMwcjBVNWl2bDFsWjJCUUhYVHltbDFpdkRDTGhzdWExRGktT1ExMUFTMnZDTw?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-08-05T19:40:17.622119+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o869ff8",
+    "agent_id": "Tools A Monitor",
+    "title": "DJP: Pemungutan PPh Pasal 22 Marketplace Ditunda hingga 31 Oktober - DDTCNews",
+    "summary": "DJP: Pemungutan PPh Pasal 22 Marketplace Ditunda hingga 31 Oktober - DDTCNews",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOWhkN05DcjNTRHpEWlR5RTJXX3EzQ0dkdnhkeUQ1Q01idGxtaTA0MWhVQkhtYmhoZEpiWDRNUURFUm44eEVkQWRkR2tKZUxVSHd3aGNTU2pBdjdMVUpMR3ZDSzBwcnZ4SXlVWEFDUWZYdjNGNTRFUTRGaFc3VzU1bDJWZldqSVZHcFY4VGxsak9mdTl5ZWhvbzgyLUVwSGhvTHJnbVRBblhKSHdEODFlTG5fRQ?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-08-05T19:40:22.776931+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o86b3f7",
+    "agent_id": "Tools A Monitor",
+    "title": "Fiduciary Trust International Adds Suhaib Bingaradi to Expand New York Wealth Management Team - citybiz",
+    "summary": "Fiduciary Trust International Adds Suhaib Bingaradi to Expand New York Wealth Management Team - citybiz",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZ2xrcEw5RnU3eVZaN25zeUJ3Nl9wZVlwZXBmaEEwT2R6MDNHNEVEd2s5WUFkMEdCSlhtbmMwdy1VVUljRHpKLWhlb2MxbjFaY0tLSjBaeUpxd1JWLXo2UkFTd09JUzROdG5DbUdvblFjU3oyenk4OThlVUdsTFFMc2E3ampZeWVUSXd5ZzZoS3VyLWEwTEgzanNuSWpYa1EycEVwX05USXZKd1FjeUJOYmYweXhiTVFtWk1EX21DVGE2b1dFN1NuS2lGVDM?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-08-05T19:40:27.895201+00:00",
+    "is_processed": false
   }
 ]
