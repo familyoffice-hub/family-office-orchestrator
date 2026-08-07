@@ -12848,5 +12848,83 @@
     "created_at": "2026-08-06T14:21:26.726224+00:00",
     "is_processed": true,
     "report_id": "r20260807"
+  },
+  {
+    "output_id": "o6ed244",
+    "agent_id": "Tools A Monitor",
+    "title": "Coretax DJP Downtime 24 Jam Mulai Sabtu Pukul 18.00 WIB - Ikatan Konsultan Pajak Indonesia",
+    "summary": "Coretax DJP Downtime 24 Jam Mulai Sabtu Pukul 18.00 WIB - Ikatan Konsultan Pajak Indonesia",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZXhJU0VIc3haeWxIS281OGRCRHdaMXR3U3BzOVNfMHYtR0hjckFrRGtqd0hOWHZ5ZUVJMTBTUzF5T0h5dlFEMXptMWtvX1RScl9scExfdWhxYk5kMjhGNmJ1X0lvZXZXdjBnVmNsUF8xaWtwSnRPNlFMRF9va2NfVA?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-08-07T07:21:02.788012+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o6ee686",
+    "agent_id": "Tools A Monitor",
+    "title": "DJP dan BPOM Integrasikan Coretax, UMKM Kini Lebih Mudah Akses Layanan Publik - Ikatan Konsultan Pajak Indonesia",
+    "summary": "DJP dan BPOM Integrasikan Coretax, UMKM Kini Lebih Mudah Akses Layanan Publik - Ikatan Konsultan Pajak Indonesia",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPaUtxXzNuTXlZLUZGOHJ0WF95RnRneXdYNHRadjgyYmVFTVpsWXpkMzlRTHZKVWh2NDJRdm5xWU1lWG1iUlF6a3JWaVNTeTQyeWlDZUlmZE5MRDlKa0hwVnJ4anBPOUFOMXpreVo1Z1hzbzUwOWRXQkJTUktRQXlsa1I3N0Jsa3Z5cWlGdUpFM2RXTktMcV9zYnhQX2U?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-08-07T07:21:07.974522+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o6efb57",
+    "agent_id": "Tools A Monitor",
+    "title": "Laporan Keuangan DJP Ungkap Tren Peningkatan Utang Restitusi Pajak 3 Tahun Berturut-Turut - Ortax",
+    "summary": "Laporan Keuangan DJP Ungkap Tren Peningkatan Utang Restitusi Pajak 3 Tahun Berturut-Turut - Ortax",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVHRHWFgzdDZkb2V6ei1zNlNWYU9UdDlRb1RRelpyQ1RvLTI5QXpfeVgwNFRxbFhDVWVDTGFOOHVCOVI1S2FTZ1h3dHJyNVZWWTAybFZfblA1VWZEeU5YT05hZk1fN3RsZHhNOVIzMkROYU45SEVad1BxWGdaZWRCRmlsM1BOcTZHU3VZVmtRbGNHSkJaM1lJVjBGbm1iLXNZYlZSaGM5eXNnb2s?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-08-07T07:21:13.303149+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o6f100e",
+    "agent_id": "Tools A Monitor",
+    "title": "DJP Tambah Hak Akses Baru untuk Penandatangan SPT PPh 21 di Coretax - DDTCNews",
+    "summary": "DJP Tambah Hak Akses Baru untuk Penandatangan SPT PPh 21 di Coretax - DDTCNews",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPd1JfbTQzSE9YZzl6Zl9hdEhNSVk1Uy1Gc0VQN3o3RDlzU0xpTVpkSEpDbFRLeFFKOENoQXByQ251OE9ZSVREZ2EwZXRaTC1DZTBZb0dUb2FUdGJjYTNYaE5qQVByR3JXSm5zNVlZbm40cVpGMUZrRWg4YXVHTDRfeWh1QVk2ZTVVcERiWl9EMHR3MWJkUlY4QWJuaDlRQ1d6SHZwMUluOWNFSzJQMi12WWg0dWtLQQ?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-08-07T07:21:18.606009+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o6f2453",
+    "agent_id": "Tools A Monitor",
+    "title": "Kanwil DJP Jabar II dan IKPI Bekasi Kompak Meriahkan Jalan Sehat Serentak HUT ke-61, 450 Peserta Ambil Bagian - Ikatan Konsultan Pajak Indonesia",
+    "summary": "Kanwil DJP Jabar II dan IKPI Bekasi Kompak Meriahkan Jalan Sehat Serentak HUT ke-61, 450 Peserta Ambil Bagian - Ikatan Konsultan Pajak Indonesia",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRzIzX2Q0Ylk0eUxJNHczOVV6akdpbE1NY0dBSjRmekc4MkwwUFZzUXVhQk43N1hzN1RfZnY5Z3hMN1ZvYUlodjMyZlRBYTZPQ1dMTmFNRDdQS1dDLXQxWUkxeDU1QmhvYVg0TUNVNm1zX1g2alRvRGZ0VGRlMHZSM0p0STEzTGpTdmJwbmxtVTZtb2pfM0xiclVGMmQ4aDl0Z0ZueExIWVZCa05nNklFUDEwZlBnU0dIWkxwNWFIRGZ6VmFlZGRV?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-08-07T07:21:23.795700+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o6f3883",
+    "agent_id": "Tools A Monitor",
+    "title": "DJP Berwenang Awasi WP yang Sudah dan Belum Tambah Status GloBE - DDTCNews",
+    "summary": "DJP Berwenang Awasi WP yang Sudah dan Belum Tambah Status GloBE - DDTCNews",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUzc0SG94QkJ4a08yWWVUcFRNUG5TeWoyM19kQkg2R3d3bTE4eFhxdUdvcmJjYWVLQWFzc1YyWEp0OC0ydjB5WGs1VWtiZFJ3WnZqS1BEcnBpRXlhaG9uN0VEeHhNV3U5TTRPX1RxUTdublpVTV9jMW1KQUNIZFBuZENDdXYwSEtBMVZmb2sxQVN0UER1Zkx6ai1YY0VQS2ZUb2NHZ3dIay03c3F5dEtXeA?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-08-07T07:21:28.964000+00:00",
+    "is_processed": false
   }
 ]
