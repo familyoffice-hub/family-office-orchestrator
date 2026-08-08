@@ -13086,5 +13086,18 @@
     "created_at": "2026-08-07T19:02:09.830006+00:00",
     "is_processed": true,
     "report_id": "r20260808"
+  },
+  {
+    "output_id": "o3bc463",
+    "agent_id": "Tools A Monitor",
+    "title": "Implementasi Ditunda, DJP Akan Tunjuk Ulang Marketplace Pemungut Pajak - DDTCNews",
+    "summary": "Implementasi Ditunda, DJP Akan Tunjuk Ulang Marketplace Pemungut Pajak - DDTCNews",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbmt1Q0xrWW1ya0p5UFE2NnlNRFoyLWVzU0F5YzdCNC1ZVWdjLUthYmRjMG94UnlpWllEWEU4dDlKYml2dk1JMGJ1eHVxZnNUdF9qd2NwVmR2N2FRZG9Lc1o0SWJJeWNMWFVEYXg1X250NUhlNXh0a2RIVFBYcEQ3S1RtVTA3ODFsZUxTc085WHJLSEl0VlNsRk9KLWRYLVREWW1Jd2ZvUHp0eVJxRkI5cS1IQzRjaVcz?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-08-08T01:51:56.899908+00:00",
+    "is_processed": false
   }
 ]
