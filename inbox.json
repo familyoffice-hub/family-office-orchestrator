@@ -13099,5 +13099,44 @@
     "confidentiality_level": "internal",
     "created_at": "2026-08-08T01:51:56.899908+00:00",
     "is_processed": false
+  },
+  {
+    "output_id": "o23c722",
+    "agent_id": "Tools A Monitor",
+    "title": "DJP Gandeng GP Ansor Jatim Perluas Edukasi Pajak untuk UMKM - Ikatan Konsultan Pajak Indonesia",
+    "summary": "DJP Gandeng GP Ansor Jatim Perluas Edukasi Pajak untuk UMKM - Ikatan Konsultan Pajak Indonesia",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNejNsc2g4RURJcmQzTzBkLUptN3JMdENqQThTTENSbHpmUk1XOHlhclp0bUoxMS0yWlFGRHh5TzBSY3J6dE9yNEtaU2R1Y3VPWmZVSGNTTkVVVmVHZ0oxTFdUSmg4STVzUUlFOG5Tc3ZZZnVwTjFMbkp4QTJoNVBhLTNCVkZJdw?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-08-08T06:59:04.738082+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o249fa7",
+    "agent_id": "Tools A Monitor",
+    "title": "DJP Jatim Gandeng GP Ansor untuk Edukasi Pajak Para Kader - DDTCNews",
+    "summary": "DJP Jatim Gandeng GP Ansor untuk Edukasi Pajak Para Kader - DDTCNews",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaGY5RmZ4dmVrRXctanhxdEljcFQ2RDYtdEs2MTFwRFBiVFJGOWo5Rmg5bC1YQ3lockJwTnpYSE5FT3RPbVNKaUE0Snh4Nkgzc1laamFiTFIwV24yby1iaDNIZGRUb05objFqUTlhRTJSWklXbTBHak5SR2pQZWR6MWx1M2JRUkxfaXdzalU2bWVzdXZIdGhjY3FTcWpVdzRteDRGXzJn?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-08-08T07:00:00.167381+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o24b3ee",
+    "agent_id": "Tools A Monitor",
+    "title": "DJP: Penundaan Pajak Marketplace Tak Ubah Substansi Kebijakan - DDTCNews",
+    "summary": "DJP: Penundaan Pajak Marketplace Tak Ubah Substansi Kebijakan - DDTCNews",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVmxDUjZDdm1YRnE5N0E2ZGhoR2JieUFQbDRlTWprNVVKQ05jWGtydGRCYXlDOVRXLXBzY25hYmJOdTBJRVptUWVobzJkVW1rWEw3cXFkZU9QVFJET2dvWWF2VFlkbXRUd3dMQWNTeWVydnhoaFM2UXV4dnVNcFRQZVAzNnNoSXBBMHVRMGV6QXpZUTJTak0walJiN0tuOGVwaTI5c0tvSmtpaTk5?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-08-08T07:00:05.358807+00:00",
+    "is_processed": false
   }
 ]
