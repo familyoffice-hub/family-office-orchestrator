@@ -1,33 +1,5 @@
 [
   {
-    "output_id": "o538596",
-    "agent_id": "Tools A Monitor",
-    "title": "Berlaku Juli 2026, DJP Dorong Kesiapan Marketplace Jadi Pemungut Pajak - DDTCNews",
-    "summary": "Berlaku Juli 2026, DJP Dorong Kesiapan Marketplace Jadi Pemungut Pajak - DDTCNews",
-    "raw_output": "",
-    "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcTlPb1JTSWdhY0ZHMi1EcHBzTUFvV1hxNmhPVld6Nnl2TC1CMExZNmdyT2ttUzNFRlNpWDdmY2dTUmRxd0JOeG51SWRrSWUxT053QVJxSHdveHlYWEtHMzJuV002OU9UcE1XbU9ZLW52QXdmWlhsdHJTM2Q2VlMwck9mcEQzcXZOcDFQRXk4NGFJMGV1U3pSaEdzc0JxaWFSS3ZaNTlJUmk2M2FsTEp4VC1mamJjV09z?oc=5",
-    "category": "",
-    "priority": "High",
-    "confidentiality_level": "internal",
-    "created_at": "2026-06-23T11:51:13.686511+00:00",
-    "is_processed": true,
-    "report_id": "r20260624"
-  },
-  {
-    "output_id": "o2e72e1",
-    "agent_id": "Tools A Monitor",
-    "title": "B Swift Talks Estate Planning, Generational Wealth, and Family Legacy with Attorney Jennifer Naughton - Hot 100.9",
-    "summary": "B Swift Talks Estate Planning, Generational Wealth, and Family Legacy with Attorney Jennifer Naughton - Hot 100.9",
-    "raw_output": "",
-    "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBjLW9Rc3ZlOEZ1REFqb0pnWDJiVUV2VF9oOFpzTmllc1NhOXV3YnlLUzktcnlhN3hHZG8zN2pnYWhkRi1abkRZaGFDX1RuQzlVNE5RdmZKaldidw?oc=5",
-    "category": "",
-    "priority": "High",
-    "confidentiality_level": "internal",
-    "created_at": "2026-06-23T19:30:44.065226+00:00",
-    "is_processed": true,
-    "report_id": "r20260624"
-  },
-  {
     "output_id": "o2ea1e5",
     "agent_id": "Tools A Monitor",
     "title": "Inside Kevin Warsh's selection process for the next Atlanta Fed president",
@@ -13973,6 +13945,32 @@
     "priority": "High",
     "confidentiality_level": "internal",
     "created_at": "2026-08-12T13:17:42.732232+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o16dbab",
+    "agent_id": "Tools A Monitor",
+    "title": "Phoenix-based UBS advisor team The Schultz Group recognized on Barron’s Top 250 Private Wealth Management Teams list for second consecutive year - Business Wire",
+    "summary": "Phoenix-based UBS advisor team The Schultz Group recognized on Barron’s Top 250 Private Wealth Management Teams list for second consecutive year - Business Wire",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxNTUU1dHpDaU5MN2Z1b1RETnNXclpfbEdPdmVHdkhvWEw5VnZNUDBLbTdybHhLUHVyMzZoN1paR3BwNjBMblFmeHZKWFU5Q1BWVS1RMk80cmpzQWotRFZVV2FRaXhtRHVYWU9lX0o3YktUenpNM2MtTVBDak9TRG1sYjNUUG96VXI5ZWZwSHdNdEZ6Wl91M0dmQW4xbTFVMVZHUGgxcEt6elhvRkhub3FsMjE4cGVHVklGemtVaV9sODcxLVVGdm82ejdJVjlHMmlrUjhuWlVSbjU2MldwSGRkSEdRTmJlS29GUm8yek1OWDFVb2tJUG5HSi1XT0E5amUxclNZcl9WQzZVeW0xbFUtUXBxV0UydlhFeC1JVXdDSGtJUlpXcmhv?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-08-12T19:04:58.027931+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o16efe9",
+    "agent_id": "Tools A Monitor",
+    "title": "SEC Plans Two Major New Crypto Initiatives as Clarity Act Stalls - TradingKey",
+    "summary": "SEC Plans Two Major New Crypto Initiatives as Clarity Act Stalls - TradingKey",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZEliX0x6cGNaeHU4dWQ3N0EtYXZJS2ZEN3BDY01nQ1BwY1dBRXNJWTJWdkhkaERoNVRlV2pMb1BrN0xYdE5pOVB6SHJHaVNhOHJHZmtPbkQtNFZCU1RJYV9ndUgyVjAzQlFsNlJGeThZOVBwbTVBUXNyNXAyX08tdHFHWkkxbmhTVnRfbkhCeWRxOC1aV3NvQmk2T0lITGFsRms3WkR1bw?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-08-12T19:05:03.209150+00:00",
     "is_processed": false
   }
 ]
