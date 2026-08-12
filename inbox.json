@@ -1,33 +1,5 @@
 [
   {
-    "output_id": "o936e18",
-    "agent_id": "Tools A Monitor",
-    "title": "Japan Probes Stablecoin Laundering in ¥14M Investment Fraud Case - CryptoRank",
-    "summary": "Penyelidikan ini menggarisbawahi potensi penggunaan aset kripto, termasuk stablecoin, dalam aktivitas ilegal, yang dapat mempengaruhi persepsi risiko dan regulasi aset digital bagi investor.",
-    "raw_output": "",
-    "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcXdldjgzZkduSF9XTHIxN1d1eVhVcTlCYjhIUjlXZ3R4YlM1eFZheXNWQmszSUdFb1ctUS0zZll5dlJhOUdJcmhDdzc2ZGxSaUZhVEZUVnpPTXAyM1d0XzZXYnQzbWZoS1pyZGFFbm1JeWZZdmF4TjVVNExBVWFudTBXMjZzN29hUjZCbGwzRS1HMGRKNzRfUFBrd1lTZ3FmMms4UU5KWUdBd1E?oc=5",
-    "category": "",
-    "priority": "High",
-    "confidentiality_level": "internal",
-    "created_at": "2026-06-22T23:07:41.976308+00:00",
-    "is_processed": true,
-    "report_id": "r20260623"
-  },
-  {
-    "output_id": "o9401c5",
-    "agent_id": "Tools A Monitor",
-    "title": "Tax Planning Is Estate Planning: What’s Changed for 2026 and What to Do Now - Wealth Management",
-    "summary": "Perubahan regulasi pajak warisan di tahun 2026 berpotensi memengaruhi struktur kekayaan dan strategi transfer aset antar generasi, sehingga memerlukan tinjauan dan penyesuaian perencanaan.",
-    "raw_output": "",
-    "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVFZvVVFtMHpXUC0wR0F2NmNJa3E5bktJNW9fUW5lNG9LLXliMk9uQlFFeDVlYUxtSWdRbFZ4SUZzUWExWTVPaFduaU5KclR0YlVTUDlyWFlJSFd0MnBzZkZoSXp3Ukl6TS1rUV9oc0o5bF9UUHU4OGR3VGNIMlBVOXZHY3lTYjZsc2FRMnp4S3Q0eVlxdHpHbE9FRUkyUk5LRlJ6dEV1WmppaDVoWUtVRlFfYjNsaGpVNmpSazFjdFI?oc=5",
-    "category": "",
-    "priority": "High",
-    "confidentiality_level": "internal",
-    "created_at": "2026-06-22T23:08:19.781344+00:00",
-    "is_processed": true,
-    "report_id": "r20260623"
-  },
-  {
     "output_id": "o95b1aa",
     "agent_id": "Tools A Monitor",
     "title": "Northern Trust Wealth Management’s Names New Family Office CIO - Institutional Investor",
@@ -13987,5 +13959,31 @@
     "created_at": "2026-08-11T19:09:37.769183+00:00",
     "is_processed": true,
     "report_id": "r20260812"
+  },
+  {
+    "output_id": "oaed9b",
+    "agent_id": "Tools A Monitor",
+    "title": "Pihak Lain Jadi Kuasa Wajib Pajak, Uji Kompetensi Disiapkan Kemenkeu - DDTCNews",
+    "summary": "Pihak Lain Jadi Kuasa Wajib Pajak, Uji Kompetensi Disiapkan Kemenkeu - DDTCNews",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZ0xZS3p4UXZuUm9RNjdMUjdENld4dFdpTzlpVjRPOUhHeFpzaEV5VUs3XzZQRmNEWm9RVVVVS0h0WUo1M3ViZXFwRWN3OTN6SWpjQlIxVU5OMUZRRmptWVJvMzJFcHpqa0VFOTZTSTlqa0hrX1ZzamNaOUIySXJjMWEyV0VZRnJjQTV6T1lVWFJVaVZyVDlROXlIbDdMVkVTLTZ2NzFXbzBiSTFrUEoxc0VwYkp4QQ?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-08-12T02:11:56.187196+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "ob033f",
+    "agent_id": "Tools A Monitor",
+    "title": "Mubarok Institute Dukung Penuh Destry Damayanti sebagai Gubernur Bank Indonesia - Telusur.co.id",
+    "summary": "Mubarok Institute Dukung Penuh Destry Damayanti sebagai Gubernur Bank Indonesia - Telusur.co.id",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSkxwaXQ5TUU1RmVHN3Y0ZENwbzA3Qk9NeEVpX25uUGtRWmd0OFJ6RnZtelhGNXVtbURvTHRZbTRfV2loSUM2ek9Nb0VfekVVcFZNOEVPUktpcGQ5eGQ3Ujl1OWxPRFVqS01TaWpVRVRoUWs3Ni1CZUNVOGowcHAzaDJxaUtBa0YwM2gyeVVLTTBZTEZlcXFVM01xUDdtaFZ4VXFNQjJENFlhdGJK?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-08-12T02:12:01.727764+00:00",
+    "is_processed": false
   }
 ]
