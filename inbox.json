@@ -1,47 +1,5 @@
 [
   {
-    "output_id": "o95b1aa",
-    "agent_id": "Tools A Monitor",
-    "title": "Northern Trust Wealth Management’s Names New Family Office CIO - Institutional Investor",
-    "summary": "Northern Trust Wealth Management’s Names New Family Office CIO - Institutional Investor",
-    "raw_output": "",
-    "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcFBlQ2F2WHRMZzZfNnc4VnFaNUQ5cUxnOXNzNVlHdFdrQmJjVUVOdF9XUFdEdHd2VmxRdlBmcm9qbGpTYTlGVjNTdVd2ZF9aRFBsdFo5REFvblpraHNFMldocU96MDhZc2pqYlJNMWc3NWVBdHZTMEpUcGRVaTJhQ09XdE5OWjZyQ0ZNSWt4X1ZwX2RRUlZ3SDExOVlqVmVHcUZyVnNQNWVuaWM?oc=5",
-    "category": "",
-    "priority": "High",
-    "confidentiality_level": "internal",
-    "created_at": "2026-06-22T23:10:10.346705+00:00",
-    "is_processed": true,
-    "report_id": "r20260623"
-  },
-  {
-    "output_id": "o974f69",
-    "agent_id": "Tools A Monitor",
-    "title": "Anomali Pasar Modal Indonesia: Suku Bunga Naik, IHSG Justru Melesat - Kompasiana.com - Kompasiana.com",
-    "summary": "Anomali Pasar Modal Indonesia: Suku Bunga Naik, IHSG Justru Melesat - Kompasiana.com - Kompasiana.com",
-    "raw_output": "",
-    "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSnZiWXZ2MTBtTXpqTXFNRjZlT0toMkNlMWluRzRzekVUTnRYUDZhTFRGdHB5bXkzYUMtSmQ4d29kNkpVWjBqb01nREVIRVJpSHgyRkJ4d2xsbWE5NlNxSDQ2d0RaREp6Rmg3eU9rNjNXam0xMy1HVExkNmloSWJkWlNrLWhoMkdDRjBJMVpnbzg4WkhVRm5xNFZ1UG5pZi1pU0dNbG5UZDY1ZDVaR2hlU2pET2t4NUxuQi03WjExZVBDZUxlZDlnZ1Joc1hRWURWZ2Zj0gHTAUFVX3lxTE5KdmJZdnYxMG1NempNcU1GNmVPS2gyQ2UxaW5HNHN6RVROdFhQNmFMVEZ0cHlteTNhQy1KZDh3b2Q2SlVaMGpvTWdERUhFUmlIeDJGQnh3bGxtYTk2U3FINDZ3RFpESnpGaDd5T2s2M1dqbTEzLUdUTGQ2aWhJYmRaU2staGgyR0NGMEkxWmdvODhaSFVGbnE0VnVQbmlmLWlTR01sblRkNjVkNVpHaGVTakRPa3g1TG5CLTdaMTFlUENlTGVkOWdnUmhzWFFZRFZnZmM?oc=5",
-    "category": "",
-    "priority": "High",
-    "confidentiality_level": "internal",
-    "created_at": "2026-06-22T23:11:56.265905+00:00",
-    "is_processed": true,
-    "report_id": "r20260623"
-  },
-  {
-    "output_id": "o4dcb6e",
-    "agent_id": "Tools A Monitor",
-    "title": "Hingga Mei 2026, Kinerja Penerimaan Pajak DJP Banten Tumbuh Positif - Selatsunda.com",
-    "summary": "Perkembangan penerimaan pajak yang positif di suatu wilayah dapat mengindikasikan stabilitas ekonomi dan potensi perubahan kebijakan perpajakan di masa depan yang perlu diantisipasi.",
-    "raw_output": "",
-    "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdUhJWnNVSXNpejNyMlp4SWdpeEp2bGlWbTVzX0ZDRHJwTzkxLW94VlQxTnlxY3Z4Y2stWTd0RUpfNHY1cTJFZzJ3YVdFU1RKa1JiNGM2U2tST196bzB4bnoza3ZVbms4cHdESHRmejB6ellUTU1Rb0NyT0VvLU9aZHZvWUdodnlDUjZuYTBjcWFiQm9T?oc=5",
-    "category": "",
-    "priority": "High",
-    "confidentiality_level": "internal",
-    "created_at": "2026-06-23T11:44:58.350380+00:00",
-    "is_processed": true,
-    "report_id": "r20260624"
-  },
-  {
     "output_id": "o4e6517",
     "agent_id": "Tools A Monitor",
     "title": "Ripple, JPMorgan settle a tokenized Treasury on XRPL - crypto.news",
@@ -13984,6 +13942,45 @@
     "priority": "High",
     "confidentiality_level": "internal",
     "created_at": "2026-08-12T02:12:01.727764+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o3f721",
+    "agent_id": "Tools A Monitor",
+    "title": "Tumbuh 25%, Penerimaan Pajak DJP Jatim II Capai Rp 16,08 Triliun Hingga Juli 2026 - Ikatan Konsultan Pajak Indonesia",
+    "summary": "Tumbuh 25%, Penerimaan Pajak DJP Jatim II Capai Rp 16,08 Triliun Hingga Juli 2026 - Ikatan Konsultan Pajak Indonesia",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONVpFQkRzVjVLZ2w5VGpKOUNrZG1OM1JocGNnd3lxc0xSQXV2Ym1EbVZlNUZlQUxvYzdFUHM2QUpqSGo2aEo1c1VuVlVZOWZRbG5JWTVfNXZ6YzNJVW9QNWpmTUNqVTR3TzNWSlZQRjNzZHRTTHFjT0diOGgydjNGWkN4dWdvd25PZUdHZVliMnpQUXZuNXV2eGFuVUlEOEE?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-08-12T07:37:39.873192+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o40c04",
+    "agent_id": "Tools A Monitor",
+    "title": "U.S. SEC Weighs Allowing Listed Firms to Challenge Tokenized Stock Listings - CryptoRank",
+    "summary": "U.S. SEC Weighs Allowing Listed Firms to Challenge Tokenized Stock Listings - CryptoRank",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNLVBJTjdJODJWX3RSOXh1T3NHNGFITXdjazBwYlRJZGREWDBvNkJBWEJXSTNkQXQ2RWFzYUZmUVhvZUo1SjBoS3VhVjZJQnRodTROcFJQOXZOTnlBa1NDTkxXbTZ4aG9GTFpEdlgyS1B3UWRQREgtM09fTGJvU0xPVmFNTktnTU51R2Q2T1dHMV92Sk5IY2JXWg?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-08-12T07:37:45.220754+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o42135",
+    "agent_id": "Tools A Monitor",
+    "title": "DJP Imbau WP Tunjuk Keluarga yang Kompeten sebagai Kuasa - DDTCNews",
+    "summary": "DJP Imbau WP Tunjuk Keluarga yang Kompeten sebagai Kuasa - DDTCNews",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRTlTUE5kX1M4bzJ1elpXUzE2SDVXdmdvSE5RWXB6bU9LME1Bb0pVbjBKTjFkWGFHRE9DWmM0OGw2elg2M2NUMTJQN2tSRWl3ZzRUNHprZk5POW40VkIwSDFOVnJ6NE02U1BLQXdpT2dvYkdIcUR4c2lCQUg2b1FXa0RtY0J0aW55X3ZERDRUb0FuOFIwTHozcllSVVpKcEUtM2NkbGV2QQ?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-08-12T07:37:50.645778+00:00",
     "is_processed": false
   }
 ]
