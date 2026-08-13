@@ -1,19 +1,5 @@
 [
   {
-    "output_id": "o5f30c3",
-    "agent_id": "Tools A Monitor",
-    "title": "Berlaku Juli 2026, DJP Tegaskan Pungutan Pajak Toko Online Bukan Jenis Pajak Baru - VIVA.co.id",
-    "summary": "Berlaku Juli 2026, DJP Tegaskan Pungutan Pajak Toko Online Bukan Jenis Pajak Baru - VIVA.co.id",
-    "raw_output": "",
-    "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQblhBanZJLXBWaGFjRF9PQTRJdDU4QjVSdUw3STRJX3NPRTU2RXR3bFY5aklhSjN4NXU0Nl9jZm9Kd05Xb0Y0WEZfNFZiRjlEZnBtcHQzbm1qTDdlRHpsS3FseFVEeThMNmdrNkswcmxRZWt3RDh0aWJPN2JGUnVzc0Q0WGNXSkVkS3hVbGpFaVNVVnE4UDY0RjFFWk1SMHd6bU1fMTctMGlkbEp0WmZfdFZ4YXRHT3VtSmfSAb8BQVVfeXFMTUZWLVRfbDdtbkVSTk1sSWxCdU1KOFRuUWZoR0hlam9UR2RVcG9OUkFYTlc0U0xvVEYtT056Q2VxV2hjSzlnYl9neFZhYWllMHV5cjNSR1ZyQjhIZEViNVNVc0hXekxfWnlmbWI0Q2lOemVzUmNlaGctQWtMcFlRc2JRc052RHdBbUt3OTgwUUw3TUtwLXY1QlRKbnd0QWtVS3ZORWoyR1F4bGF0eHkzSl9NekpReEhFdW1lVFlFem8?oc=5",
-    "category": "",
-    "priority": "High",
-    "confidentiality_level": "internal",
-    "created_at": "2026-06-24T18:37:18.403588+00:00",
-    "is_processed": true,
-    "report_id": "r20260625"
-  },
-  {
     "output_id": "o60ce50",
     "agent_id": "Tools A Monitor",
     "title": "INVL Family Office Introduces Fund Investing In Private Equity Secondary Market - Pulse 2.0",
@@ -13964,6 +13950,19 @@
     "priority": "High",
     "confidentiality_level": "internal",
     "created_at": "2026-08-13T13:20:24.761834+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o79b848",
+    "agent_id": "Tools A Monitor",
+    "title": "Penyuluh KPP Malang Selatan Gandeng Wajib Pajak Gaungkan Kemudahan Coretax DJP - Direktorat Jenderal Pajak",
+    "summary": "Penyuluh KPP Malang Selatan Gandeng Wajib Pajak Gaungkan Kemudahan Coretax DJP - Direktorat Jenderal Pajak",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVGlTU3VHb2lQd0V0NDFyVWZfYnNndUJEYUtuWHUzSVBOVzFRcTNvcTFjYnljVjNpQWo5VXRJUF81cDdGakE5WkhBdTYyX3hXMGkzU1M1TTdDQVg3LURFV0dCLVlNUWNxV3ZMMmxSSmtldGtUa2puMTNCRDhhOG5SVW5IX04zQXQzSnBTdko4c2tucTBTWk9pUEgxM0lacng1SWVQajdkZk9HQkc4cm94LS1n?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-08-13T19:06:17.032913+00:00",
     "is_processed": false
   }
 ]
