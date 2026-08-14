@@ -1,19 +1,5 @@
 [
   {
-    "output_id": "o3d374c",
-    "agent_id": "Tools A Monitor",
-    "title": "Tiga Kanwil DJP Jawa Barat Sita 288 Aset Penunggak Pajak, Nilainya Capai Rp54 Miliar - IDX Channel",
-    "summary": "Tiga Kanwil DJP Jawa Barat Sita 288 Aset Penunggak Pajak, Nilainya Capai Rp54 Miliar - IDX Channel",
-    "raw_output": "",
-    "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNOU1sZmRTaTVmcFhFa25wOTZLQ2hVd1FCWWJHZ1JOdkMwSEJoeW5wNWJSeHJtdm1GZDBWbTFQaDRidzMyUU5scElucjQyeG9aZEpYTzJpeTF1QWZqUm9STV9sZVRPWjJfaVJQR0JmZjRjYWdpMy1Ta09ucGRvS2drTGZmb1EycElJVDV2TUtPbEd1eE9qcW80V1QtUVdtOHhFeDc0MkVsUS12Z01zQVBpajhiN1VNLWx0bWFENNIBwgFBVV95cUxQYnBHZlpXcTV0UVlONkx3Qi1FTWlfYmVOTnV2eDdaelg2R2tZbld4MDN5Rk5VRHlIVFpYeDFMckF1Rk41d1RRVXV0QWtwTjdWR0FxOU5NTW0xSUs3OUl3R3I4YlB6VFNxSXFkLVotM3JLRkgtYTNvWmE3R0xqakRMMUxOSkVyS2ZMUTZwc3FScnVUZk4wdWNUSUtzeUtHN2dQc2Q4MVo2cXg1NlVOWFo3RGZqWnBfVmQxMGxtN2tLeGxBZw?oc=5",
-    "category": "",
-    "priority": "High",
-    "confidentiality_level": "internal",
-    "created_at": "2026-06-25T10:40:11.852313+00:00",
-    "is_processed": true,
-    "report_id": "r20260625"
-  },
-  {
     "output_id": "o3ed46b",
     "agent_id": "Tools A Monitor",
     "title": "DJP Amankan 230 Aset Senilai Rp 24,9 Miliar dari Pengemplang Pajak - investor.id",
@@ -13977,6 +13963,19 @@
     "priority": "High",
     "confidentiality_level": "internal",
     "created_at": "2026-08-14T13:14:06.521636+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o3c0a9e",
+    "agent_id": "Tools A Monitor",
+    "title": "Citi hires JPMorgan veteran Adam Clark as wealth management push continues - InvestmentNews",
+    "summary": "Citi hires JPMorgan veteran Adam Clark as wealth management push continues - InvestmentNews",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOY29OczlGc0hFQ0hKczNyelZWWjBHblk5dGxLVGJLbGtwak9BQndHdmNuSDV0UlVrbXpWOWRIOWQxTHcwVlJBbWRlNmlMclJuUGVTWnNnaDNXeXNXXzZwdlNtWHBucldwV1ZtN1l0eHdBWDUxUkd0ODBhbjFEbEtmX1hlUTNXY0hQbWJMTXRXcXZPd0tRSEpCYTNNbnRvZWRqRVZaOXlRYkFRR1o4Z2p3UVNpQUg2REFQZXE1RjB5eWNFcWs?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-08-14T18:58:54.878369+00:00",
     "is_processed": false
   }
 ]
