@@ -1,33 +1,5 @@
 [
   {
-    "output_id": "o357648",
-    "agent_id": "Tools A Monitor",
-    "title": "Bank Indonesia Naikkan Suku Bunga Acuan Jadi 5,25% - Ikatan Konsultan Pajak Indonesia",
-    "summary": "Kenaikan suku bunga acuan dapat mempengaruhi biaya pinjaman, imbal hasil investasi pendapatan tetap, dan valuasi aset, yang memerlukan penyesuaian strategi portofolio.",
-    "raw_output": "",
-    "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBsQ3hSVzZ1TG9neVZTeXZDbThvdkNZUlRUeHpkandfT2dwMHMyZ21aVmZMTzVsdXNySnJmUGJwU1FFazNGUDd5MWtfbmtRMGtCblo2dWdQcFZkbkN3YmVtelgwMV9wSWNDd0JtbGk1RjFpWFBNY2Vz?oc=5",
-    "category": "",
-    "priority": "High",
-    "confidentiality_level": "internal",
-    "created_at": "2026-06-25T10:31:43.688978+00:00",
-    "is_processed": true,
-    "report_id": "r20260625"
-  },
-  {
-    "output_id": "o36f8b7",
-    "agent_id": "Tools A Monitor",
-    "title": "Pajak Marketplace Berlaku Mulai 1 Juli? DJP: Tunggu Keputusan Menkeu - DDTCNews",
-    "summary": "Pajak Marketplace Berlaku Mulai 1 Juli? DJP: Tunggu Keputusan Menkeu - DDTCNews",
-    "raw_output": "",
-    "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTVNyM1BXMW4zRjZNZjlPRXJZQVV3UHBrX2dGaFBUYVFGUW1NOWhGQUhyTWtWUzhHdDV2RDlGR25MN090MlQ2aGkxUmJuaXR5cUJhbFhVelctM2RXa1EzWXZyNFFXeFpyWFB2UzdFZ3J2UlRUcHhIME9TMDd0ZFA2aDZnaVVBUWRQRDNWbGIxQ1NSaEVYcDgta2NfTkFlTWl2WlNmOVFjSnBsQl9OWVNydFllVDM?oc=5",
-    "category": "",
-    "priority": "High",
-    "confidentiality_level": "internal",
-    "created_at": "2026-06-25T10:33:22.615733+00:00",
-    "is_processed": true,
-    "report_id": "r20260625"
-  },
-  {
     "output_id": "o374b9f",
     "agent_id": "Tools A Monitor",
     "title": "DJP Bertemu Asosiasi, Bahas Aturan Teknis Pajak Marketplace 0,5% - kontan.co.id",
@@ -13984,6 +13956,32 @@
     "priority": "High",
     "confidentiality_level": "internal",
     "created_at": "2026-08-14T02:13:04.838945+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o2df0d8",
+    "agent_id": "Tools A Monitor",
+    "title": "Pengawasan DJP terhadap Wajib Pajak GloBE - DDTCNews",
+    "summary": "Pengawasan DJP terhadap Wajib Pajak GloBE - DDTCNews",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPT1lvTGxSaFNjMmdWSjdrMmNWQXp0N1NxVU5tVHd4OFFBejFGU294QW9iMVpSeTZiZkd1cXd6MFY2UW5sdHVyMkRxSk1XemtuNnBwVVBXdzNjaU1Mc1BiRG9ORk0tRHc3Nnp3VjVCUjBlbFk3MFVOWERIeU9tZkV3Vkg5LUJ0ekVxXzFJRWdQUktqLVRKVVE?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-08-14T07:36:50.776909+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o2e0572",
+    "agent_id": "Tools A Monitor",
+    "title": "Gandeng IKPI, Kanwil DJP Jakarta Selatan I Perkuat Pemahaman Pajak Minimum Global - Direktorat Jenderal Pajak",
+    "summary": "Gandeng IKPI, Kanwil DJP Jakarta Selatan I Perkuat Pemahaman Pajak Minimum Global - Direktorat Jenderal Pajak",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMHFQZGlUT2VBaHBMbzY4UnVEbXY1ejZuM29hZEJTbGxYU1RKWkZ4Um1YRDJmR09xbG1RbElfejFkV2JaNUdIS3hmazd1T2JJMFh2VWR0bWtDNjI3Ri1fYmhmTDFlS0NsRlVXRndZRHhXY0k1X3JIWDkwUnkwMFNkYkh0MXB5dFNuNExfUDhxajZYU0dmNHY1M1Zkai1HN2l6OWFOeGQteDZ3MG9hQXhsMGN1YVg?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-08-14T07:36:56.050928+00:00",
     "is_processed": false
   }
 ]
