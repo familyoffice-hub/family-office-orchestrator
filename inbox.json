@@ -1,33 +1,5 @@
 [
   {
-    "output_id": "o60ce50",
-    "agent_id": "Tools A Monitor",
-    "title": "INVL Family Office Introduces Fund Investing In Private Equity Secondary Market - Pulse 2.0",
-    "summary": "INVL Family Office Introduces Fund Investing In Private Equity Secondary Market - Pulse 2.0",
-    "raw_output": "",
-    "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOREpsQWlKNkl3bHB1bWtuMmo5UElSQ3lxNERycHdZSTRkcEF6R2I0bVc5UTF2QjBpMW1Gc1g0dkFvUnE1TDlkN3VPOVIzVzZMOV80Qmk0RTV6OVY0QjVLbS0xcVNLNUl5aUk1OG1JaDlTcVRXV3pDcDZPMHAzNmFhcktHOVo2NW9ZU1ZLa2FsVGVHU1FReW9mN2FqNzg3YnAt0gGmAUFVX3lxTE94YTFnUl9ERlQzZEt6ZXJzQUpmRXJ2aWd5YmRmdUFIVkxlVkh3V01GR1NZU0FjYW82OVBkaTFHT2Vvb0N2ckNQSkVpZS1HVzFudmIwN0VXMnVTRzJiTXBzTzM0UWpDaENVMi1NdGlMUThyd0RoNlZGaTNIaUZZY1ktQWVkU0psV1ZSSnVDb2dpbmdtVHdfb0tUaWQ3M3ZEeGtyN3ZlTWc?oc=5",
-    "category": "",
-    "priority": "High",
-    "confidentiality_level": "internal",
-    "created_at": "2026-06-24T18:39:04.272953+00:00",
-    "is_processed": true,
-    "report_id": "r20260625"
-  },
-  {
-    "output_id": "o626bac",
-    "agent_id": "Tools A Monitor",
-    "title": "Who's Moving Where In Wealth Management? – Julius Baer - WealthBriefingAsia",
-    "summary": "Who's Moving Where In Wealth Management? – Julius Baer - WealthBriefingAsia",
-    "raw_output": "",
-    "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVzk0UDhzOTZMMGpZbmotNS0xNDAyRkcyS004Y2VfMWVnVE5xRFNFcnozMkdWam5UZl9LV0NOcjVlTFVhMEVxZ2xEelJNSkM3ZlYxeFAtOGpIZmpjcG1oOHB0VDA0SmFXN29UeXJKYl9NYktlcW1fVm5QMFlieWM1MGxZc2FJa21TYVI2TkV4ZzV4NFNQVVVCTGpHSlRSZ21vbFJFRWdpVUlGbG9OUlpkbU9jNkVTallGb3JfYWhhck0?oc=5",
-    "category": "",
-    "priority": "High",
-    "confidentiality_level": "internal",
-    "created_at": "2026-06-24T18:40:50.092651+00:00",
-    "is_processed": true,
-    "report_id": "r20260625"
-  },
-  {
     "output_id": "o357648",
     "agent_id": "Tools A Monitor",
     "title": "Bank Indonesia Naikkan Suku Bunga Acuan Jadi 5,25% - Ikatan Konsultan Pajak Indonesia",
@@ -13987,5 +13959,31 @@
     "created_at": "2026-08-13T19:06:17.032913+00:00",
     "is_processed": true,
     "report_id": "r20260814"
+  },
+  {
+    "output_id": "o3575d2",
+    "agent_id": "Tools A Monitor",
+    "title": "SEC Charges Toms River Trio in Connection with Alleged $47 Million Fraud Targeting Orthodox Jewish Communities",
+    "summary": "SEC Charges Toms River Trio in Connection with Alleged $47 Million Fraud Targeting Orthodox Jewish Communities",
+    "raw_output": "",
+    "source_url": "https://www.sec.gov/newsroom/press-releases/2026-74-sec-charges-toms-river-trio-connection-alleged-47-million-fraud-targeting-orthodox-jewish",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-08-14T02:11:43.570657+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o36b346",
+    "agent_id": "Tools A Monitor",
+    "title": "North Shore Elder Law Announces Massachusetts Estate Tax Guidance for Families and Estate Planning Lawyer Selection - FinancialContent",
+    "summary": "North Shore Elder Law Announces Massachusetts Estate Tax Guidance for Families and Estate Planning Lawyer Selection - FinancialContent",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQZkZhWko0QUtONmhhd1NFM0l0czNLWUpZeDFUUFQwdGF0b1hrbWNXajV2MnUxVWlwRHBvWXlNRmJMa0lkMVZxMkdJa3N5UEpjT3ZmLUprZkp4WDBuMnZaelZVZG9BSi05YUttWEN1MFM0RjctQkVRWnlIZDBJd0pEam1WMFZlVzM4R20tWUpPdEkxOVp2SHJNUk9aZkdvS3lETE1CdlJyN05SWkpXNUo5bzFINzVNcXJpZkJLS0llSDNUbWtfTjBJRS16ZjVWRHJJVDFNamx0NUJfR0gtbXJUT0Z1MzVpWjlvM1FnT1RGblRXbzJ3ekJwbWZLcEZJVWxzOUt6X1pKUTcwMmhEaFNleEhsVjYtTVJXTGExdQ?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-08-14T02:13:04.838945+00:00",
+    "is_processed": false
   }
 ]
