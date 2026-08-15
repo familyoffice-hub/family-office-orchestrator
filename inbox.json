@@ -1,33 +1,5 @@
 [
   {
-    "output_id": "o5d129b",
-    "agent_id": "Tools A Monitor",
-    "title": "Omzet Rp500 Juta Tak Dipungut PPh Pasal 22, DJP Minta Merchant Jujur - DDTCNews",
-    "summary": "Omzet Rp500 Juta Tak Dipungut PPh Pasal 22, DJP Minta Merchant Jujur - DDTCNews",
-    "raw_output": "",
-    "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQlBWcUZXTTE4cElhWU1uWmthUEJUdGNQNDJQZWlmQkFzSlc1dThDc24yckVxWHRBcDBjalRhRTFIaDdweGY3Y0l3T1RISkRSd2Y0MEgxNXJJNnl5VVZQZ3dreDQzRWxqUXBfV1hXMS1HU3JxMlFIYnZCX0ZONXZoVjlHa2ZDTVp5bjh1bmtqeFQ2UWIxZGF5Qm5sXy1DaHFUSGNHM0IzWWx5aVpBWGttVi1abUNadw?oc=5",
-    "category": "",
-    "priority": "High",
-    "confidentiality_level": "internal",
-    "created_at": "2026-06-25T19:34:59.611977+00:00",
-    "is_processed": true,
-    "report_id": "r20260626"
-  },
-  {
-    "output_id": "o5eb1b8",
-    "agent_id": "Tools A Monitor",
-    "title": "'Family office' sold $40 million in notes without a broker license, SEC alleges - InvestmentNews",
-    "summary": "'Family office' sold $40 million in notes without a broker license, SEC alleges - InvestmentNews",
-    "raw_output": "",
-    "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQaWtYbnNwUXFGLUxQZ0dDclkyVDJuTHcwaWlURkpMTlBRRGtfVDZhYXBHVVJ4MUViT3pGcXFDdy1ZclRudEUyR3lZaFdvdTdscEliaE1fS1RudHVQdXpkY0czUGVVclhoSHlyX1A0OFFOSGM1NGVUaGIxaFM5RmVDelZJVlQ5Nkw3ZnAydzk3QUNhVWJhaFdham1vVlp2b3U1djZ3a0czT0FxTmhZMHVvYmF5YmczS3ZpVjRzcTUyRVBic0lOMlRqcWJ4VVQ3SXJGdVduLTV5djE?oc=5",
-    "category": "",
-    "priority": "High",
-    "confidentiality_level": "internal",
-    "created_at": "2026-06-25T19:36:45.880600+00:00",
-    "is_processed": true,
-    "report_id": "r20260626"
-  },
-  {
     "output_id": "o6051af",
     "agent_id": "Tools A Monitor",
     "title": "Supertri and UBS Global Wealth Management strengthen partnership to build on community impact in Jersey - Endurance Sportswire",
@@ -13975,6 +13947,32 @@
     "priority": "High",
     "confidentiality_level": "internal",
     "created_at": "2026-08-15T12:43:36.292867+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o86ab49",
+    "agent_id": "Tools A Monitor",
+    "title": "DJP gandeng pemda sisir potensi penerimaan pajak - ANTARA News Bali",
+    "summary": "DJP gandeng pemda sisir potensi penerimaan pajak - ANTARA News Bali",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNN2FzMllJcUdHX1R2cVFXV2xVWnRCdUZMNGMwNWRWaktwdlF6Sjgzc1R0WmlRbDhURDRENEVaTTBYcjZLcEd5Zktya1ZIZnlyVVJFaDZJZEx2eHJUYkFsSGg5YTRMemh1WTRXQjJqcjJZaW85cnJJdjNUejFsenNfR1pINWsweXFWeXRnY085SldKRUd40gGaAUFVX3lxTE5uSUNPUUU0bnZpQnY2MDlvYy1id29nLW5TSFd2cjRZRFdtd21CdnNFMjZHaVA4SV82aFlWVE9hVmFlU1JUa3Z0OWdSZ3YtWGQzVG5FLTlOaFYyZkFuaTVDdGkwZklzMVN3Z3IyVGthUHJmcThUNVFCRUljX2tOSnVtOE4tdVZYbGVYUlM0Z0xMUk5vem1BU3RJcEE?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-08-15T18:33:45.673148+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o86bfc5",
+    "agent_id": "Tools A Monitor",
+    "title": "Simpson Thacher Opens Chicago Office With Five-Partner Private Equity And Family Office Team - Pulse 2.0",
+    "summary": "Simpson Thacher Opens Chicago Office With Five-Partner Private Equity And Family Office Team - Pulse 2.0",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbTA1UUFJN08tbmRkcTlxb3FOTHdMR3d6MzZsQmRtVzVEVzc1cE5jMWpTLUN0R1hwY0dXSEw4M0pjSTY5M29GUTFjaUVDNjY0Sk0zSjRpa21LMGlXZFBLQ3VaNFF3WGZiZ0hZVG12elBSVDhUQ1pYY0xqNXhhOWZhRTVyeHA4dTNGQTg2ZDdzYUtscFVHM2ZyN28zMGs0bVZOU3pua1VMOGJXUmwtVjZicFl30gG3AUFVX3lxTE1vY2NMalNERTlfVTAtQmFtWUdIREluQXNrb2dKLXUxRm5sOFFzdUFiOGZheDd3bkFPN1lKUEJDSjQwSGQ0TFFCRHMycDYzXzQ3LXg4c1YxdXpFTHlQODVoSGxUR2RGSk1NLWZYSnNNWDlSM0VUV1YwaFEwN1ZvYnQ5Ml9yY2FaYmNWdlJ0Vno4X1ktYWVVb1BjYTZZVGRPeEtNRnYyYk9jLU1xQ25zLVdHQU5jaFV5RQ?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-08-15T18:33:50.917448+00:00",
     "is_processed": false
   }
 ]
