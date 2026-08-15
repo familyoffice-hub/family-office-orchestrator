@@ -1,19 +1,5 @@
 [
   {
-    "output_id": "o551e5e",
-    "agent_id": "Tools A Monitor",
-    "title": "JPMorgan Promotes Two Insiders to Co-Presidents as Part of Leadership Succession Planning - marketscreener.com",
-    "summary": "JPMorgan Promotes Two Insiders to Co-Presidents as Part of Leadership Succession Planning - marketscreener.com",
-    "raw_output": "",
-    "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNTURsVTBKalhXT21PNkkzdEZSVWhNeVRQUkdCeFhSXzBTZnJ2LTlWN1M1eGJOUlJxWVlHaXdhYV9TaXBJdVVDeXM2UGRIMWxQWmtranNqOThCQ3I4Z09hWDlPeWg5UGZ3WHdRSXBNd3FTUWRuOWEwNW9VT1UzaUNXUUU2MW9JNFNSZy1taE5TdTVwVTcyNnBkc1lWcWZSbjVwT2JsOG1jQXZGY3ktRFRPZ0txMnZLeTQxRGpxeW9PSkpIVGtpaHBlNjhZWllOV2RrNkFycGVQOWV4dw?oc=5",
-    "category": "",
-    "priority": "High",
-    "confidentiality_level": "internal",
-    "created_at": "2026-06-25T19:26:18.334725+00:00",
-    "is_processed": true,
-    "report_id": "r20260626"
-  },
-  {
     "output_id": "o56bd15",
     "agent_id": "Tools A Monitor",
     "title": "JPMorgan names two co-presidents in succession planning move By Investing.com - Investing.com Nigeria",
@@ -13980,6 +13966,19 @@
     "priority": "High",
     "confidentiality_level": "internal",
     "created_at": "2026-08-15T01:24:58.061922+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o5ddf34",
+    "agent_id": "Tools A Monitor",
+    "title": "SEC Delays ‘Innovation Exemption’ Again, Dragging Down Tokenization Stocks and DeFi Tokens - en.bloomingbit.io",
+    "summary": "SEC Delays ‘Innovation Exemption’ Again, Dragging Down Tokenization Stocks and DeFi Tokens - en.bloomingbit.io",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5Md3N3ckVxeWIwYWI5MmdHZGJHMGNBRVVJTUJOSDYycDVFV241Y29XQjVhSXFzT1c4bHpYTTFrVU9SbUpPZkZkR0hiVFFRSTQydm1BSg?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-08-15T06:42:31.988147+00:00",
     "is_processed": false
   }
 ]
