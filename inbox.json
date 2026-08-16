@@ -1,19 +1,5 @@
 [
   {
-    "output_id": "o6051af",
-    "agent_id": "Tools A Monitor",
-    "title": "Supertri and UBS Global Wealth Management strengthen partnership to build on community impact in Jersey - Endurance Sportswire",
-    "summary": "Supertri and UBS Global Wealth Management strengthen partnership to build on community impact in Jersey - Endurance Sportswire",
-    "raw_output": "",
-    "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPYzFSeWZnRG03b1MzMmlFbmdDSXdRVkpYMl91UkpGZWQyVEFFbTZ4dlczRkdQbGZ2UTlIbGxvQ2FCVkplYXhMRzEyQU5feEFxanRNOUJMb3UzazdKdlZac1Q4ZE9lSE9OUEl3djlZZXlUcDAxVXA2aHV4QjdGdlZmS2hOLURvRUQxWjdLVmxXdVh1MFRvZzJscjNteHFvVkxucmpYcThVS1dGdEtpdXNIanpiM2RDaDZXZkFQRGhER2dFRml5S3pUOXZoVFNfZWZ1YUpHalplOA?oc=5",
-    "category": "",
-    "priority": "High",
-    "confidentiality_level": "internal",
-    "created_at": "2026-06-25T19:38:32.367219+00:00",
-    "is_processed": true,
-    "report_id": "r20260626"
-  },
-  {
     "output_id": "o622960",
     "agent_id": "Tools A Monitor",
     "title": "JPMorgan names Petno, Rohrbaugh co-presidents, sharpening Dimon succession planning - The Edge Malaysia",
@@ -13987,5 +13973,18 @@
     "created_at": "2026-08-15T18:33:50.917448+00:00",
     "is_processed": true,
     "report_id": "r20260816"
+  },
+  {
+    "output_id": "o290fd1",
+    "agent_id": "Tools A Monitor",
+    "title": "OJK: Rebalancing MSCI Sejalan dengan Reformasi Pasar Modal - MetroTVNews.com",
+    "summary": "OJK: Rebalancing MSCI Sejalan dengan Reformasi Pasar Modal - MetroTVNews.com",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQODItTEpsQzlQNk5hbll6SG9LZmkyWmJkeU5TalhLN05fVDE5SldXZlRSZ2VuaVZwbnE3QTN2Z254Z1FZS3k3ZTBTQkFOTHBleEZGQkQ5VGxqa2FFVFd0My1IM3lvdE1maDY3c2o2N0ZuUGFkMmI5c3B5SHMtc19TTzZ3Q3I1YUhENjNra1FIejlKQkRvS1FCRlZzUnFRRklF?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-08-16T06:44:51.025371+00:00",
+    "is_processed": false
   }
 ]
