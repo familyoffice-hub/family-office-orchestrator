@@ -1,19 +1,5 @@
 [
   {
-    "output_id": "o266b59",
-    "agent_id": "Tools A Monitor",
-    "title": "Succession Planning Is Wealth Management's Defining Talent Crisis - ThinkAdvisor",
-    "summary": "Succession Planning Is Wealth Management's Defining Talent Crisis - ThinkAdvisor",
-    "raw_output": "",
-    "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOc3BUTVVsOXhxYXdDQkxuN0pkR0R3R2RxNHVxSDM3VFZhUWV3Q2JBMk1fakhKc3VPVVpYOHVla05hQU5RalUzS0NhLXJvU1VGdm9lSFBOczJDb3RxLUFZcHBCTGdublY3WUIwM1gwVUM1NURrcExoMklKaHRKRHhHVDg4V1RNb1pwTzlMQXAwejZ4TzAwWkdVQVpXZXNwLUViOHpteHpMcmg?oc=5",
-    "category": "",
-    "priority": "High",
-    "confidentiality_level": "internal",
-    "created_at": "2026-06-26T00:08:37.849170+00:00",
-    "is_processed": true,
-    "report_id": "r20260627"
-  },
-  {
     "output_id": "o2b93b8",
     "agent_id": "Tools A Monitor",
     "title": "Two is no crowd when it comes to succession planning - Private Equity Real Estate | PERE",
@@ -13987,5 +13973,18 @@
     "created_at": "2026-08-16T12:45:09.711609+00:00",
     "is_processed": true,
     "report_id": "r20260817"
+  },
+  {
+    "output_id": "o989504",
+    "agent_id": "Tools A Monitor",
+    "title": "Bank Indonesia Naikkan Suku Bunga Acuan Jadi 5,25% - Ikatan Konsultan Pajak Indonesia",
+    "summary": "Bank Indonesia Naikkan Suku Bunga Acuan Jadi 5,25% - Ikatan Konsultan Pajak Indonesia",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBsQ3hSVzZ1TG9neVZTeXZDbThvdkNZUlRUeHpkandfT2dwMHMyZ21aVmZMTzVsdXNySnJmUGJwU1FFazNGUDd5MWtfbmtRMGtCblo2dWdQcFZkbkN3YmVtelgwMV9wSWNDd0JtbGk1RjFpWFBNY2Vz?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-08-17T01:26:39.620189+00:00",
+    "is_processed": false
   }
 ]
