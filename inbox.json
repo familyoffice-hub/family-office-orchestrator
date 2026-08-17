@@ -13957,7 +13957,8 @@
     "priority": "High",
     "confidentiality_level": "internal",
     "created_at": "2026-08-16T06:44:51.025371+00:00",
-    "is_processed": false
+    "is_processed": true,
+    "report_id": "r20260817"
   },
   {
     "output_id": "o41ae33",
@@ -13970,7 +13971,8 @@
     "priority": "High",
     "confidentiality_level": "internal",
     "created_at": "2026-08-16T12:45:04.435720+00:00",
-    "is_processed": false
+    "is_processed": true,
+    "report_id": "r20260817"
   },
   {
     "output_id": "o41c2cf",
@@ -13983,6 +13985,7 @@
     "priority": "High",
     "confidentiality_level": "internal",
     "created_at": "2026-08-16T12:45:09.711609+00:00",
-    "is_processed": false
+    "is_processed": true,
+    "report_id": "r20260817"
   }
 ]
