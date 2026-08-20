@@ -1,47 +1,5 @@
 [
   {
-    "output_id": "o5df3a3",
-    "agent_id": "Tools A Monitor",
-    "title": "Bos DJP Buka Suara Soal Buruh Minta Pajak JHT Dihapus: Sedang Dikaji - CNBC Indonesia",
-    "summary": "Bos DJP Buka Suara Soal Buruh Minta Pajak JHT Dihapus: Sedang Dikaji - CNBC Indonesia",
-    "raw_output": "",
-    "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPbkVvbUxPdzBLWGtqTUxlR1NDc3Z2RFVjeHhiWWg3c205U1BXSGpwdGNXUFhlUG5GdzVOb0h5NVZmMVBKWWtfcVJ2cll3Xy1OeTFfeFBUbFA4MUE1a1otSlJGZm0tZXFBNlpfZFgzX1dxaUZVMlptcVBtR19QYnB3eXhZMGFzZndoRmUyZ1pRc1JteWduUFlIZWxvQk02NTNKeVdSelpFaDlsR1pCRXpwcEhZX3QxNTRPVHZFdF9sbzFReG1D0gHKAUFVX3lxTE5ISEtQSnk3b2RzQS1jcnBUME5QUGtvdWN5RFcwY215aXk5SGlvbXV4RTBZNHZnTlN1dXd4dnRyQ3NPWGN6OEZwdFZfZTlvcDljQWdSazhYQjh2UVVidmdRR2NEOXZ4TVBYZW5mS0xaWWhyVkd1UHRrMnFWVjEwYjVsNWtPZUpqUnUwY3NKd1BNVWlLLWpTZnZCSWdrWVpUTkl3SElNRWRGS2NJcTFaelc1Qnk1cFVtc0FKOGJndmFyem5vb24xXzRFMVE?oc=5",
-    "category": "",
-    "priority": "High",
-    "confidentiality_level": "internal",
-    "created_at": "2026-07-01T11:42:37.219883+00:00",
-    "is_processed": true,
-    "report_id": "r20260702"
-  },
-  {
-    "output_id": "o5e0770",
-    "agent_id": "Tools A Monitor",
-    "title": "DJP Ungkap Penerimaan Pajak Baru Terealisasi 45% hingga Juni 2026 - Ikatan Konsultan Pajak Indonesia",
-    "summary": "DJP Ungkap Penerimaan Pajak Baru Terealisasi 45% hingga Juni 2026 - Ikatan Konsultan Pajak Indonesia",
-    "raw_output": "",
-    "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNakl4eXVJVlFQNjdYcUgxcmx3aVI2dGF1eXBjUncxQ0g3MzJ2NEM4dmJTMkRhSFFaSVB0Zkk0NDRZRkp5Rzd0eUR5UktiN3l6WUNXSDl2a05JOFItdnRlbmxuZkppa0pZemdNRzZ2aW4yZ0lhRkxWUGlMb25VaWtJeTNSdWR6dEJqNEE0NQ?oc=5",
-    "category": "",
-    "priority": "High",
-    "confidentiality_level": "internal",
-    "created_at": "2026-07-01T11:42:42.288520+00:00",
-    "is_processed": true,
-    "report_id": "r20260702"
-  },
-  {
-    "output_id": "o31c85f",
-    "agent_id": "Tools A Monitor",
-    "title": "Penandatanganan Perjanjian Kerja Sama Optimalisasi Pemungutan Pajak Pusat dan Pajak Daerah Antara DJP - DJPK - PEMDA TAHUN 2021 :: Berita Cilegon - Berita Cilegon",
-    "summary": "Penandatanganan Perjanjian Kerja Sama Optimalisasi Pemungutan Pajak Pusat dan Pajak Daerah Antara DJP - DJPK - PEMDA TAHUN 2021 :: Berita Cilegon - Berita Cilegon",
-    "raw_output": "",
-    "source_url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPdWc3Z2lUOGdMeFNaY1B5RmtsTS02TmtIOUhyVFRUVDItQUlYRDFXeXNjaGRUb2FWaEtwaFMyRGhvWTVZWGU0bmdISmhycy1oTzhkV1hBZGh1WFVrT19WRWV2bWpsZGQ0UVEwUDVVOGd1WVRCMjNpcDQ2OGpRejN6NV9NdDRDb2ppSGxRUHRhTC1US1pVY0oySUhKRFdpM0tsbDhhZUxPdGpyUmdWUm05N1BRRUxWYUxUN2xZTVQzVTJBYWpoWnFXVnRiVXhSZTlzdEhHVTQ5dHFtVGRxVWlNNHUxOFlCNnpzT0JYTmQ1TFJYcGx6RHdZOXVoc0U5Q2o3c2VaWWl1RQ?oc=5",
-    "category": "",
-    "priority": "High",
-    "confidentiality_level": "internal",
-    "created_at": "2026-07-01T19:14:22.559930+00:00",
-    "is_processed": true,
-    "report_id": "r20260702"
-  },
-  {
     "output_id": "o31dc43",
     "agent_id": "Tools A Monitor",
     "title": "DJP Catat Realisasi Penerimaan Pajak hingga Juni 2026 Tumbuh 23 Persen - DDTCNews",
@@ -13960,6 +13918,45 @@
     "priority": "High",
     "confidentiality_level": "internal",
     "created_at": "2026-08-20T12:55:56.036882+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o15f1e5",
+    "agent_id": "Tools A Monitor",
+    "title": "SEC Establishes Financial Reporting and Accounting Unit in Enforcement Division",
+    "summary": "SEC Establishes Financial Reporting and Accounting Unit in Enforcement Division",
+    "raw_output": "",
+    "source_url": "https://www.sec.gov/newsroom/press-releases/2026-72-sec-establishes-financial-reporting-accounting-unit-enforcement-division",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-08-20T18:43:58.181597+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o160645",
+    "agent_id": "Tools A Monitor",
+    "title": "Family Office Governance: Translating Vision into Purpose - Deutsche Bank Wealth Management",
+    "summary": "Family Office Governance: Translating Vision into Purpose - Deutsche Bank Wealth Management",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPekZ5SVo2ZEtmUUwxd0hsdFZoQ05oNktDSGItZExodENRU1VtYTBKWlBzYTZObVNqRkRXS2d6RjZOMGstYmJveXkwVmhZc0YyeVc2cUItaFh3dnpSVmo2VWZkWUNJMGlMOFNkNDBLR0lEME9ncEl5ZUZ1Y1BVd1Bpcm01cUNrQ0FWM3o5OWxfWDlkOURVUHY0Rk56VDdSNFZXN0lrTlQyZFJuX3BOX2FXQXg3VlhlbXdPYkZJb1FJdw?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-08-20T18:44:03.397182+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o161aa2",
+    "agent_id": "Tools A Monitor",
+    "title": "Vanderbilt Descendant Launches Family Office for Dynasty - Wealth Management",
+    "summary": "Vanderbilt Descendant Launches Family Office for Dynasty - Wealth Management",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOekNQd0NCODc5cDBaU1AzSVl1aTAyVkplVGRsTF9tOERXV3ZrQk54WlNmZDFWVXUxMkhDUnhPeTVFQWgwVVR3SG1CMkkxSDJFWTNHc3ZSWVBYRFItMm5DSEhETzNGZ3RGY2FocXM3TFlXdUd5cDRBbVUwY3ZhbE9zS2RYTXN1T0pEZjdxTW1WSVF6U2twWEVmSkpMU1lxMU91U2tqVTlaZWR3OW5LUjk0SnRMR0FrRXc4XzNlVGZZV3pLV0NtNHc?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-08-20T18:44:08.610199+00:00",
     "is_processed": false
   }
 ]
