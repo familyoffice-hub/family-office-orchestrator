@@ -1,19 +1,5 @@
 [
   {
-    "output_id": "o39ea8e",
-    "agent_id": "Tools A Monitor",
-    "title": "Aplikasi Strava Kena Pajak 11%, DJP: Hanya Untuk yang Berlangganan - SINDOnews Ekbis",
-    "summary": "Aplikasi Strava Kena Pajak 11%, DJP: Hanya Untuk yang Berlangganan - SINDOnews Ekbis",
-    "raw_output": "",
-    "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWDlmNjRyc0JrLWpoWkNQdnVPSnNIeVc2eDhhQWc1aFE5dUVVYU4wTVlSME10NTExSDBPTXV3TmJaNnRkX2xRM21JdTBLdnoxSDV3UHd0RnVWNFN6ZndGc3R1NVlPZFhoRlZXNFdfV3BvZ3Q2Ulp6R1JrZG1jNU1zTFFQTlJaMTQ3bkZQNmVDcXZDNlF0alIwOUxmdk11SVUzcDNXR25MaVItaDN6OTdPSUd6emFQZUlVSGfSAb8BQVVfeXFMTzdpOXkzV3lFUDFKNzAycEJNTUtjTGJhbUxYT0dLOGFCRFJlMi1TVzdZNUR2UXB4YUtqVGhyNWRvaWpnb2RMNHB2VC1VYUUwcVZ1aTZCc24yUnpfMk5HdW14OWY0NU9UX1lCelA4NlAyZ1FyVkY0UVZxRGhsSkM1VEZvZHdCVUIxS2p1d3AtSVZMbG5nVkNCaUFoZGNZa1pTdFVzOExTUFBzVFZMOVRDQUFlZDU2UjY0ZDM2VnlLbGM?oc=5",
-    "category": "",
-    "priority": "High",
-    "confidentiality_level": "internal",
-    "created_at": "2026-07-03T10:16:35.598789+00:00",
-    "is_processed": true,
-    "report_id": "r20260704"
-  },
-  {
     "output_id": "o39ffe8",
     "agent_id": "Tools A Monitor",
     "title": "Strava Mulai Pungut PPN, DJP: Lari Tidak Kena Pajak! - CNBC Indonesia",
@@ -13984,6 +13970,19 @@
     "priority": "High",
     "confidentiality_level": "internal",
     "created_at": "2026-08-22T01:23:54.282376+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o10e0d7",
+    "agent_id": "Tools A Monitor",
+    "title": "SEC Charges Boiler Room Operator and Three Entities with Defrauding Retail Investors in $74 Million Pre-IPO Investment Scam",
+    "summary": "SEC Charges Boiler Room Operator and Three Entities with Defrauding Retail Investors in $74 Million Pre-IPO Investment Scam",
+    "raw_output": "",
+    "source_url": "https://www.sec.gov/newsroom/press-releases/2026-75-sec-charges-boiler-room-operator-three-entities-defrauding-retail-investors-74-million-pre-ipo",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-08-22T06:45:06.135299+00:00",
     "is_processed": false
   }
 ]
