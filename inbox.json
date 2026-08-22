@@ -1,33 +1,5 @@
 [
   {
-    "output_id": "o3a6b76",
-    "agent_id": "Tools A Monitor",
-    "title": "Optimalkan Algoritma dan Antarmuka, DJP Sebut Coretax Akan Lebih Stabil dan Cepat - Ortax",
-    "summary": "Optimalkan Algoritma dan Antarmuka, DJP Sebut Coretax Akan Lebih Stabil dan Cepat - Ortax",
-    "raw_output": "",
-    "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQM0wxTG83TU1ldmd1M2lFdU9ya0xyd1U0Y09IemJMVnlzMEhBb2FVVm1OSzV4dGZCNDJHS29FTDBFZ3VBbXQyMExnVkdFYlE5NUpCTmhaenJvYXZkbzdWaVZ4N3N6VUIyNFAzbEc3eG80NDBWR1o1QXNGRTNiZWV3eU1QTjBZOUlhMERkLWtKLU5HdklqSWFlcDQxSFQzR28?oc=5",
-    "category": "",
-    "priority": "High",
-    "confidentiality_level": "internal",
-    "created_at": "2026-07-03T10:17:08.598592+00:00",
-    "is_processed": true,
-    "report_id": "r20260704"
-  },
-  {
-    "output_id": "o3a80cf",
-    "agent_id": "Tools A Monitor",
-    "title": "DJP Tegaskan Diskon Tak Kurangi Dasar Hitung Pajak 0,5% di Marketplace - Ikatan Konsultan Pajak Indonesia",
-    "summary": "DJP Tegaskan Diskon Tak Kurangi Dasar Hitung Pajak 0,5% di Marketplace - Ikatan Konsultan Pajak Indonesia",
-    "raw_output": "",
-    "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbi1VSnNQVUVsajdfVEpncW12ME8xc2xIZWJUSzI4RmtwT0FzXzFXaGdoRGE4ZVE4X0FDalRxTzNZemhrZmZjbGs2QVVacnlFODVhX2lEc2ZpakhCSW1sSVN3UFNBMlNMVWpyQVRFZWRZRFRmS3Z1Q1lQVnFjbHVLUk0ybVRWLXV6RXJRbE0xaXBLbDdsYlE?oc=5",
-    "category": "",
-    "priority": "High",
-    "confidentiality_level": "internal",
-    "created_at": "2026-07-03T10:17:14.063901+00:00",
-    "is_processed": true,
-    "report_id": "r20260704"
-  },
-  {
     "output_id": "o7d3501",
     "agent_id": "Tools A Monitor",
     "title": "As ACA enrollment falls by millions, Trump administration and policy gurus disagree on why",
@@ -13978,6 +13950,32 @@
     "priority": "High",
     "confidentiality_level": "internal",
     "created_at": "2026-08-22T12:45:29.373343+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o3872d3",
+    "agent_id": "Tools A Monitor",
+    "title": "[HOAKS] DJP Pungut Pajak Masyarakat yang Jogging di Area Tertentu - InfoPublik",
+    "summary": "[HOAKS] DJP Pungut Pajak Masyarakat yang Jogging di Area Tertentu - InfoPublik",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxON3E1cVh1TVRiZTZFSWN0dFExdkxLVEZBUE42REwzTG1ZOFpMNHRIRVZ6b2xJbWUtcHBVcVpRODEyclMxaHJTd1dQRXd0dTBHTkVtT2VGa2lwUlR3VC1fMmlmX20tVmN4bGVKbi1OMktIaWZyWFlwRXh6cXZiRUdDd1BFRTFnNWc3dkZSUXQ4bHZpMHpScG03c2NkUFBReEhJN1J2UktEZHFwMi1YMlgzRw?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-08-22T18:34:59.411120+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o388757",
+    "agent_id": "Tools A Monitor",
+    "title": "As U.S.-Canada trade talks collapse, Carney says retaliatory tariffs will start Sept. 8",
+    "summary": "As U.S.-Canada trade talks collapse, Carney says retaliatory tariffs will start Sept. 8",
+    "raw_output": "",
+    "source_url": "https://www.cnbc.com/2026/08/22/us-canada-trade-talks-collapse-ushering-in-wave-of-new-tariffs.html",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-08-22T18:35:04.663733+00:00",
     "is_processed": false
   }
 ]
