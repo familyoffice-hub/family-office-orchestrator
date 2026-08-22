@@ -1,47 +1,5 @@
 [
   {
-    "output_id": "o39aaa9",
-    "agent_id": "Tools A Monitor",
-    "title": "DJP Jadwalkan Planned Downtime Coretax Selama Akhir Pekan - Ikatan Konsultan Pajak Indonesia",
-    "summary": "DJP Jadwalkan Planned Downtime Coretax Selama Akhir Pekan - Ikatan Konsultan Pajak Indonesia",
-    "raw_output": "",
-    "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMktiRWtDQVNXc3o4dUhBTVc2RFdNZEY5MGJ4VDZyd3JOVmFYTU95RXhxQ21OdTI1NGx2My1GNWQzTEVwdGN6OVlqVFNSemhvYzlTeHJVRHo2dWFFMVNCcXp0Zk01LXhEdVZ6YkVjeDI1eXFlNDdMWVZ6SFRFbWxPR3JJZw?oc=5",
-    "category": "",
-    "priority": "High",
-    "confidentiality_level": "internal",
-    "created_at": "2026-07-03T10:16:19.241502+00:00",
-    "is_processed": true,
-    "report_id": "r20260704"
-  },
-  {
-    "output_id": "o39c000",
-    "agent_id": "Tools A Monitor",
-    "title": "Ini Pertimbangan DJP Tunjuk 4 Marketplace sebagai Pemungut PPh 22 - DDTCNews",
-    "summary": "Ini Pertimbangan DJP Tunjuk 4 Marketplace sebagai Pemungut PPh 22 - DDTCNews",
-    "raw_output": "",
-    "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeFNOVllNbEIyXzRSNHVtVTctODE1RFpBTnZQMkVZZGw2ejNvU1M5d1BsVl9pT2g1OHhxM3JpUmVid1VieVZRR0xXRGJmNjV1QjYxejBBbUZlUHNaLVItRUNIbkpYd2V2ejdxS2hZanBOY3NKeU13a2QyaTl0aEVRczZ6Q3VlWXVuQTljWkY3VkhFSGpmQ1pvQ3ZMODZCZXBVeWhZTWxvaWFkMV9wbWt1YVV1TQ?oc=5",
-    "category": "",
-    "priority": "High",
-    "confidentiality_level": "internal",
-    "created_at": "2026-07-03T10:16:24.704812+00:00",
-    "is_processed": true,
-    "report_id": "r20260704"
-  },
-  {
-    "output_id": "o39d53b",
-    "agent_id": "Tools A Monitor",
-    "title": "Pelari Kalcer Pakai Strava Bakal Kena Pajak, DJP Ungkap Ketentuannya - Bisnis.com - Ekonomi",
-    "summary": "Pelari Kalcer Pakai Strava Bakal Kena Pajak, DJP Ungkap Ketentuannya - Bisnis.com - Ekonomi",
-    "raw_output": "",
-    "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSEF2ZEdpLVVHdUZrR19VMHdza1RfczhMc2hCdmM4b2lMMU1tQVRrclo1RVN1LUF1dW8xZjhXTTFiZEJjYng1dV8tT3BNMXV6MFpEWmNOemhwdlFZRXJpYUdsaUwxUERhUi1YMTdmMWVvNjRFRXJmQUNQTUVkN1lKSldZY1BrYUsxVlRHVEw1QmZ3cVJrREplQ0F4dkJfZXp3RUhYYzVBbnJlUHpLT3RYbjhHdHFJVVQ1eWZ3dg?oc=5",
-    "category": "",
-    "priority": "High",
-    "confidentiality_level": "internal",
-    "created_at": "2026-07-03T10:16:30.139537+00:00",
-    "is_processed": true,
-    "report_id": "r20260704"
-  },
-  {
     "output_id": "o39ea8e",
     "agent_id": "Tools A Monitor",
     "title": "Aplikasi Strava Kena Pajak 11%, DJP: Hanya Untuk yang Berlangganan - SINDOnews Ekbis",
@@ -13988,5 +13946,44 @@
     "created_at": "2026-08-21T12:55:27.015179+00:00",
     "is_processed": true,
     "report_id": "r20260822"
+  },
+  {
+    "output_id": "o1bd425",
+    "agent_id": "Tools A Monitor",
+    "title": "Ramai Isu PPh Rumah Kontrakan Mulai 2027, DJP: Bukan Pajak Baru - DDTCNews",
+    "summary": "Ramai Isu PPh Rumah Kontrakan Mulai 2027, DJP: Bukan Pajak Baru - DDTCNews",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQzdDUmRmN1lwcjBDUHBkTVZVOC0zd3JtRWkzLWV0NlVXb21XS2JPVlllVV9RLWo2UE1NMFFWNk5peEFWRjVXQV9yOGJaSVVOcGVoS2RDMDV5bkFINmM0RnRZQndRUEw3R2x4aU9LU2pHbzA2SWRrY3NMbmFpbWI3Q2JnTHF2WEFYSGlBSTVCWDdpYVNVclROMF94WDJacGtBaFBqcV9zU0R3UElxa2c?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-08-22T01:23:43.781400+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o1be8a1",
+    "agent_id": "Tools A Monitor",
+    "title": "SEIA Launches Tax Services And Expands Family Office Platform Across $32.6 Billion Wealth Business - Pulse 2.0",
+    "summary": "SEIA Launches Tax Services And Expands Family Office Platform Across $32.6 Billion Wealth Business - Pulse 2.0",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSTdlYzhzRHRaMEpuRUh0b3hyT2EyeGUzSGJiN1lXTnVPNDBZRXFjaHAweGFzMVg5bFk3VGlTYWFqYkV0cDVmX2psSmkyUC1aZ0RCQjVqSmdQN0tyYnVQTHk5cVhSdXoyVjBmZ0xOWlg3QVpJTnVKSnlXVGFjS1R6aHNSNTVsaFg5V2Y4b1BQMFdBbzAzMWFvNE5fdkRrdmNZV3EtUklvQUVmbjJpdnFNWHZfR1lWUC1t0gG-AUFVX3lxTFBKY212aXFaUERNUXdtMmdWMjVrZHltYV9zbTluazVaRFV3OXNwbDVnVS02RjZJdTU1Vkp5aFYzLTlFNGd3NTNTM1dJYVFBUVdEbi1JNko0ZUh2bldjMVVDQjJKaVRoZVhYT2h3MUptOEJVSlF0VkFvQ0NXOXdIbG13eUxpWmFvVXloemt5dGNOcUZRYW9sdDc5NkZfb3dlUEhjZ2dXQkVZenRWQW03QWZIaXFtckt5WFYzLU1Nd1E?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-08-22T01:23:49.025717+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o1bfd2a",
+    "agent_id": "Tools A Monitor",
+    "title": "[HOAKS] DJP Pungut Pajak Masyarakat yang Jogging di Area Tertentu - Pemerintah Provinsi Jawa Tengah",
+    "summary": "[HOAKS] DJP Pungut Pajak Masyarakat yang Jogging di Area Tertentu - Pemerintah Provinsi Jawa Tengah",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSzhmVjJzV1pGMFNMUldqZkFCdHF3S2d1MmtmODFUZ0RPZHlkNnRvc2VNWlJGbDRYZFVQSlVhRjliOFJwSnBEU1hQNmJmaEhqQUpVOVJZdm9TY1U0aXQwdWhxR2RpNGhPVWo2Ql9QbWg3XzVoTWhpWURJbWp1c0F2ZmNEOGNsNXRON3lnR3J2WE94NmpYMUJmY1FLRlpBSTdDQWU0X0J4QW1sQQ?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-08-22T01:23:54.282376+00:00",
+    "is_processed": false
   }
 ]
