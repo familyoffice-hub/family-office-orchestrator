@@ -1,19 +1,5 @@
 [
   {
-    "output_id": "o7d3501",
-    "agent_id": "Tools A Monitor",
-    "title": "As ACA enrollment falls by millions, Trump administration and policy gurus disagree on why",
-    "summary": "As ACA enrollment falls by millions, Trump administration and policy gurus disagree on why",
-    "raw_output": "",
-    "source_url": "https://www.cnbc.com/2026/07/03/aca-enrollment-enhanced-subsidies-lapse-fraud.html",
-    "category": "",
-    "priority": "High",
-    "confidentiality_level": "internal",
-    "created_at": "2026-07-03T17:03:25.569502+00:00",
-    "is_processed": true,
-    "report_id": "r20260704"
-  },
-  {
     "output_id": "o7d4936",
     "agent_id": "Tools A Monitor",
     "title": "Bank Indonesia Naikkan Suku Bunga Acuan Jadi 5,25% - Ikatan Konsultan Pajak Indonesia",
@@ -13988,5 +13974,18 @@
     "created_at": "2026-08-22T18:35:04.663733+00:00",
     "is_processed": true,
     "report_id": "r20260823"
+  },
+  {
+    "output_id": "o74233a",
+    "agent_id": "Tools A Monitor",
+    "title": "Kejar Target Pajak 2027, DJP Perkuat Penegakan Hukum dan Kepatuhan - DDTCNews",
+    "summary": "Kejar Target Pajak 2027, DJP Perkuat Penegakan Hukum dan Kepatuhan - DDTCNews",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcFJqYnN1aVRlVG9rV2tlODlxZ05udmZNSGxOMkNzTTFyUU9kdnUxSlVYcWNvUmVLZUp6NzNFT3Q5X3o1Yk0wMjktQkpTaDJFSVZJSTkzWmY3NjVvR1I4N3V2MVFacF9lWWh2TmZKRVhKZUhZeTlVNkRFSGhVSXhiWHcxOC1FQTZHYThpTGNxMU5QNEY2SGJPU2VIeWFFdzNUTUJPWGQtZUVzNXB4S29teTBsMA?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-08-23T06:46:51.194886+00:00",
+    "is_processed": false
   }
 ]
