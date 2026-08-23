@@ -1,33 +1,5 @@
 [
   {
-    "output_id": "o5f0065",
-    "agent_id": "Tools A Monitor",
-    "title": "SEC, CFTC Seek Public Comment on the Harmonization of Portfolio Margining Frameworks",
-    "summary": "SEC, CFTC Seek Public Comment on the Harmonization of Portfolio Margining Frameworks",
-    "raw_output": "",
-    "source_url": "https://www.sec.gov/newsroom/press-releases/2026-59-sec-cftc-seek-public-comment-harmonization-portfolio-margining-frameworks",
-    "category": "",
-    "priority": "High",
-    "confidentiality_level": "internal",
-    "created_at": "2026-07-04T09:10:26.021126+00:00",
-    "is_processed": true,
-    "report_id": "r20260704"
-  },
-  {
-    "output_id": "o5f15c7",
-    "agent_id": "Tools A Monitor",
-    "title": "Securitize benefits from BlackRock support as Wall Street adopts tokenized assets - Crypto Briefing",
-    "summary": "Securitize benefits from BlackRock support as Wall Street adopts tokenized assets - Crypto Briefing",
-    "raw_output": "",
-    "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOa1k5Wlotdi1jNGdGYUpILWlNTXlJWnVxZDE4TDM3Uk93LUwyNHRnSDRBQjRCQzNQTG56WnFfc3duelU3VzV0endqeHJST2l1NXJpbkhwQkh0cWxLNF8tVnNwVzcxODNOUHlhdUV0cURzSUViWW85SExxOW9neHpqaGwzMA?oc=5",
-    "category": "",
-    "priority": "High",
-    "confidentiality_level": "internal",
-    "created_at": "2026-07-04T09:10:31.495336+00:00",
-    "is_processed": true,
-    "report_id": "r20260704"
-  },
-  {
     "output_id": "o987504",
     "agent_id": "Tools A Monitor",
     "title": "Coretax DJP Terus Diperbaiki, Kemenkeu Janjikan Sistem Pajak Lebih Cepat dan Mudah Digunakan - Media Nikel Indonesia",
@@ -13979,6 +13951,32 @@
     "priority": "High",
     "confidentiality_level": "internal",
     "created_at": "2026-08-23T12:46:23.850315+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "ocaee",
+    "agent_id": "Tools A Monitor",
+    "title": "Barclays Private Bank Names Neil Cabral to Lead UAE Multi-Family Office and EAM Coverage - Hubbis",
+    "summary": "Barclays Private Bank Names Neil Cabral to Lead UAE Multi-Family Office and EAM Coverage - Hubbis",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRUVVNjlXSW9tSzBad2U1SGdJYWdtVi0wb0xhcXQwZ3NXZmtnMXpqaWlvY3Bta0J4V1hOclhEWHc5U3VUazJHMG9MUjA5TjNObmhqd29PTDdXSHRJOWF5TzE1RTkybGFMYjNKejFJUXV6MW9sY1Rid2trbmxmN2tHaFhvMjE3ZUlwcnJmUzVkRzd4SzZTanNBdDZqUTdXTDZOYmVuMF9uX1RTSlNtNU95elZ2el8xSFg5OGtaUUczUEc?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-08-23T18:34:11.951006+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "oe07e",
+    "agent_id": "Tools A Monitor",
+    "title": "DJP Ubah Sejumlah Ketentuan Pembayaran Pajak untuk Transaksi PPJB - Ikatan Konsultan Pajak Indonesia",
+    "summary": "DJP Ubah Sejumlah Ketentuan Pembayaran Pajak untuk Transaksi PPJB - Ikatan Konsultan Pajak Indonesia",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNb2hJd19YcWU3aGNaMUJXejNpLVlyaDJyTlhPOUtWV0JjLU1HWGg2dnp1ZWxGMTlwLTZfSWlUR0RnZ1k5NTJzNDBkR2VMWm9uWTdjQ0ptU2MyZzk2anhFZ292c2w5bE9RbUFjdmJhY0hiODg1eG5kaXh5MC1JenhlRFJXLW5MY3IyaElacEx3?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-08-23T18:34:17.470698+00:00",
     "is_processed": false
   }
 ]
