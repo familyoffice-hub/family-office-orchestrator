@@ -13860,7 +13860,8 @@
     "priority": "High",
     "confidentiality_level": "internal",
     "created_at": "2026-08-23T06:46:51.194886+00:00",
-    "is_processed": false
+    "is_processed": true,
+    "report_id": "r20260824"
   },
   {
     "output_id": "o8b9ee9",
@@ -13873,7 +13874,8 @@
     "priority": "High",
     "confidentiality_level": "internal",
     "created_at": "2026-08-23T12:45:50.185692+00:00",
-    "is_processed": false
+    "is_processed": true,
+    "report_id": "r20260824"
   },
   {
     "output_id": "o8bb5e1",
@@ -13886,7 +13888,8 @@
     "priority": "High",
     "confidentiality_level": "internal",
     "created_at": "2026-08-23T12:45:56.065238+00:00",
-    "is_processed": false
+    "is_processed": true,
+    "report_id": "r20260824"
   },
   {
     "output_id": "o8bcba4",
@@ -13899,7 +13902,8 @@
     "priority": "High",
     "confidentiality_level": "internal",
     "created_at": "2026-08-23T12:46:01.636140+00:00",
-    "is_processed": false
+    "is_processed": true,
+    "report_id": "r20260824"
   },
   {
     "output_id": "o8be1d8",
@@ -13912,7 +13916,8 @@
     "priority": "High",
     "confidentiality_level": "internal",
     "created_at": "2026-08-23T12:46:07.320783+00:00",
-    "is_processed": false
+    "is_processed": true,
+    "report_id": "r20260824"
   },
   {
     "output_id": "o8bf75f",
@@ -13925,7 +13930,8 @@
     "priority": "High",
     "confidentiality_level": "internal",
     "created_at": "2026-08-23T12:46:12.831983+00:00",
-    "is_processed": false
+    "is_processed": true,
+    "report_id": "r20260824"
   },
   {
     "output_id": "o8c0ccb",
@@ -13938,7 +13944,8 @@
     "priority": "High",
     "confidentiality_level": "internal",
     "created_at": "2026-08-23T12:46:18.315109+00:00",
-    "is_processed": false
+    "is_processed": true,
+    "report_id": "r20260824"
   },
   {
     "output_id": "o8c226a",
@@ -13951,7 +13958,8 @@
     "priority": "High",
     "confidentiality_level": "internal",
     "created_at": "2026-08-23T12:46:23.850315+00:00",
-    "is_processed": false
+    "is_processed": true,
+    "report_id": "r20260824"
   },
   {
     "output_id": "ocaee",
@@ -13964,7 +13972,8 @@
     "priority": "High",
     "confidentiality_level": "internal",
     "created_at": "2026-08-23T18:34:11.951006+00:00",
-    "is_processed": false
+    "is_processed": true,
+    "report_id": "r20260824"
   },
   {
     "output_id": "oe07e",
@@ -13977,6 +13986,7 @@
     "priority": "High",
     "confidentiality_level": "internal",
     "created_at": "2026-08-23T18:34:17.470698+00:00",
-    "is_processed": false
+    "is_processed": true,
+    "report_id": "r20260824"
   }
 ]
