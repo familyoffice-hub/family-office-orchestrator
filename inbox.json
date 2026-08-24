@@ -1,33 +1,5 @@
 [
   {
-    "output_id": "o4a7da9",
-    "agent_id": "Tools A Monitor",
-    "title": "DJP: Aturan Pajak UMKM Bukan Dihapus, tapi Kriteria Penerima Diperjelas - Kompas.com",
-    "summary": "DJP: Aturan Pajak UMKM Bukan Dihapus, tapi Kriteria Penerima Diperjelas - Kompas.com",
-    "raw_output": "",
-    "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdzhkQ1Z6MHJVSTk3dXhtdlJ0NlJGSGhYT1Z2bWVkcHhLbDcyYmgtWV9CaVdOWWU3YUwtLUdkRXNVY3RRTUl2UVVPZ1Nad3hfWXBRSl9aV0dVNlVtVVVod2xVeXY4M09SWGJrNGVSdWRYZWlvTDNoeVcxY3dnaXIyVS1MeFp3aC1WYVlMS0ZkZ0xUOUZOLW5RcXh5bWRSaUVrQzBfd2c3SzZMalVqWW8tTVlCVVpyLXJEMWk3Xw?oc=5",
-    "category": "",
-    "priority": "High",
-    "confidentiality_level": "internal",
-    "created_at": "2026-07-05T09:48:01.833013+00:00",
-    "is_processed": true,
-    "report_id": "r20260705"
-  },
-  {
-    "output_id": "o4a91d5",
-    "agent_id": "Tools A Monitor",
-    "title": "Pajak UMKM Tak Dihapus, DJP Perjelas Kriteria Penerima PPh Final 0,5 Persen - republika.co.id",
-    "summary": "Pajak UMKM Tak Dihapus, DJP Perjelas Kriteria Penerima PPh Final 0,5 Persen - republika.co.id",
-    "raw_output": "",
-    "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbkdON2tYRU5CRm1hU3otYVpzRTZlSENvcGxkZ3dnaC1rQURhY0VGcTJBNjFYOTdxOXF3dGlYVUV0NjV2dGJndXVYOVpXV3ZMWXFCVVdpMHZwREdsUFZSZHFobFRCNVRwNUFHZktiY2sxOGZJbHEwcHhlUXFkd3ZYVXRzd1N5cUc4TWM0OUoyUXNicUFRZGFuY3hacG81VEhBMDVOUHhhMmQxYXl1QTdoYXBLZjNJY0FTTlZkUHl1SQ?oc=5",
-    "category": "",
-    "priority": "High",
-    "confidentiality_level": "internal",
-    "created_at": "2026-07-05T09:48:06.997703+00:00",
-    "is_processed": true,
-    "report_id": "r20260705"
-  },
-  {
     "output_id": "o4aa5e1",
     "agent_id": "Tools A Monitor",
     "title": "DJP Tegaskan Pajak UMKM Tetap Ringan, Aturan PPh Final Disempurnakan agar Insentif Tepat Sasaran - Kompas.tv",
@@ -13984,6 +13956,32 @@
     "priority": "High",
     "confidentiality_level": "internal",
     "created_at": "2026-08-24T01:36:06.613780+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o4d6d35",
+    "agent_id": "Tools A Monitor",
+    "title": "Rangkuman Tanya Jawab Webinar Pajakku x DJP: Ingin Menjadi Kuasa Wajib Pajak? Pahami Dulu Aturan Terbarunya (PMK 44/2026) - Pajakku",
+    "summary": "Rangkuman Tanya Jawab Webinar Pajakku x DJP: Ingin Menjadi Kuasa Wajib Pajak? Pahami Dulu Aturan Terbarunya (PMK 44/2026) - Pajakku",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPWDZscEllWkQyWTJjazRadTN0QlIxWkxlOVdRYVV2dzFXa1gzV3BkaTQwTVdoX200bWhLUUVQSVAtVTZrcEFXYmcwZkRNUHVXSFF1XzlGZU92ZzlYX2tsSUNSdjNyNDdJU3VUQkMxQU9UbXpjXy1SY0dxdGhwSHIzdU5iSXdLNDRDM3I0RUU5VUZINDBlTEk0ZWxpOWJRVGhnaVVOX21hNkZYbnpUSlVmYVJVd2I3QjBvZUFoZEFydEZfVTJhdDhkR2J3dXh6bTVVY2swZ0lWZVJyWERU?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-08-24T07:04:34.229801+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o4d8308",
+    "agent_id": "Tools A Monitor",
+    "title": "Karyawan Tanpa SKT Dapat Berikan Keterangan dalam SP2DK, Ini Penjelasan DJP - Ortax",
+    "summary": "Karyawan Tanpa SKT Dapat Berikan Keterangan dalam SP2DK, Ini Penjelasan DJP - Ortax",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNX3VDNFRfYVRoQ0lIVUVvQzlDRDZXcHdHX2VMVndQZ3k0VjJPaGJ6NEZRUnZNUVNZaHd2c21uWE5WenlvaDJsVGk0OTN3X0dKb2dnUnREdzFBWjF3M2wyZGpsNGlVZFNJOGtfLWYyX191ZTl4aHBDWEY5NFRxNWJEZDktSlItTEF0VHlCSTd5UklyekloVkdJ?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-08-24T07:04:39.816822+00:00",
     "is_processed": false
   }
 ]
