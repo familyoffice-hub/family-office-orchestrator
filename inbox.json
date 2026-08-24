@@ -1,19 +1,5 @@
 [
   {
-    "output_id": "o25af8",
-    "agent_id": "Tools A Monitor",
-    "title": "Bukti Potong Marketplace Jadi Senjata Baru DJP Perluas Basis Pajak - Ikatan Konsultan Pajak Indonesia",
-    "summary": "Bukti Potong Marketplace Jadi Senjata Baru DJP Perluas Basis Pajak - Ikatan Konsultan Pajak Indonesia",
-    "raw_output": "",
-    "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNFp3RHR5cTU2YzY4ajlxejloa0p5NUV4cGNMNzU0cjdrY2xzbmpLeTJhNC1yVXRYTWJDSzJKSmhRQUpudjVTTGh0T0tBdlFLWlVTUGxaVmNHQ0VKOV9CRTZLRW92dUljclVNek1fejVSV25YbGJ5aUJZTkZ2SVc5a3B6ajliRGRQa2hYcVhZaw?oc=5",
-    "category": "",
-    "priority": "High",
-    "confidentiality_level": "internal",
-    "created_at": "2026-07-06T12:15:54.360781+00:00",
-    "is_processed": true,
-    "report_id": "r20260707"
-  },
-  {
     "output_id": "o26ef5",
     "agent_id": "Tools A Monitor",
     "title": "DJP Catat Kurang Bayar Pajak ASN Capai Rp9,16 T per Juni 2026 - CNN Indonesia",
@@ -13970,6 +13956,19 @@
     "priority": "High",
     "confidentiality_level": "internal",
     "created_at": "2026-08-24T12:57:46.849778+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o6c5869",
+    "agent_id": "Tools A Monitor",
+    "title": "Why Morgan Stanley Is Exploring Taking Wealth Management Overseas. Plus, the Week’s Top Advisor News. - Barron's",
+    "summary": "Why Morgan Stanley Is Exploring Taking Wealth Management Overseas. Plus, the Week’s Top Advisor News. - Barron's",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQTkZ5ZjFOdDZxcGNDbDZzbzNYeFRXd3hvOVFhY0x4Y0ZEM3hnZGszblQ5M19FNHBmcy14NDVDeWhwT2kwa0lfcmhrYl95SWlGNHRDcWFGdlZmaUUyTG9ObUNSa0ZBVm5ncnR5OGxuMWJHOWd5X2I2TmFjU2FNQ0VKdy10ck9kd1RSeWxNSjFoZXZGSW9GV3VhZjdQSjZBWEpoa3EwWGRUOEJlMGR0d2lDaVpNQVZoNGpOdEc3QjNfbUN5Q2NsM29tSm1IRFJtcUJsUUJFRXgwRl8zZWZvMUstMlJPSkFYU2w3aWJ2X0lKT01OcHlZdmkwdkJ4d2VXdw?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-08-24T18:45:00.521184+00:00",
     "is_processed": false
   }
 ]
