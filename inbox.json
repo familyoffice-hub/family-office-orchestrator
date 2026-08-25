@@ -1,47 +1,5 @@
 [
   {
-    "output_id": "o68b7f7",
-    "agent_id": "Tools A Monitor",
-    "title": "Evan Kotsovinos Joins Goldman Sachs as Head of Asset & Wealth Management Engineering - citybiz",
-    "summary": "Evan Kotsovinos Joins Goldman Sachs as Head of Asset & Wealth Management Engineering - citybiz",
-    "raw_output": "",
-    "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTGktT2Vwem9OeG0yaktyQWlLazFBb0k2Skd4MDE5bG53dWFnZjJ0N1dPS285Yjdiem1NeVhUVkktU1o3R3hTczNaTnk1c0RYMGFRbDY5WWNYSkdBaThiXzZEUXpURVhTLXpNOEZtSV93OElZVm5SeV92V2htMFNxMFMxcmxkcnBtcWRqLWo0TC1TUXpMUVpIMVZwNE80d0otcE8tZk90dzd1Nkw1WTVveWFXWFRLbGdoelh6dmJR?oc=5",
-    "category": "",
-    "priority": "High",
-    "confidentiality_level": "internal",
-    "created_at": "2026-07-06T14:07:42.839830+00:00",
-    "is_processed": true,
-    "report_id": "r20260707"
-  },
-  {
-    "output_id": "o68ccfe",
-    "agent_id": "Tools A Monitor",
-    "title": "Goldman Sachs hires from Google for head of asset & wealth management engineering (GS:NYSE) - Seeking Alpha",
-    "summary": "Goldman Sachs hires from Google for head of asset & wealth management engineering (GS:NYSE) - Seeking Alpha",
-    "raw_output": "",
-    "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcmVGRF9oZGRKZDJFUl83R2pGZ2tFOUxPaGN6eVZnLTJOUk9VYWlybkdVYXlJaWVYTnZXUU16LXRMYTNQQ09CdlQ2dzFUZjdrOWNYR1NwRUhIUnZxREtBN2daMlFfNUMwVm5qdkt3Z0FEQ2M5ZG4wUDByZGJDeEw0Q1kycHF0SFViN01qYWM2ZGJoY09LemhpZndudnNtaXd1QzRnRlpmbFFVTm1zckl2ZFl3cTJoemp2Y1R2SDN3?oc=5",
-    "category": "",
-    "priority": "High",
-    "confidentiality_level": "internal",
-    "created_at": "2026-07-06T14:07:48.222519+00:00",
-    "is_processed": true,
-    "report_id": "r20260707"
-  },
-  {
-    "output_id": "o68e262",
-    "agent_id": "Tools A Monitor",
-    "title": "How Central Bank Interest Rate Decisions Move the FX Market - Investing.com",
-    "summary": "How Central Bank Interest Rate Decisions Move the FX Market - Investing.com",
-    "raw_output": "",
-    "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUjRwRlJzU3JzZkM0V1dIMHo4RW9SZ0lOeENmbS1jMjJDMEN6YmRCdThqcEd2UXZqWEJSN1ZYbjdfeERxTThvUDdKVG9JVjRZZ1FEd050UUc2YnZ3alQ1WUY3b3h4TG5tMTVYRDFvNmd0OXloSUhlTGUzb19nTkhmUW5zeFhrenhPZVlDLThQNjhYZ2sxUkowcHExTUZSdmxqeW1vYWx1NA?oc=5",
-    "category": "",
-    "priority": "High",
-    "confidentiality_level": "internal",
-    "created_at": "2026-07-06T14:07:53.698120+00:00",
-    "is_processed": true,
-    "report_id": "r20260707"
-  },
-  {
     "output_id": "o68f7bc",
     "agent_id": "Tools A Monitor",
     "title": "Bank Indonesia akan Membuat Keputusan Suku Bunga Pekan ini - fxstreet-id.com",
@@ -13978,6 +13936,45 @@
     "priority": "High",
     "confidentiality_level": "internal",
     "created_at": "2026-08-25T06:58:11.800076+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o242b2d",
+    "agent_id": "Tools A Monitor",
+    "title": "SEC reportedly subpoenas Wall Street banks over AI hedge fund Situational Awareness's near collapse",
+    "summary": "SEC reportedly subpoenas Wall Street banks over AI hedge fund Situational Awareness's near collapse",
+    "raw_output": "",
+    "source_url": "https://www.cnbc.com/2026/08/25/sec-situational-awareness-hedge-fund-subpoenas.html",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-08-25T12:52:50.349760+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o243f4e",
+    "agent_id": "Tools A Monitor",
+    "title": "Franklin Templeton brings tokenized US government fund to HashKey - Crypto News",
+    "summary": "Franklin Templeton brings tokenized US government fund to HashKey - Crypto News",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbjN4NHJLUnVLaFlDeFVhRjVxRlhkcHUzb0Rab2ZmMDBORlpoRGNvTU01b0RYaVh4RDhEZFQ5NU90VVNXN0JQdC1QVUF5SUNkZ2dndWwwMFdZSndIZDhwbUxyOFNEUWpsYlBSZklSQ21DMUxrYVZKdHFKUzdJdHFJSkZjbkRSOVlNb0wtYkFPQQ?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-08-25T12:52:55.502201+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o245392",
+    "agent_id": "Tools A Monitor",
+    "title": "Franklin Templeton brings tokenized US money fund to Asia as market hits $15 billion - The Cryptonomist",
+    "summary": "Franklin Templeton brings tokenized US money fund to Asia as market hits $15 billion - The Cryptonomist",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1KVnFMSVhyd0ZwTVVWQU9UMDhtMVMxY2ZTTDdTU2FlcEZ3bWY0UjY5bk01U1MtRFhwbV92NXlvS3pRLWdwVmdJYkVPM1F0NHl1NmlMalRGeG85X3hacGZwQzJsN1Nla1ZaVzh2aERTWnZka204V0E?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-08-25T12:53:00.690138+00:00",
     "is_processed": false
   }
 ]
