@@ -1,33 +1,5 @@
 [
   {
-    "output_id": "o6936b8",
-    "agent_id": "Tools A Monitor",
-    "title": "VIDEO: Bank Indonesia Naikkan Suku Bunga Acuan Jadi 5,75% - CNN Indonesia",
-    "summary": "VIDEO: Bank Indonesia Naikkan Suku Bunga Acuan Jadi 5,75% - CNN Indonesia",
-    "raw_output": "",
-    "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPS2g3TWJFQ19rSE1yRmJfcW9yRndJOUx6OFJ5VU5OcU5zNHZrMlBCb3JPWi1MU2dXX2JJNC1GWk1aak5kbFFsYWM2c1ZDbXF6RTR6RlpNNURYZkFPT2lHV1dHeXNBQV84UkxvdkJsLUFPTmZnSWEyWXotaVF2QmpmWEs5aGNTUFR2RGlxeDRZbVUybzAya1BhdmhfeVI3Q2ttVV8zUXhuRGpsSG52Z0tXc3Nka9IBuAFBVV95cUxNZ0JVR2lzbFJiQ1pkTDFpNnJUbUQ2UTRpa0huOVpGTVY3OHY4UlZaV2lVU0J6Mldacmx0bEhkdnNmV2J0VWNhRUhNWjJ4YS1pUFNDd05RbDhFUHZBTnBpck9FUUJ3cTJPOEhuaVJGTVNoaEpMVjQyYlBtM01YRWdoT1ZySDhQZGJuVmgxUm92Y2FsOGhVajNBeHlQZVlscV8ySXZRQUZOMmNiNWFodGtWZlB2bXJqYTZw?oc=5",
-    "category": "",
-    "priority": "High",
-    "confidentiality_level": "internal",
-    "created_at": "2026-07-06T14:08:15.288298+00:00",
-    "is_processed": true,
-    "report_id": "r20260707"
-  },
-  {
-    "output_id": "o694bce",
-    "agent_id": "Tools A Monitor",
-    "title": "IHSG Dibuka di 7.663 Menuju Keputusan Suku Bunga Bank Indonesia Pekan ini - fxstreet-id.com",
-    "summary": "IHSG Dibuka di 7.663 Menuju Keputusan Suku Bunga Bank Indonesia Pekan ini - fxstreet-id.com",
-    "raw_output": "",
-    "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQemNSZmhaVVJfWjdOWXRxUXVFWVVpamVXUEpPMnRTYW9rZ0hUSUVva253VVpNbjdqNVl6cjl6eXVFN3JHVWVCa09DNkFmZmpIMVNIX3JjMHRZZWc0Y3FnV3liamQ3Z0s5dTU3TUxSZy0xQWFoZ3ZVam8wYmRsRWs0R2doemVmTTRrblA4Z0NrZGVGZGJYNE0yMVNRMklwZGlCNnhPcGwwbElGcEtiOVVUam56LU9IcU9henfSAb8BQVVfeXFMTkVzcEFmZ01iZk1XRHIxQVJtRE0zaWlfY2pTQloyek1vQUtCUXdSZWFWWldRNk05UW5vVmhHNC1OR1lrQ25ZaWY1aUdYS0tnR2dlaHNTZWxmU3NLNjJZODVENHdJYXpxNlNWWWl4ZTEzbjdqVk5TS3RhNFJMc1BiWTBZWjZJYU1ROTQtTS03ZllrSlJiVFNJLXRPYlg5ZWw0NTMxSjFuR1hNMUM4Wm9DYnNoNXl5Y19nOU1hOFlyV0k?oc=5",
-    "category": "",
-    "priority": "High",
-    "confidentiality_level": "internal",
-    "created_at": "2026-07-06T14:08:20.686873+00:00",
-    "is_processed": true,
-    "report_id": "r20260707"
-  },
-  {
     "output_id": "o6960de",
     "agent_id": "Tools A Monitor",
     "title": "Bank Indonesia Minta Penurunan Suku Bunga Lebih Agresif Demi Kredit Tumbuh - kontan.co.id",
@@ -13987,5 +13959,31 @@
     "created_at": "2026-08-25T18:43:02.277744+00:00",
     "is_processed": true,
     "report_id": "r20260826"
+  },
+  {
+    "output_id": "o7bd40f",
+    "agent_id": "Tools A Monitor",
+    "title": "SEC Proposes New Regulation Crypto Assets",
+    "summary": "SEC Proposes New Regulation Crypto Assets",
+    "raw_output": "",
+    "source_url": "https://www.sec.gov/newsroom/press-releases/2026-76-sec-proposes-new-regulation-crypto-assets",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-08-26T01:35:15.215776+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o7be828",
+    "agent_id": "Tools A Monitor",
+    "title": "DJP Catat Utang Kelebihan Bayar Pajak Terus Meningkat - Ikatan Konsultan Pajak Indonesia",
+    "summary": "DJP Catat Utang Kelebihan Bayar Pajak Terus Meningkat - Ikatan Konsultan Pajak Indonesia",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8tWDdWMEpicWw1WklPUUZVdkx6cUhUMGdKaV9BR0JPTzc1NDNnNWh0Wkc3NVF0TE1RUzBsYWJBMjJOSHpHcFF2LURwcWF4WWo4NVBqSjMzV3hTLVlobDZaRFhrdmoyU3FtZm9aVFJ5OXlLTWpZc2VPbHczbGlpdw?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-08-26T01:35:20.360617+00:00",
+    "is_processed": false
   }
 ]
