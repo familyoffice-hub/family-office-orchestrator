@@ -1,33 +1,5 @@
 [
   {
-    "output_id": "o1a4a1c",
-    "agent_id": "Tools A Monitor",
-    "title": "Kanwil DJP Nusra memblokir 154 rekening WP tingkatkan kepatuhan pajak - ANTARA News",
-    "summary": "Kanwil DJP Nusra memblokir 154 rekening WP tingkatkan kepatuhan pajak - ANTARA News",
-    "raw_output": "",
-    "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQb2pVYjdFczZ6eXNXOVdXZ085R3c5a3ZKVE1HRlhfNXVybUtYb0o4QjBkcFFyYnAtQlRQU3o1MVRxM0pjNXVqaWE4ZGtnczRMU1FQdURQb0dYcy1nS1RERXBiTkp5a1hyMVZvT1Y5dXZGcVMySU51VWhURFo4dDFPMDNRb1ZwOUNfMVBfdHF4cE4wVzJlZHVQQ1ZGeGFMTGJrZ056d2t6Tk05OUhxR2YwOWhIYw?oc=5",
-    "category": "",
-    "priority": "High",
-    "confidentiality_level": "internal",
-    "created_at": "2026-07-09T18:28:42.908642+00:00",
-    "is_processed": true,
-    "report_id": "r20260710"
-  },
-  {
-    "output_id": "o1a5f09",
-    "agent_id": "Tools A Monitor",
-    "title": "Punya Tunggakan Pajak? DJP Resmi Kirim Email Pengingat ke Wajib Pajak - VOI.id",
-    "summary": "Punya Tunggakan Pajak? DJP Resmi Kirim Email Pengingat ke Wajib Pajak - VOI.id",
-    "raw_output": "",
-    "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZFpwQ1pLSXJpVFI0QUF4cGF5SzItRFVpZnM2dUFWZnRvNmlncDRybHNGQk15SXRLT2JrWE0wdDBKd0JQbmxyT2RHOEdlblgxUDVXWUNYbTdvWWF3NlJ1TEhaY0JoWGJ4QXhNWlZCZnY5Q2JpVmhZZXNtVk9GNDJVamhXNEg4ZTN2d1VQNENGMlVrdWdHdUJDQzFrUkRwSjTSAZoBQVVfeXFMTXZKT3R1OHZ0NHJwYVdITWx4d0wzWXpEUWVNeTRpSThPQXowZ18xSTNDcUM3cEFQTU1wYnBIOWRCLXFfX3VRWkxqRkRMZ20xQzhSNzlxc21JX3ZCQ1VIWkR4bEd3LXNRUnJXN0lidGY5RXJiTXA3MFFGX3p1ZTZ4elczN3JJM3NBZzJwUVlXYV96UUFNb0dWV05DQQ?oc=5",
-    "category": "",
-    "priority": "High",
-    "confidentiality_level": "internal",
-    "created_at": "2026-07-09T18:28:48.265330+00:00",
-    "is_processed": true,
-    "report_id": "r20260710"
-  },
-  {
     "output_id": "o1a7406",
     "agent_id": "Tools A Monitor",
     "title": "Who's Moving Where In Wealth Management? – Fiduciary Trust International, Cerity, Prairie Wealth, Others - Family Wealth Report",
@@ -13972,6 +13944,32 @@
     "priority": "High",
     "confidentiality_level": "internal",
     "created_at": "2026-08-29T16:27:40.841130+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o5c5dfd",
+    "agent_id": "Tools A Monitor",
+    "title": "SEC Charges Boiler Room Operator and Three Entities with Defrauding Retail Investors in $74 Million Pre-IPO Investment Scam",
+    "summary": "SEC Charges Boiler Room Operator and Three Entities with Defrauding Retail Investors in $74 Million Pre-IPO Investment Scam",
+    "raw_output": "",
+    "source_url": "https://www.sec.gov/newsroom/press-releases/2026-75-sec-charges-boiler-room-operator-three-entities-defrauding-retail-investors-74-million-pre-ipo",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-08-29T20:40:53.373356+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o5c73c0",
+    "agent_id": "Tools A Monitor",
+    "title": "Bank Indonesia Kembali Tahan BI-Rate di Level 5,75% - IKPI | Ikatan Konsultan Pajak Indonesia",
+    "summary": "Bank Indonesia Kembali Tahan BI-Rate di Level 5,75% - IKPI | Ikatan Konsultan Pajak Indonesia",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4yc2hCZ1ZnaTR2cEVmT000Z3JsZ2tjLW1lNkdFNXdQa3pwdWxUR2NIcWs2R1VYcS0ycGVCcVh5MkJjWG1tRjhrYXc3eTRqcHR6NGUyWHFSdzBzUWlYcThvOWJEdl9PQlBMSTE2SVY5RGw5RDZEeVkyVA?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-08-29T20:40:58.944154+00:00",
     "is_processed": false
   }
 ]
