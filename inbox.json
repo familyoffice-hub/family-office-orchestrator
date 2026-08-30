@@ -1,33 +1,5 @@
 [
   {
-    "output_id": "o1a7406",
-    "agent_id": "Tools A Monitor",
-    "title": "Who's Moving Where In Wealth Management? – Fiduciary Trust International, Cerity, Prairie Wealth, Others - Family Wealth Report",
-    "summary": "Who's Moving Where In Wealth Management? – Fiduciary Trust International, Cerity, Prairie Wealth, Others - Family Wealth Report",
-    "raw_output": "",
-    "source_url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNWGlHUzFkNzczbXgwRTRxcm5pcm9QeVZ1RV9DX2lnUzZ0UnRJUGRqRXgwUUJyYi1xTklvaXFvNTltTUt3MzlPVVd1bjFVYWRpYmw1aWVCczJjRjU4ODZuV0pqYWV6bUlTOFl4MFFXMDZENWwyYUVaQ0VoNDlBNS1LTkRGSkgzZVhoVDVFSFVVUVE3c1NNSFNBeW5YZHBWR1J2SzdOd1RMa2lYdUVnNWc0eGdKMFdSZlduNmdKSE11OEJqcDI1SnhiVWxkaFdUZHNOTG5KeklWQXVETjhaajFYcExfQlhvU3BCN01wZHE2UTFORXU2WHdlMlk3bk05WnR0NlAtaVJtR0xQX3c?oc=5",
-    "category": "",
-    "priority": "High",
-    "confidentiality_level": "internal",
-    "created_at": "2026-07-09T18:28:53.638700+00:00",
-    "is_processed": true,
-    "report_id": "r20260710"
-  },
-  {
-    "output_id": "o1a891a",
-    "agent_id": "Tools A Monitor",
-    "title": "Clark Hill Adds Michael Witzke to Tax, Estate Planning Practice - news.bloombergtax.com",
-    "summary": "Clark Hill Adds Michael Witzke to Tax, Estate Planning Practice - news.bloombergtax.com",
-    "raw_output": "",
-    "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWEEtenVfdWk1c0RvenZ3ZlNKVlRRcnRlOWFVOEZySWdrQzltbHJrTnFvYkU4Vkc1MHh0T1pCM3JtZ1BYM29lQ3NUSzcxdG1Nb2IyOXR0THViZ0ZCaDV5ZHFidW9FcEh6RElBTlI5YktLSndfNTR3RnlvN0dhYzFBWkQ1U0llb294eTBMS21qcWZkTXQzWnlVal83em94TlAzLTAxcmYtRlZzdDJ1WUw0dm9KOA?oc=5",
-    "category": "",
-    "priority": "High",
-    "confidentiality_level": "internal",
-    "created_at": "2026-07-09T18:28:59.034924+00:00",
-    "is_processed": true,
-    "report_id": "r20260710"
-  },
-  {
     "output_id": "o1a9df2",
     "agent_id": "Tools A Monitor",
     "title": "SEC targets crypto rules for July with key proposal still in White House review - Pensions & Investments",
@@ -13987,5 +13959,31 @@
     "created_at": "2026-08-29T20:40:58.944154+00:00",
     "is_processed": true,
     "report_id": "r20260830"
+  },
+  {
+    "output_id": "o4332a1",
+    "agent_id": "Tools A Monitor",
+    "title": "Kantor Wilayah DJP Riau - Direktorat Jenderal Pajak",
+    "summary": "Kantor Wilayah DJP Riau - Direktorat Jenderal Pajak",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1tUWp5MHVTZUE1Q195ZHBrQjZ4QXpVUGFfbV9UZkh2eng3QXcxMy1zaWJuWk9kTWp2ZGxUd24xMVUxdHhXSENqT2h3XzlncHppRXR4SzM2b18zXzlJV0lLR3pzZC14ZDhFUEttZjF3OTBsM2V1?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-08-30T04:33:23.873860+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o434734",
+    "agent_id": "Tools A Monitor",
+    "title": "Ikuti Forum Konsultasi Publik, DJP Siap Bersinergi Beri Layanan - Direktorat Jenderal Pajak",
+    "summary": "Ikuti Forum Konsultasi Publik, DJP Siap Bersinergi Beri Layanan - Direktorat Jenderal Pajak",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVmVpaEJoaGM0M0dhN0FuTzdwWmRENFBCYWVSZTVuRFVCX1hNeS1Sekt1WGF6YWJIdzRIYkY4blBBaTVUR0RRT25ybEtxVGFnXzZuSHV6QjR1NGJFVGFVYlVDRmxrZU1TVUU1M01KU0lGcUdPWE1yMTVEUThYVWtkTTdoaXRqbWMwczV1RDg2M3daRllJY2FJ?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-08-30T04:33:29.140886+00:00",
+    "is_processed": false
   }
 ]
