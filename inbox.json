@@ -1,33 +1,5 @@
 [
   {
-    "output_id": "o290c34",
-    "agent_id": "Tools A Monitor",
-    "title": "Penerimaan Pajak Kanwil DJP Jatim II Capai Rp14,19 Triliun hingga Juli 2026 - Bisnis.com - Surabaya",
-    "summary": "Penerimaan Pajak Kanwil DJP Jatim II Capai Rp14,19 Triliun hingga Juli 2026 - Bisnis.com - Surabaya",
-    "raw_output": "",
-    "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNeXd3ck96LWpIMnQ4bGZSMi02aVBoSmo5Z1dOcGYyZ1ZrbGlyTnhweEZ6U20xODdpd28wVTJTVTdVdjZOTE1xY3JwTzVoaHpoV0d4R1BPNXFQZXhRSC1kY0VyVUVMWEhyX2NzQlZnczRwT0UtM0JFRzNYR1hjRjBHX3otVmVHYnhpVXVXMnNuZ2JqVHhNMWs5MEljSjZVYkczZ2gtdUQ4UnZOMS14Vkt0b1c3Y1loNVZOYjdiSW1QVEtYWFdkVDl3?oc=5",
-    "category": "",
-    "priority": "High",
-    "confidentiality_level": "internal",
-    "created_at": "2026-07-10T11:24:50.100997+00:00",
-    "is_processed": true,
-    "report_id": "r20260711"
-  },
-  {
-    "output_id": "o2920c0",
-    "agent_id": "Tools A Monitor",
-    "title": "DJP Kirim 1,85 Juta Email ke Penunggak Pajak, Tunggakan Sentuh Rp 36 Triliun - Ikatan Konsultan Pajak Indonesia",
-    "summary": "DJP Kirim 1,85 Juta Email ke Penunggak Pajak, Tunggakan Sentuh Rp 36 Triliun - Ikatan Konsultan Pajak Indonesia",
-    "raw_output": "",
-    "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNd2FCSWxYcFNLS0NZY2NsekttMzVhQWxfYi03T05sTGt2azE5T3JzZmo3TkU5R1QtYnN3UEJlbC1xdi1Xay1feUdmYkZPQWxWM2EzM3B5MkkwM0kyQ19YWXpvaWNVNHFISGNza1doc0ZkX3c1RlpqZEpJUTkxbnA2UmZhd2ZjaFp5YmtGVmRfVUdyclJ6aUdJLWxR?oc=5",
-    "category": "",
-    "priority": "High",
-    "confidentiality_level": "internal",
-    "created_at": "2026-07-10T11:24:55.360322+00:00",
-    "is_processed": true,
-    "report_id": "r20260711"
-  },
-  {
     "output_id": "o293588",
     "agent_id": "Tools A Monitor",
     "title": "Penerimaan Pajak Berpotensi Shortfall, Purbaya Evaluasi Kinerja DJP dan Coretax - Ortax",
@@ -13981,6 +13953,32 @@
     "priority": "High",
     "confidentiality_level": "internal",
     "created_at": "2026-08-30T16:20:34.301905+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o2ab056",
+    "agent_id": "Tools A Monitor",
+    "title": "14 Crypto Scam Types (and How Blockchain Forensics Helps Detect and Disrupt Them) - TRM Labs",
+    "summary": "14 Crypto Scam Types (and How Blockchain Forensics Helps Detect and Disrupt Them) - TRM Labs",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNV0NfQ21VMXB3MFQ4M3RpNVVFMURNMWx5Vjg0QVNGcGY1WERHcE9nTzN6WHZuaEVtZ3lsWGw3czFCZWhORnBuZ25YQks1bHRjbDNvWk5pYks5Z2xTMUZpNWdFdndIVGhQQVZYRGduUkR4WVdzSEhBUFlFRWw0VUxvSnlLQVVneEl6LUhYY0lyY0hnR3NCeXJQNExPS1Y3dVJTQVZNZlhqbjY2TmxlaVhSemdpNDVhNFNqc3c?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-08-30T20:46:37.654107+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o2ac5ea",
+    "agent_id": "Tools A Monitor",
+    "title": "DJP Dorong Stakeholder Bersinergi Capai Target Penerimaan Pajak 2026 - IKPI | Ikatan Konsultan Pajak Indonesia",
+    "summary": "DJP Dorong Stakeholder Bersinergi Capai Target Penerimaan Pajak 2026 - IKPI | Ikatan Konsultan Pajak Indonesia",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNaVFqV1VFeVQ5dWxDMC12bEhUc25zSU9QVURUMGszSXg5YzllQnpPeFhoYklQUkhJZUpyUmpwdGd2UU1PY0hLRC13aC1fMDQ5ZUFXdzY2VHVqUm92SHc3VTExY1JxVEdpTmlkamtZZEZWaVpHXzlZeHd1U05NUHprdkN2dEhQbjhIc1FIVDVqbnp4UQ?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-08-30T20:46:43.178563+00:00",
     "is_processed": false
   }
 ]
