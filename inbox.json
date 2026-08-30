@@ -1,33 +1,5 @@
 [
   {
-    "output_id": "o1a9df2",
-    "agent_id": "Tools A Monitor",
-    "title": "SEC targets crypto rules for July with key proposal still in White House review - Pensions & Investments",
-    "summary": "SEC targets crypto rules for July with key proposal still in White House review - Pensions & Investments",
-    "raw_output": "",
-    "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWGRtZG5ka05tcTFDRXdfMDdYaXlOMUZwZWxDRnp4T3BCRXJHTEd0SHB4RDN2T09BN191aDJjNVdfb1dsMGJvbkdOZzNlVm5tUUMzVm80RkZfQmliVVppRUpBTUNtOS1YNU81UjVxZXhSLWJYRGZPOWxRZUlIb0lfQ3ZuOUFzaWFqajJNMXoyeWFpeFJxTG1iY2NaeUVHRklqM25MQU1vcFE?oc=5",
-    "category": "",
-    "priority": "High",
-    "confidentiality_level": "internal",
-    "created_at": "2026-07-09T18:29:04.370417+00:00",
-    "is_processed": true,
-    "report_id": "r20260710"
-  },
-  {
-    "output_id": "o28e319",
-    "agent_id": "Tools A Monitor",
-    "title": "DJP Kirim Email Pengingat ke 1,85 Juta Wajib Pajak yang Nunggak - Lingkar",
-    "summary": "DJP Kirim Email Pengingat ke 1,85 Juta Wajib Pajak yang Nunggak - Lingkar",
-    "raw_output": "",
-    "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMnplMEk1d0ZJUFAtLVFpQjY1QWZmX0VVbE1LamhmWU5Nc1M3aUlPeFdiN3NadnU5dWVZM2NzdnhkNzRiRDJHMVNHUE1PdlEzRm93bHBoOS1KV1BuaHE1Wk9jNzIyZklkY2c4NlBNWmF2amhNcmtqZ1FhTWhYaG1QWkJ2OXRvcDhWbUJHOHowazE0Zw?oc=5",
-    "category": "",
-    "priority": "High",
-    "confidentiality_level": "internal",
-    "created_at": "2026-07-10T11:24:39.577173+00:00",
-    "is_processed": true,
-    "report_id": "r20260711"
-  },
-  {
     "output_id": "o28f782",
     "agent_id": "Tools A Monitor",
     "title": "DJP Kirim Surat 'Cinta' Elektronik ke Jutaan WP yang Nunggak Pajak Rp36 Triliun - Inilah.com",
@@ -13984,6 +13956,32 @@
     "priority": "High",
     "confidentiality_level": "internal",
     "created_at": "2026-08-30T04:33:29.140886+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o928aed",
+    "agent_id": "Tools A Monitor",
+    "title": "Purbaya Buru Pajak 40 Perusahaan Baja Rp5 Triliun hingga Siap Pecat Pegawai DJP - RCTI+",
+    "summary": "Purbaya Buru Pajak 40 Perusahaan Baja Rp5 Triliun hingga Siap Pecat Pegawai DJP - RCTI+",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNa1FJVEFZT01IYlh3U3ZVVWlheXhWSzBwNkhmbWM4bGdLMUpOMlM1aldNNW1BMUxOQXhWbWRTZjgtcWF2Zi00SVBsWVNWYldMV3NLLWowS0xteDdFbHlLS092bHRwODJqNWk3MURCTkd2Yy14SEpFLTNQbXNBMmRXRzNkbF9ibEtSbGV4ZVBBdGs5Nkk0RDVwTE8wWGdRdVJoLUhmTkpFT2RZaDdmZ1VtX2hiR3NTQkgxTURveXB6STRCNTlNUW9MLXh3YUQ?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-08-30T11:33:23.821562+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o929f63",
+    "agent_id": "Tools A Monitor",
+    "title": "DPR Setujui Destry Damayanti Jadi Gubernur Bank Indonesia - SuaraGarut.ID",
+    "summary": "DPR Setujui Destry Damayanti Jadi Gubernur Bank Indonesia - SuaraGarut.ID",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQV0tOSEV3SzJlZV9rQ0U4eXlVdGczTVM0RVVQWlNFbFp1WFNmZFV5Zkw4dWQ0eWU5M3JzcTlOcy1BLWl0NGkyUU10WnI0cDVaQXFtZWlYVzl0VFBGTjJKQ3RSc0d4ZXVOUW1mTDZsNkMxakduMkVjY0VleU1FQ2d4ZnBRc01Vdw?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-08-30T11:33:29.059278+00:00",
     "is_processed": false
   }
 ]
