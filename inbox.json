@@ -1,19 +1,5 @@
 [
   {
-    "output_id": "o28f782",
-    "agent_id": "Tools A Monitor",
-    "title": "DJP Kirim Surat 'Cinta' Elektronik ke Jutaan WP yang Nunggak Pajak Rp36 Triliun - Inilah.com",
-    "summary": "DJP Kirim Surat 'Cinta' Elektronik ke Jutaan WP yang Nunggak Pajak Rp36 Triliun - Inilah.com",
-    "raw_output": "",
-    "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORE1JNV9qcDNyOVB1UUhZUENtdEtoVDd3VHluR3lNZk94cDBtM1lNOU4ycmNEYmNiY0syelJNNlFhTTBVb2stZTBIVFJvWW1xUlN0X2xHOUlrZmVhMWpxZ09ROEcybHFoVkFNNjIxbGR1Yzc5dzlHam41bW9UZkJQdmpOUkhxdjFtZl9kaHc0NmN6S0dMdGFiTDh6VW4zRlM5b3c?oc=5",
-    "category": "",
-    "priority": "High",
-    "confidentiality_level": "internal",
-    "created_at": "2026-07-10T11:24:44.802647+00:00",
-    "is_processed": true,
-    "report_id": "r20260711"
-  },
-  {
     "output_id": "o290c34",
     "agent_id": "Tools A Monitor",
     "title": "Penerimaan Pajak Kanwil DJP Jatim II Capai Rp14,19 Triliun hingga Juli 2026 - Bisnis.com - Surabaya",
@@ -13982,6 +13968,19 @@
     "priority": "High",
     "confidentiality_level": "internal",
     "created_at": "2026-08-30T11:33:29.059278+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o68487d",
+    "agent_id": "Tools A Monitor",
+    "title": "Urus Pajak Semudah Chatting-an? Kenalin Yuk, \"Tanya Fiska\" dari DJP! - Direktorat Jenderal Pajak",
+    "summary": "Urus Pajak Semudah Chatting-an? Kenalin Yuk, \"Tanya Fiska\" dari DJP! - Direktorat Jenderal Pajak",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNS1B5X2xWb0pyOGV1M0pQVXlYcm1reU9OX2hTZFp1UmRKNXhkTGxDNUVzUFJuaG00NndyUlBFeWRGb2pjOXZDaUlKVndQUDc1cjh6OXVPZEZNY29kN2NGMG1ybWlaaGkwQTNlT2NIYkExc1JHNEhaS0xLM0llbXhYZWhHSHJmaTFJVEpOSHo2S3R4a3QyRjF0Szdrd1hTQ0psUElMLVRsRDM?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-08-30T16:20:34.301905+00:00",
     "is_processed": false
   }
 ]
