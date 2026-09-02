@@ -1,47 +1,5 @@
 [
   {
-    "output_id": "oa110f",
-    "agent_id": "Tools A Monitor",
-    "title": "OJK Usulkan Insentif Exchange Traded Fund Emas ke Airlangga - Tempo.co",
-    "summary": "OJK Usulkan Insentif Exchange Traded Fund Emas ke Airlangga - Tempo.co",
-    "raw_output": "",
-    "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPLVhJR3JFdjdPcVh4dmF5QjJpU0hjQXZlY1lnUlJqcGV1emFBeFpyT1kyLUVJd25ISTdKYXNkNlNxdEtab1l6NEhwYi1sM1hZTnpvTk1KbGRJSGRMOHBSWG5sSDJ1WThROEtjSkp3WVBGOGJQSUtPakJhN1RWWWM5dl9yWGRtXzAzYzkyRzlKaEtsaVFPMko1NngxNHc?oc=5",
-    "category": "",
-    "priority": "High",
-    "confidentiality_level": "internal",
-    "created_at": "2026-07-15T07:30:59.727775+00:00",
-    "is_processed": true,
-    "report_id": "r20260716"
-  },
-  {
-    "output_id": "oa251d",
-    "agent_id": "Tools A Monitor",
-    "title": "DJP Kalbar tanamkan kesadaran pajak kepada mahasiswa - ANTARA News",
-    "summary": "DJP Kalbar tanamkan kesadaran pajak kepada mahasiswa - ANTARA News",
-    "raw_output": "",
-    "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWlV1WEhfTTdzbXNzTWZNc0JVeFlqVzNnRXFnd0ZhSHpwTHptS3poRmoxVWZ1N1M3TGJ2SnFWT2E4RUhSNGRNLTVBMTFwdWR2UmZzT2owOXZ2RktaVktmUl9nZTFDM2Z6QUdDMHEyUFZka2d5MDVhVWZJZ0NYQ0NsNENLSDV3MzFMOGFLWjlmbmVVN2tydUo3MkJ4cGXSAaIBQVVfeXFMUFpLSkx5U2Q3QVR2MzN6SWMzUFBHQ1FpU3JMUU5KYjNYeDhrZnRzblRmX3V5U3BpX0FZY0VuRDBsczRVWmpDUUJMLUhvZVhDYU1oYnQwU1lScDZNRTA3dTAxQzFGTzU0X3pjdjBYWHVENFdMZ1BlUWtVckNKQl9OeXJQZ3lwMDc1UHpnYjlrdzR1aVdhR2pSODNYU1o1SUsxT19R?oc=5",
-    "category": "",
-    "priority": "High",
-    "confidentiality_level": "internal",
-    "created_at": "2026-07-15T07:31:04.861508+00:00",
-    "is_processed": true,
-    "report_id": "r20260716"
-  },
-  {
-    "output_id": "oa39a0",
-    "agent_id": "Tools A Monitor",
-    "title": "Hari Pajak 2026, DJP Usung Tema \"Pajak Tumbuh, Indonesia Tangguh\" untuk Perkuat Penerimaan Negara - Balipuspanews.com",
-    "summary": "Hari Pajak 2026, DJP Usung Tema \"Pajak Tumbuh, Indonesia Tangguh\" untuk Perkuat Penerimaan Negara - Balipuspanews.com",
-    "raw_output": "",
-    "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQQll2VWtXdmMyemZ3X1k0a05pZHJrM1k4ZllqcDIyRm1iLWpyNlFqOUdzaDhXT0F1QXhuMFpUd0l2N1BGLUJBR21POWp2OWI5bnc2b3Y3cGc0ZFVMUEhsYm92Sy1LcTFhaTZUSzkyM0hJWTRNOEZ3Qzk5dGdSOFFCeksxNzlxMEhrNG9mblozcGplMlVFWXB4MzBLbDZLOTBrMW1yUUdYU0xFUlJqT2xzbmFULXZiR2YtV0FpR0VvVFNIc0hVMzc0?oc=5",
-    "category": "",
-    "priority": "High",
-    "confidentiality_level": "internal",
-    "created_at": "2026-07-15T07:31:10.112266+00:00",
-    "is_processed": true,
-    "report_id": "r20260716"
-  },
-  {
     "output_id": "o425cfa",
     "agent_id": "Tools A Monitor",
     "title": "UK Government’s Fraud Strategy Paints Crypto as ‘Growing Risk’ - Decrypt",
@@ -13953,6 +13911,45 @@
     "priority": "High",
     "confidentiality_level": "internal",
     "created_at": "2026-09-02T16:21:24.271253+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o1eace6",
+    "agent_id": "Tools A Monitor",
+    "title": "DJP Kumpulkan Rp825 M Dari Penertiban Pajak 38 Perusahaan Besi-Baja - Validnews",
+    "summary": "DJP Kumpulkan Rp825 M Dari Penertiban Pajak 38 Perusahaan Besi-Baja - Validnews",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUTVJbDNvcFBKT3VzMV9WWXZ3cEgyajdwc01CYzUyYUl5SHpQWXRjakh1MkZlazdaZnhodk1uTkRjbmVsNzAtVUFjaVh2ZWVSNzJLMkN6UFdzUkxNd29jcWdOUzgtWHFtaWlmbWJzcU1pWGFwSnNxZl9TakttMG9FbE1BWTNrOXhDT19nc0ZxMHN6OVQ1OWxmcV9qemkyNmRyN2VVVnVXTFliRk9MNW9R?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-09-02T20:46:50.342813+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o1f23e1",
+    "agent_id": "Tools A Monitor",
+    "title": "DJP Kantongi Rp825,28 Miliar dari Penanganan Pajak Sektor Besi-Baja - Rmol.id",
+    "summary": "DJP Kantongi Rp825,28 Miliar dari Penanganan Pajak Sektor Besi-Baja - Rmol.id",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNenhzWlFlb3FkbXZEdEtwRm5aR2JlR1FteFVhM0E0dU10UXF0UWlxMFpaTzZ1U0J0YkNteWpKdFYyZ1VhOGkyeUs4ZU1VNmRLSXJWRW82M2g3cFZFdVZRVEsxbGlsTHlwOEUwRW05NHVvU2ZZWU1sck5JZEFEUkNmbjVqSU12c2QwWllQWXNCRkczQ0VoZDFHVk9TdjJCNXU1aDhzVjF1QVo2NVhyVGI5MmZxYw?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-09-02T20:47:20.801878+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o20c0f7",
+    "agent_id": "Tools A Monitor",
+    "title": "Destry Damayanti Resmi Dilantik Menjadi Gubernur Bank Indonesia - suaragarut.id",
+    "summary": "Destry Damayanti Resmi Dilantik Menjadi Gubernur Bank Indonesia - suaragarut.id",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1HTzJGLVpnS212S3hRdDZya3lXWThkekN2X3VGVDhkR3FaVV9xM0dRQ1pKSFdBZTlOZl9UM3cwMHktOC1QbFpYekFzRFgxRHdnOUNzTE02dkxZRnZ3eC1kMWpSell1MXNDZU92YjdEaTNrYzhZeHByTm5yWQ?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-09-02T20:49:06.551330+00:00",
     "is_processed": false
   }
 ]
