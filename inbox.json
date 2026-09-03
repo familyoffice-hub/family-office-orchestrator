@@ -1,47 +1,5 @@
 [
   {
-    "output_id": "o425cfa",
-    "agent_id": "Tools A Monitor",
-    "title": "UK Government’s Fraud Strategy Paints Crypto as ‘Growing Risk’ - Decrypt",
-    "summary": "UK Government’s Fraud Strategy Paints Crypto as ‘Growing Risk’ - Decrypt",
-    "raw_output": "",
-    "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNHpfOGNpVkVIMkNqVndqTXViMFQ5RkpSelc3WlpONnIxd2U3Tm93MHpKT3ZiWEZNbF81SGtzTXowR291WlRRSzk1c1pscFV1OE5EQy1pTmd4cjlZRDJkU0o4SEJ5bEF0NzhzYnpWVHI5dElPYlBMbV9BdkZYZlRYOXd5dFFqSWpoUVk0LUdn0gGWAUFVX3lxTFAwV1ItbjZyRDJaTzFXSDNCYk5DeDBLVHlSNWlicC1VdjI2VWpkNnFXcDEwUlRGbEpsbTRscEstU1EtOWhUUWxYWGgtTWJ6ejV0YWN5VnU1c0FxUTJabmotVmF3b0psc3l4LW1fWHZPVm1oVDZDbFdKNzhmOWpsZ3dUZGtBQ0YwU2RjT3d4SDU5TmhQckM2Zw?oc=5",
-    "category": "",
-    "priority": "High",
-    "confidentiality_level": "internal",
-    "created_at": "2026-07-15T16:52:29.178470+00:00",
-    "is_processed": true,
-    "report_id": "r20260716"
-  },
-  {
-    "output_id": "o4271f1",
-    "agent_id": "Tools A Monitor",
-    "title": "Purbaya Sebut Pembenahan di DJP Mulai Berbuah, Setoran Pajak Tumbuh 24% - Ikatan Konsultan Pajak Indonesia",
-    "summary": "Purbaya Sebut Pembenahan di DJP Mulai Berbuah, Setoran Pajak Tumbuh 24% - Ikatan Konsultan Pajak Indonesia",
-    "raw_output": "",
-    "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVTV4N3RCZUxvVERrOGUwQy1VODlNOHBqUzhPc2haYk15RlRCOXRsUUdHcWxYbDBQZmVoMDFzd3dxdUxicFd3bXhtUEh3OE9wYzhzUEN5dUIwUlJXako3LW5MV2ZBVFpEeU5yTDJmdko5T2xqOEhYbzJrOTJETzFhTFFjOXVKVkJPRTJxc3Y1TFVBVGs?oc=5",
-    "category": "",
-    "priority": "High",
-    "confidentiality_level": "internal",
-    "created_at": "2026-07-15T16:52:34.545272+00:00",
-    "is_processed": true,
-    "report_id": "r20260716"
-  },
-  {
-    "output_id": "o4286bc",
-    "agent_id": "Tools A Monitor",
-    "title": "DJP Gandeng Empat Asosiasi Konsultan Pajak Perkuat Sosialisasi dan Edukasi PMK 37 dan PMK 44 - Ikatan Konsultan Pajak Indonesia",
-    "summary": "DJP Gandeng Empat Asosiasi Konsultan Pajak Perkuat Sosialisasi dan Edukasi PMK 37 dan PMK 44 - Ikatan Konsultan Pajak Indonesia",
-    "raw_output": "",
-    "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQb2FQbW00TE0wSXdJRVBGZ0l4bVZkOTQ0em9zSUx1V1RQR09mYVRMWDdoTjhQUFB0bUlaTDZDUktvZmlWMkZDenR1WEhIVWFjMzBvSFBuSXc0dEVYeG5PMTluaW1SVDdhdEQ1ZlN2NFl6a19YN2tkY200Y1NGbEtocGFxWEM0MDZCWUVrOU04bU4ydTZBbkRPTENDd2Z3VDVPdXdvQkZWdmdaQ0xadnJjZTJn?oc=5",
-    "category": "",
-    "priority": "High",
-    "confidentiality_level": "internal",
-    "created_at": "2026-07-15T16:52:39.868278+00:00",
-    "is_processed": true,
-    "report_id": "r20260716"
-  },
-  {
     "output_id": "o429bad",
     "agent_id": "Tools A Monitor",
     "title": "Purbaya Klaim Pembenahan DJP Mulai Berdampak, Penerimaan Pajak Naik 24 Persen - Kompas.tv",
@@ -13988,5 +13946,44 @@
     "created_at": "2026-09-02T20:49:06.551330+00:00",
     "is_processed": true,
     "report_id": "r20260903"
+  },
+  {
+    "output_id": "o69544b",
+    "agent_id": "Tools A Monitor",
+    "title": "38 Wajib Pajak Sektor Baja Diproses Hukum, DJP Amankan Penerimaan Rp825,28 Miliar - Ortax",
+    "summary": "38 Wajib Pajak Sektor Baja Diproses Hukum, DJP Amankan Penerimaan Rp825,28 Miliar - Ortax",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOOWl0RWNPQkt2aEJlWXRpcV9zdlQxV3pWemVGVlZYbGloUTBRUTJkdDdhQWxja3FHbk80c3Z5SVJBZmJSV2NOcmlVYXNNXzJqdDZld1g4SkVseXQyS2ctejhfNWtkdTVRbzZmQUU5Wm1KaTVjWGZ1SjF4Ql82VF9xbzd6WVJJSFQ3RXgwV0p5U005dWtRVzZmNUJacmVxR28?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-09-03T03:41:42.859793+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o6969f6",
+    "agent_id": "Tools A Monitor",
+    "title": "DJP Mutasi 1.227 Pegawai: Pemeriksa hingga Penyuluh Pajak - Market - Bloomberg Technoz",
+    "summary": "DJP Mutasi 1.227 Pegawai: Pemeriksa hingga Penyuluh Pajak - Market - Bloomberg Technoz",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRFFUV2hYOVZHWTdLdU82dmt4VWVKb2JpRXZ0cEM0VzN0MWJwRkYyeFI3d1pMbk8yV3VIdzRudnUyNUEwcjdfdzBzNU1meEZZRTB3NVpyRHNxUVNLanNwcDh4ZW5ZT2Y2U0prR3VTczJwM1VyWHpackFOX0g1cXlLTkRHUXNFczhwRExMaG9fU1U1U2JLSDJteFF6X3JJdlJZOWNKYm9mb0g4R3hh?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-09-03T03:41:48.406784+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o6b08ca",
+    "agent_id": "Tools A Monitor",
+    "title": "DJP Periksa 38 Perusahaan Besi dan Baja yang Disebut Tak Bayar Pajak - InvestorTrust",
+    "summary": "DJP Periksa 38 Perusahaan Besi dan Baja yang Disebut Tak Bayar Pajak - InvestorTrust",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTDNOVXI3dlFpWVQ2YzBRczV5WEV3aVdQVkRONVZLM1hKRDFUdmJ0Ulh2cXFKN0kwLTFZUzBMMzQwbVFqcnV1SEVZRmd4b0xneFFxYWZCRFJ0bDkxMlEzQWRzdjJNWDN2RV9Fajl1VXd6azlXS2xRQ0trbS1lWWRPTThjdEJ0enNTakFYMEdxbFBQWjlRLXNQVjdodFhIODNyQk1tZzRtOGlSck14ZlE?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-09-03T03:43:34.602075+00:00",
+    "is_processed": false
   }
 ]
