@@ -1,19 +1,5 @@
 [
   {
-    "output_id": "o5f1ae9",
-    "agent_id": "Tools A Monitor",
-    "title": "DJP Mulai Bidik Wajib Pajak Baru, Sisir Data Rekening-Plat Nomor - cnbcindonesia.com",
-    "summary": "DJP Mulai Bidik Wajib Pajak Baru, Sisir Data Rekening-Plat Nomor - cnbcindonesia.com",
-    "raw_output": "",
-    "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUG1GdFh0TTVUM0w2SjFrOUNZZkRVUXM2MHFsa1NhbW5Cck1VaWlwMVpmSG1TWi1IZ0VzeGt5UnE0ckxHbTZQeWFld0NkcUtBeFVLVXBlbDJUZXBleUlfMG9DMWtOTU5jRThwUUxhVEdYWWg1MUlsSDVaVmpKUExxM0JaeERIaUFvRVFyOWlJNER2MW0wWUVFaVBiTkFpVTJpWUdPdDRPRzdkdTVPVHNYSEdoSEtMblFCTEtUZFBUUzJWR2fSAcgBQVVfeXFMUGJJRVFTNGsyZm11TG11Y1BZQlc2Y05SdnpQUFJ6U1Q1WHRDRHRJUEZxR3YteWNJNlBVS05oZnhkMWl3bVBBcWRYRkU3VTc3bl9VT3VvLVVTVHhWTVp4OThIUHJINUFySlFtWC00S2hPUmhCdEU3eU9HSFdJdWIwYUMzb3FYTFVsTzJOelRsZTlYR2ZOT24zUzhraTMtTm5MU2hqU0w1RHRIaS1FbmhZclk2ckY1cW1sZ3JoblFydUd1eUs4TVN6WFQ?oc=5",
-    "category": "",
-    "priority": "High",
-    "confidentiality_level": "internal",
-    "created_at": "2026-07-17T16:37:12.809536+00:00",
-    "is_processed": true,
-    "report_id": "r20260718"
-  },
-  {
     "output_id": "o5f2f4e",
     "agent_id": "Tools A Monitor",
     "title": "Baird Trust Adds Jeremy Gerch To Louisville Wealth And Family Office Team Managing More Than $30 Billion - Pulse 2.0",
@@ -13964,6 +13950,19 @@
     "priority": "High",
     "confidentiality_level": "internal",
     "created_at": "2026-09-04T10:55:58.298259+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o75c756",
+    "agent_id": "Tools A Monitor",
+    "title": "SEC Establishes Financial Reporting and Accounting Unit in Enforcement Division",
+    "summary": "SEC Establishes Financial Reporting and Accounting Unit in Enforcement Division",
+    "raw_output": "",
+    "source_url": "https://www.sec.gov/newsroom/press-releases/2026-72-sec-establishes-financial-reporting-accounting-unit-enforcement-division",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-09-04T16:01:58.742456+00:00",
     "is_processed": false
   }
 ]
