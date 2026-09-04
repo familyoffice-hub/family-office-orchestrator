@@ -1,46 +1,5 @@
 [
   {
-    "output_id": "o5f2f4e",
-    "agent_id": "Tools A Monitor",
-    "title": "Baird Trust Adds Jeremy Gerch To Louisville Wealth And Family Office Team Managing More Than $30 Billion - Pulse 2.0",
-    "summary": "Baird Trust Adds Jeremy Gerch To Louisville Wealth And Family Office Team Managing More Than $30 Billion - Pulse 2.0",
-    "raw_output": "",
-    "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQc0Utemxtb3FJaXZtZjBwbDJlYXVqdEtzWS03QmNoVFlVM0FhZ2JiNXZsWWpUb3FfcXFRWjBUbGhab0JiN0I4clZiYzlVRlA3R1dvWWVXLVhiNklSSjdlZ0l5ZEpaSFVLUjN4SmdtQkYwSUlrYWZzRS04dmJDVW1yRmRTRkVRVk9ram00Y3pZVlNZaklONGEySjJ1TFV6NDBhZ3l1Snl1cEZLOGhER2dCY0M3SzM2WTJDRE5td0drVmzSAcYBQVVfeXFMUDFSby14OUQySHoyU3VDVEhDT2R2b3pCRmhkUGJaZGNoM1BQV3JOcVo5YkxPSjM3Q2JMM2F1M2lzVWJHWW8xMGxxVEkwdFoxeDFyUVlYLTRNTS1QS2pQVEpacUNCcTZkRDZvUUpYZktJTU8tcjA3WWYtcnRYM2trSlNhQzZSRTlPWHJWeVl2ZVU0WV9YTVlNOEhDeml0NlVvQU9VclNEdmRBY3huQ3doMzgxT3BGRjJTNmxmanFwdDdYb01uLUtB?oc=5",
-    "category": "",
-    "priority": "High",
-    "confidentiality_level": "internal",
-    "created_at": "2026-07-17T16:37:18.030253+00:00",
-    "is_processed": true,
-    "report_id": "r20260718"
-  },
-  {
-    "output_id": "o5f43be",
-    "agent_id": "Tools A Monitor",
-    "title": "Perkuat Pengawasan, DJP Kumpulkan Data Harta-Profil Wajib Pajak - cnbcindonesia.com",
-    "summary": "Perkuat Pengawasan, DJP Kumpulkan Data Harta-Profil Wajib Pajak - cnbcindonesia.com",
-    "raw_output": "",
-    "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSXJabWVVVVpuejFzRksxSUdmTzg0cEY2dGxYcDY3VzI2ZDF5ZkxXd2pYb096RGdfMXo2S3ZNWnNna2IwZEZSWDBYeWpPMktOQlE5R1B6Y3YzMkV0VThtdUw3cWpSUWxyZl9zSC00R3d0ZlE4NkRTV1FBaUFjaElMcllGeWpaMDdud0JoSXdXeWdveGREdzZGUkkzU1VkS21zZEhjcEo1QmNaMktkSTJVZDVLWjFXb0hFSV9kM05B0gHDAUFVX3lxTE5vckhoUldneVNvTDdvcng0dVU1amJzRHlLSm9UUXZkLXJnVXYyemtBbHhBeEQ1V3pHTjN1cVBUeGRucmpQTFl1YTBla3dPdnl6dEp0dGN1UVJYRXpnRE1kZ0ViTm5NdzVqYkpBRG4xR0VNV2xQbEZ6YUVPR2toZEpscTRtOHE0Q1BOWXpZZUNxYk9mMkEydTgxeUVnNFg5dktuNnZjNEV5ZC1OemRIcGM1SWY1eS1UcEM4Y2VkRHI2YXl3aw?oc=5",
-    "category": "",
-    "priority": "High",
-    "confidentiality_level": "internal",
-    "created_at": "2026-07-17T16:37:23.262904+00:00",
-    "is_processed": true,
-    "report_id": "r20260718"
-  },
-  {
-    "output_id": "o5f5819",
-    "agent_id": "Tools A Monitor",
-    "title": "DJP Bangun Tiga Pilar Pengawasan Pajak - Ikatan Konsultan Pajak Indonesia",
-    "summary": "DJP Bangun Tiga Pilar Pengawasan Pajak - Ikatan Konsultan Pajak Indonesia",
-    "raw_output": "",
-    "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9UOVJTRm1DVWxmcU1DSHRPRmQ0QmNBaHRCT3RJUk9GNlB4MjdMelozbUVidmkzQ0F0bU16YTZ3OVhfbzRvcGRnWlNsMHFVeGtMOGI5ZWpHalJlNFp5a1NOVzc1ckhKTWxUQkNndFVR?oc=5",
-    "category": "",
-    "priority": "High",
-    "confidentiality_level": "internal",
-    "created_at": "2026-07-17T16:37:28.473529+00:00",
-    "is_processed": false
-  },
-  {
     "output_id": "o5f6ccd",
     "agent_id": "Tools A Monitor",
     "title": "Kantor Pajak Terapkan Pengawasan Otomatis lewat Sistem Informasi DJP - DDTCNews",
@@ -13963,6 +13922,45 @@
     "priority": "High",
     "confidentiality_level": "internal",
     "created_at": "2026-09-04T16:01:58.742456+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o3ae11c",
+    "agent_id": "Tools A Monitor",
+    "title": "PT Samuel Sekuritas sebut suku bunga dan rupiah kunci pemulihan IHSG - manado.antaranews.com",
+    "summary": "PT Samuel Sekuritas sebut suku bunga dan rupiah kunci pemulihan IHSG - manado.antaranews.com",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVWs1Wk9aTVVEcHByaFJodnR0dGIxcXdaNlN4cVpGcmp3NEJSSExmanRub2NKY3BhdGt5eEdubnc0emN4WURIbFE0cjZnVXdIdlJ4cG5ZZ1lRRzdOWFItZmc5cTN0Rks4ZjdyYXA5cmdPV3lkWUpSOE8tWEdJNHU4TFpfR1BWOE0zSnVYYV8xQkJaSnFMWHU0ME9VMFgteG5VcFlHc1Z2bFlSRU9tcjV5UGl3?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-09-04T20:30:58.716656+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o3af520",
+    "agent_id": "Tools A Monitor",
+    "title": "Mason Cisney Alcon Wealth Management Group Joins UBS in Pueblo, CO - Business Wire",
+    "summary": "Mason Cisney Alcon Wealth Management Group Joins UBS in Pueblo, CO - Business Wire",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYy1NUEZQQ1R6R2ZGeUNBWlFMT2x2RHBWRXlib2E0TGtQeXFoN3BvamJlOS1aUUFNbW5rcWZMeVFqaTRpMURGTVJBWE9qdjUxZE1RYTRpNXpfLWFTTS16QV9MSnRvTlRjVzZnQW1Ld1BCdGs0R1VhNzJ4WHk5a0k0SGpwUGdhU21YMUp4YndRWkRXZ2FONVNYTzk1WmNLbWsya0NCdVlUcXJJMlg0ak9ZTFFFc0FyQXhYWnN6aFZ2Zw?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-09-04T20:31:03.840567+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o3b0951",
+    "agent_id": "Tools A Monitor",
+    "title": "Gold Price Forecast 2026: Goldman Sachs Sees $4,900/Oz on Central Bank Demand - News and Statistics - indexbox.io",
+    "summary": "Gold Price Forecast 2026: Goldman Sachs Sees $4,900/Oz on Central Bank Demand - News and Statistics - indexbox.io",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYm8tQ2xDSnFpYnUwZzhyZjdrWEpmcXZ0NVV1MmNRNWlKUl9xRW5XSmJnZmtSb25GbUhuQ3N2RFJNWFRtQmIzekxxOS01ejdtQS1Xb3lvMi10c2pNekdEcUhsMzhhRm53NVlycVotMnhCVTdaNEJ1UWZ6ZHF6bDhWTlY1bmg4VFMtZHdRUXBnRmlpcWZxUVhR?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-09-04T20:31:09.009060+00:00",
     "is_processed": false
   }
 ]
