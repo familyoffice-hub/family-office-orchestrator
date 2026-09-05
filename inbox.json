@@ -1,19 +1,5 @@
 [
   {
-    "output_id": "o85a8da",
-    "agent_id": "Tools A Monitor",
-    "title": "Scam victims can owe taxes on stolen money. A bill in Congress could offer relief",
-    "summary": "Scam victims can owe taxes on stolen money. A bill in Congress could offer relief",
-    "raw_output": "",
-    "source_url": "https://www.cnbc.com/2026/07/18/scam-victims-irs-tax-stolen-money.html",
-    "category": "",
-    "priority": "High",
-    "confidentiality_level": "internal",
-    "created_at": "2026-07-18T15:32:39.514546+00:00",
-    "is_processed": true,
-    "report_id": "r20260719"
-  },
-  {
     "output_id": "o85bcfc",
     "agent_id": "Tools A Monitor",
     "title": "DJP Terapkan Teknologi dan Kunjungan untuk Awasi Pajak - achmadnurhidayat.id",
@@ -13972,6 +13958,19 @@
     "priority": "High",
     "confidentiality_level": "internal",
     "created_at": "2026-09-05T14:51:49.039282+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o864f80",
+    "agent_id": "Tools A Monitor",
+    "title": "DJP Jatim I Serahkan Tersangka Kasus Pajak PT TSP, Kerugian Negara Rp614 Juta - KilasJatim.com",
+    "summary": "DJP Jatim I Serahkan Tersangka Kasus Pajak PT TSP, Kerugian Negara Rp614 Juta - KilasJatim.com",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNaUlRNTNSVTJheEJ3WUZWV3NyTGFXYVJiSlpkOVpiNFI4dFlQdlhQUkRLczdwNnkwT1VULTJacEJBSm5hQzNEUndMeE5FZWtBZV9zeTI5T1lkTy1Md2tHVFFFNFdoSHZjaVUwNDJYQzJXUUMtdC1RZnc2aVJUOFRLd29WMkJ4RkxnVHVKLUJTZnhZY19OOS1HRVpPZVdrYktrdjl3a3k2bEZWTFFaTUxFUA?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-09-05T20:06:42.176603+00:00",
     "is_processed": false
   }
 ]
