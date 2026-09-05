@@ -1,47 +1,5 @@
 [
   {
-    "output_id": "o850b0f",
-    "agent_id": "Tools A Monitor",
-    "title": "DJP Ubah Cara Awasi Wajib Pajak, Babinsa hingga Web Scraping Dilibatkan - Kompas.com",
-    "summary": "DJP Ubah Cara Awasi Wajib Pajak, Babinsa hingga Web Scraping Dilibatkan - Kompas.com",
-    "raw_output": "",
-    "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSXN3SVJZYU5NajRmWmJoSVpiZzdDSUFSUF9yYmozbkRkTDFNNmt0X05JZk5tRlo5TVpEQkZubnZURnNfVEpDT2hfZjF6azFwYU5vRTRiN1AtU3JwMDVGVlhrX21rS0RDVUJPSTlMY3Zoc0FCRnJxY1Q3NU9Qckx4eFEyeHZNbGRvWFExVEVMZENZYlJfMVlVY2dtbHY1SDBGQld0ZXhmVlJLNlBrS3NPWkJyTXRwLVBmalVXVE93?oc=5",
-    "category": "",
-    "priority": "High",
-    "confidentiality_level": "internal",
-    "created_at": "2026-07-18T07:11:59.119582+00:00",
-    "is_processed": true,
-    "report_id": "r20260719"
-  },
-  {
-    "output_id": "o852084",
-    "agent_id": "Tools A Monitor",
-    "title": "DJP Perluas Jaring Pengawasan Pajak: Bidik Wajib Pajak Baru Melalui Pelat Nomor hingga Kerahkan Babinsa - AFU.id",
-    "summary": "DJP Perluas Jaring Pengawasan Pajak: Bidik Wajib Pajak Baru Melalui Pelat Nomor hingga Kerahkan Babinsa - AFU.id",
-    "raw_output": "",
-    "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQblRNNmQzZDJseGtmTGptaGlnTTE0aTE2cDJsUlFxN0Y3OWlVUzhteDFkbDhzTWJ6eHNENkUxdkh1dDF1YjdMdUllT1lwTjdGMzhmelVLcXRqODRlZW1ZYnFJcUt0RDhXbUZkTjBQS3lZclNrNnppSXZSeUhMMmNmZGZXS0Y0TlpfcnNFQzh2S24wRF9HemxuQ0JkcUZWbm8wUHUxZWhBWTYxMzRTUlBUSTdaTWJacDZEWFhfcnBlS1JaRnpnRFV3dl9zeWc?oc=5",
-    "category": "",
-    "priority": "High",
-    "confidentiality_level": "internal",
-    "created_at": "2026-07-18T07:12:04.612154+00:00",
-    "is_processed": true,
-    "report_id": "r20260719"
-  },
-  {
-    "output_id": "o853667",
-    "agent_id": "Tools A Monitor",
-    "title": "DJP ubah pola pengawasan wajib pajak dengan andalkan teknologi-data - ANTARA News",
-    "summary": "DJP ubah pola pengawasan wajib pajak dengan andalkan teknologi-data - ANTARA News",
-    "raw_output": "",
-    "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbkk3SGFEZlBldjBwTU5GTXNsVzJMeUtwY3ZiVThMY1ZZclA0bkJPcXRfOXFZaU5fdUdSa1hNMXNDNGo3N2std3U4eVM0WnA4eDVPOXJHS1MzUUd6R0QwSTdIN294LUEzQl85QTl1bXNheUxRY2U1YXdzMUgzOFZEbVcxYjV2emlLcDR0SmE4M2NlbWtwZVh1QTAzU2w2bUs5WTFON3VtTkJQQ2Jzb3fSAbABQVVfeXFMTUZ1YzdlcEkxVWpvMzAyQS1xSzJwWTh4UFpzUnlCaHVjTkdKRXlvYkxNNWoya0VaRGdSNW1RTjRVd1pCbV8tSkFiaGFfOVN5MmplWVVEWDd3RkVPYXdob0xFUDdsWUpjUXZYeG9CTW1FSEVaU3ZFUXlDY2tieE95YlJMTDVfa2EwTUk4UXJXNlFlSmFHQmV3WG9NeVFsTW5EWWhQV3ljdlNpWG9FS1pkWEg?oc=5",
-    "category": "",
-    "priority": "High",
-    "confidentiality_level": "internal",
-    "created_at": "2026-07-18T07:12:10.215338+00:00",
-    "is_processed": true,
-    "report_id": "r20260719"
-  },
-  {
     "output_id": "o854bd4",
     "agent_id": "Tools A Monitor",
     "title": "DJP Perkuat Pengawasan Wilayah untuk Petakan Potensi Pajak - Ikatan Konsultan Pajak Indonesia",
@@ -13980,6 +13938,45 @@
     "priority": "High",
     "confidentiality_level": "internal",
     "created_at": "2026-09-05T03:50:50.945485+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o31c825",
+    "agent_id": "Tools A Monitor",
+    "title": "SEC Forms New Retail Fraud Working Group",
+    "summary": "SEC Forms New Retail Fraud Working Group",
+    "raw_output": "",
+    "source_url": "https://www.sec.gov/newsroom/press-releases/2026-63-sec-forms-new-retail-fraud-working-group",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-09-05T10:14:22.501056+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o31ddd9",
+    "agent_id": "Tools A Monitor",
+    "title": "Kenalkan Pentingnya Pajak, DJP Jateng I Gelar Pajak Bertutur 2026 - Radio Idola Semarang",
+    "summary": "Kenalkan Pentingnya Pajak, DJP Jateng I Gelar Pajak Bertutur 2026 - Radio Idola Semarang",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUXdid250bWxQMUI2dG9RNlBTOWZXb0FmampFQzhqQ2hsSnZpWmZLWnFyQ0lpaXNvQXNybHdMdk8xRlBsUDhpT0ItYndfQUx2Q2lyUk9DRUl2M3kxcmo5bUVrVjRXWjhscnNCdHVWd3JhM0VmVHJDWHNhbXNncDJpN0ZoZlFyY2pQR2loVm5wUkJvQXJfaGFibg?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-09-05T10:14:28.057904+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o31f373",
+    "agent_id": "Tools A Monitor",
+    "title": "Pajak Bertutur 2026, DJP Bengkulu-Lampung Sasar Pelajar dan Mahasiswa - betv.disway.id - Disway",
+    "summary": "Pajak Bertutur 2026, DJP Bengkulu-Lampung Sasar Pelajar dan Mahasiswa - betv.disway.id - Disway",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUEkwdWsyc3g5X2VzeTBJS0JIdDFhS3NtbWFjT0NqUEdVRnJGeFdyeDZlUTdTbGhUVldwYWRnLWRodDJUekxxTmVDbmtiN0RVWmhTMXpvTzM2ZmJEajJzX2hLNXA4YVVEOUhzbEpRTUhvSHlEcEI1aUxIdWhkeGxhdUVYdkw4bnJNSVFNSno0cTdtX2pYVHJud00xQVpnV1BiS3FMLUpxRGJNajBkZTNpM1d4cVc1WUpYYkluVtIBowFBVV95cUxNa1ZtX2FqS242eFMxUnN6VmJ5c0pESlo0VUJTUmNYem51dmE0Z0hYTUR6cm5SQlNvM1J6ZkVKWFYxY2Y5dUhBbXY1RlpYdVdnUW52Wi1JY01zNk5OWE5VbkF6WjhFN0NKNkhlNUkyRTJQS3hJSDFRSnZNaEFDakNjbWEtMjY2NmtVbmptTnF0YWMybkRvbU9ZMmxrVVRyMWY3Q3dz?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-09-05T10:14:33.587367+00:00",
     "is_processed": false
   }
 ]
