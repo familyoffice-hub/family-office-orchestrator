@@ -1,19 +1,5 @@
 [
   {
-    "output_id": "o66cb57",
-    "agent_id": "Tools A Monitor",
-    "title": "Eurojust Coordinates Global Crackdown on €600 Million Crypto Investment Fraud Network - TRM Labs",
-    "summary": "Eurojust Coordinates Global Crackdown on €600 Million Crypto Investment Fraud Network - TRM Labs",
-    "raw_output": "",
-    "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQnNyT0xUdGM5QmZUOENkMzlCNHVPZFRMV2dJTGxWYmR1OGE3SVN5d2Z3dk9PemNoS1lnWVZROUJDQkl1SUxmell0cWRHUXl1a28zcXpweXNRR1V0eGw1eno0QURsSUpjbzNjTFRmRmNQbDNtbi1wTDVCb183Tkt1S1FDRXBQdC1KalhCUEFIT3RFRVl6LS10MEd6NHpJemM2ZXVrVDRqVmJyNEVyWW5pQjZ6Wndidmp0Xzg0V1A4ODdwOG8?oc=5",
-    "category": "",
-    "priority": "High",
-    "confidentiality_level": "internal",
-    "created_at": "2026-07-18T20:32:16.727879+00:00",
-    "is_processed": true,
-    "report_id": "r20260719"
-  },
-  {
     "output_id": "o674422",
     "agent_id": "Tools A Monitor",
     "title": "Bank Indonesia Naikkan Suku Bunga Acuan Jadi 5,25% - Ikatan Konsultan Pajak Indonesia",
@@ -13981,6 +13967,19 @@
     "priority": "High",
     "confidentiality_level": "internal",
     "created_at": "2026-09-06T15:11:16.724821+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o53da7e",
+    "agent_id": "Tools A Monitor",
+    "title": "Hari Pajak 2026: Perluas Basis Pajak, DJP Gelar Dialog dengan Berbagai Kalangan - Pajak",
+    "summary": "Hari Pajak 2026: Perluas Basis Pajak, DJP Gelar Dialog dengan Berbagai Kalangan - Pajak",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1HNFpUMmR3Q2NWM2JuaE9RV3BWMmM1SFZObFNtWXQzVjFxNXU1a3ZWWDRxNGZzZEV4OURjQ1Z0TXQyOHRENXo4QWk1ZWlKLWM?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-09-06T20:11:35.422776+00:00",
     "is_processed": false
   }
 ]
