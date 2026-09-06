@@ -1,19 +1,5 @@
 [
   {
-    "output_id": "o85f9c6",
-    "agent_id": "Tools A Monitor",
-    "title": "Quadrant Private Wealth Management LLC Acquires 3,063 Shares of Tesla, Inc. $TSLA - MarketBeat",
-    "summary": "Quadrant Private Wealth Management LLC Acquires 3,063 Shares of Tesla, Inc. $TSLA - MarketBeat",
-    "raw_output": "",
-    "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQLUx2Q1ZGRTFZWnYyWEk5cWYzdnNMMVpZQlhaRk81M3BBbmwzblEtZkVFcGZvMUdWNUdhSHBKdzFSS1JQM0pPVmFuSWlaenNWb3ZBR0d3VXRnT0hienJWSDd0ZjNaQjJqZXM5V3Bray1VVzk4UFg4Y0FKdS16NnRkRzdkS0VFdEVpeVE1bk9BaEQ3a1dYWno5dDcyVjRHV2Q0QlBScHFsUUY2RjB6UzZGQTlQLXF3SzAydm01M2tEYW1UQTdaQnhjaUY2OEp5NGZpY2wyaA?oc=5",
-    "category": "",
-    "priority": "High",
-    "confidentiality_level": "internal",
-    "created_at": "2026-07-18T15:33:00.230084+00:00",
-    "is_processed": true,
-    "report_id": "r20260719"
-  },
-  {
     "output_id": "o860dbf",
     "agent_id": "Tools A Monitor",
     "title": "Quadrant Private Wealth Management LLC Raises Holdings in CoreWeave Inc. $CRWV - MarketBeat",
@@ -13986,6 +13972,19 @@
     "priority": "High",
     "confidentiality_level": "internal",
     "created_at": "2026-09-06T03:44:04.388714+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "od9805",
+    "agent_id": "Tools A Monitor",
+    "title": "SEC Charges Boiler Room Operator and Three Entities with Defrauding Retail Investors in $74 Million Pre-IPO Investment Scam",
+    "summary": "SEC Charges Boiler Room Operator and Three Entities with Defrauding Retail Investors in $74 Million Pre-IPO Investment Scam",
+    "raw_output": "",
+    "source_url": "https://www.sec.gov/newsroom/press-releases/2026-75-sec-charges-boiler-room-operator-three-entities-defrauding-retail-investors-74-million-pre-ipo",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-09-06T10:34:50.885574+00:00",
     "is_processed": false
   }
 ]
