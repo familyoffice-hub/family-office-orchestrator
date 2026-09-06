@@ -1,46 +1,5 @@
 [
   {
-    "output_id": "o85bcfc",
-    "agent_id": "Tools A Monitor",
-    "title": "DJP Terapkan Teknologi dan Kunjungan untuk Awasi Pajak - achmadnurhidayat.id",
-    "summary": "DJP Terapkan Teknologi dan Kunjungan untuk Awasi Pajak - achmadnurhidayat.id",
-    "raw_output": "",
-    "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1fVklJLU9iU1M0dGZTM3EwZ3ozMDhzaVJfSUhGMFRQREJFaUNFNXZvb1V4dmFfTmN6SUNKdHI5V2V3NnZaUXBvV3pKSDB2dDBBd2ZlcU9QTkVBQTYwTjJLV1M4U29pZlF4aDdZSVJMZmE?oc=5",
-    "category": "",
-    "priority": "High",
-    "confidentiality_level": "internal",
-    "created_at": "2026-07-18T15:32:44.668039+00:00",
-    "is_processed": true,
-    "report_id": "r20260719"
-  },
-  {
-    "output_id": "o85d1a2",
-    "agent_id": "Tools A Monitor",
-    "title": "'WarshGPT': How Wall Street is adapting to the Fed's new era of communication",
-    "summary": "'WarshGPT': How Wall Street is adapting to the Fed's new era of communication",
-    "raw_output": "",
-    "source_url": "https://www.cnbc.com/2026/07/18/warshgpt-federal-reserve-communications-task-force-warsh.html",
-    "category": "",
-    "priority": "High",
-    "confidentiality_level": "internal",
-    "created_at": "2026-07-18T15:32:49.954507+00:00",
-    "is_processed": true,
-    "report_id": "r20260719"
-  },
-  {
-    "output_id": "o85e593",
-    "agent_id": "Tools A Monitor",
-    "title": "'WarshGPT': How Wall Street is adapting to the Fed's new era of communication",
-    "summary": "'WarshGPT': How Wall Street is adapting to the Fed's new era of communication",
-    "raw_output": "",
-    "source_url": "https://www.cnbc.com/2026/07/18/warshgpt-federal-reserve-communications-task-force-warsh.html",
-    "category": "",
-    "priority": "High",
-    "confidentiality_level": "internal",
-    "created_at": "2026-07-18T15:32:55.059210+00:00",
-    "is_processed": false
-  },
-  {
     "output_id": "o85f9c6",
     "agent_id": "Tools A Monitor",
     "title": "Quadrant Private Wealth Management LLC Acquires 3,063 Shares of Tesla, Inc. $TSLA - MarketBeat",
@@ -13989,5 +13948,44 @@
     "created_at": "2026-09-05T20:06:42.176603+00:00",
     "is_processed": true,
     "report_id": "r20260906"
+  },
+  {
+    "output_id": "o5f1c7e",
+    "agent_id": "Tools A Monitor",
+    "title": "Stablecoin law allows crypto firms to profit from fraud, prosecutors say - CNN",
+    "summary": "Stablecoin law allows crypto firms to profit from fraud, prosecutors say - CNN",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1JbGpKbkZGZ2FvaDdzS1pEWlQzU2ZqR1hxVW1zUFdFU2JPeC1CNUVrSWZwZFJheThSLVd4ZW8zb19uMi1ldEZvTkpqQnRwOVlyRXBGLXFoYXk4bEF1SVZUNjk1aFpJMnhzeUp3ZE1EVGlUbFpQRjFz?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-09-06T03:43:53.214500+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o5f32a2",
+    "agent_id": "Tools A Monitor",
+    "title": "DJP Buka Pojok Pajak di AHU Fest, Layani NPWP hingga Aktivasi Coretax - DDTCNews",
+    "summary": "DJP Buka Pojok Pajak di AHU Fest, Layani NPWP hingga Aktivasi Coretax - DDTCNews",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOM0x3RnJyUDNoN3pyRlNKaVJ0Zm1FRnIybG5PV1ZqN0FheURqNERmX0pKN2RQOFBjUWNFeDU1b3hQa3BfeU1TZ0FUYTFUTGcyUktETmtjcFkyN2JrSEpWZEs1eDVmWEZNYS0teDVWTFFjcFlQdkZsLThfTG5WSldvMXBkeU9US0NuanFidlRtaXp5MVAwcVlYVGRwd0Rmd25GYm5KUG1FTVBLa0FXd2hoMHFVTGE?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-09-06T03:43:58.882731+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o5f4824",
+    "agent_id": "Tools A Monitor",
+    "title": "DJP Bali Gelar Pajak Bertutur Tanamkan Kesadaran Pajak sejak Dini - RRI.co.id",
+    "summary": "DJP Bali Gelar Pajak Bertutur Tanamkan Kesadaran Pajak sejak Dini - RRI.co.id",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYTJmLThNcm1iMlRzd2YtWXZFTlV0MzRMaEtWdXVSVHFrNmZqWFp0c29IUnZSVkJmZ0RRZzFrbnl1NENjc0tsaERwVUdjZXJSSmFHMjh0dmw4YWlUOV9Jb21UOVlLZTNrUTEyOVlLX3hOMzlNYU5oMVk5NFhjRUtvTklERmVHUHBCY2E5RFhobWVKR0RxUkNUWlZUeWZNRTZLSFgtR01rQzlCdU91VXc?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-09-06T03:44:04.388714+00:00",
+    "is_processed": false
   }
 ]
