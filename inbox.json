@@ -1,19 +1,5 @@
 [
   {
-    "output_id": "o674422",
-    "agent_id": "Tools A Monitor",
-    "title": "Bank Indonesia Naikkan Suku Bunga Acuan Jadi 5,25% - Ikatan Konsultan Pajak Indonesia",
-    "summary": "Bank Indonesia Naikkan Suku Bunga Acuan Jadi 5,25% - Ikatan Konsultan Pajak Indonesia",
-    "raw_output": "",
-    "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBsQ3hSVzZ1TG9neVZTeXZDbThvdkNZUlRUeHpkandfT2dwMHMyZ21aVmZMTzVsdXNySnJmUGJwU1FFazNGUDd5MWtfbmtRMGtCblo2dWdQcFZkbkN3YmVtelgwMV9wSWNDd0JtbGk1RjFpWFBNY2Vz?oc=5",
-    "category": "",
-    "priority": "High",
-    "confidentiality_level": "internal",
-    "created_at": "2026-07-18T20:32:47.650304+00:00",
-    "is_processed": true,
-    "report_id": "r20260719"
-  },
-  {
     "output_id": "o68e319",
     "agent_id": "Tools A Monitor",
     "title": "DJP Perluas Pengawasan Pajak hingga Tingkat Desa, Manfaatkan Teknologi dan Jejaring Informasi - Suara Surabaya",
@@ -13990,5 +13976,18 @@
     "created_at": "2026-09-06T20:11:35.422776+00:00",
     "is_processed": true,
     "report_id": "r20260907"
+  },
+  {
+    "output_id": "o27ba9c",
+    "agent_id": "Tools A Monitor",
+    "title": "DJP Mutasi 1.261 Pegawai, Purbaya Bidik Optimalisasi Penerimaan Pajak - news.ddtc.co.id",
+    "summary": "DJP Mutasi 1.261 Pegawai, Purbaya Bidik Optimalisasi Penerimaan Pajak - news.ddtc.co.id",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORDFJV2ZTSUp4TlIydUxNd09tMkRyYnVjMTBzcGdxdFpBallmN1QzSERmeXJ6OG94VjNQZU1ad01kVk1FZHpLWFNMbWNTNVdGcmc2LWc1alNxUlJ3dGRfZjVWUEprbjdtU2lOTGh0ZUZQWXNxUlBQdkhRcEZELUYwNVBWYXg4N1BjRHRJX1lObzBvOWE1b2k1OHVCV1ZRSXUwTkNNaHZhV1dEZVlLS2FmaTJhWXhPQQ?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-09-07T03:43:23.676495+00:00",
+    "is_processed": false
   }
 ]
