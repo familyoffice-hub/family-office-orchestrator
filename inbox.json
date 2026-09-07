@@ -1,19 +1,5 @@
 [
   {
-    "output_id": "o4fdb5e",
-    "agent_id": "Tools A Monitor",
-    "title": "DJP Terbitkan Pedoman Baru Akses Informasi Keuangan - Ikatan Konsultan Pajak Indonesia",
-    "summary": "DJP Terbitkan Pedoman Baru Akses Informasi Keuangan - Ikatan Konsultan Pajak Indonesia",
-    "raw_output": "",
-    "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBjcldacWpLT3BRWjhnOHAzU1Ruay00TWVlLWtRNE5ULVdqbjJvLW1tZnR5OU9CRmxDc05rbXZRNlhISGRleXBvT2RFSnRxRzdJM2VZWDF2b3BodURXTGhYdzJYMlZiQVlrX3ZvYlVWbDdvUVZkUGJadEpnaw?oc=5",
-    "category": "",
-    "priority": "High",
-    "confidentiality_level": "internal",
-    "created_at": "2026-07-19T15:33:53.502399+00:00",
-    "is_processed": true,
-    "report_id": "r20260720"
-  },
-  {
     "output_id": "o30045c",
     "agent_id": "Tools A Monitor",
     "title": "Pengawasan Pajak Makin Ketat, DJP Kini Libatkan Babinsa dan Polisi Desa - kontan.co.id",
@@ -13972,6 +13958,19 @@
     "priority": "High",
     "confidentiality_level": "internal",
     "created_at": "2026-09-07T17:43:00.513351+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o5ae304",
+    "agent_id": "Tools A Monitor",
+    "title": "Crypto exchange Gemini not at fault for collapse of Earn lending program, arbitrator says",
+    "summary": "Crypto exchange Gemini not at fault for collapse of Earn lending program, arbitrator says",
+    "raw_output": "",
+    "source_url": "https://www.cnbc.com/2026/08/31/gemini-not-at-fault-for-collapse-of-earn-lending-program-arbitrator-says.html",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-09-07T21:19:16.356486+00:00",
     "is_processed": false
   }
 ]
