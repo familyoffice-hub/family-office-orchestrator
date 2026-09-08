@@ -1,19 +1,5 @@
 [
   {
-    "output_id": "o61c85f",
-    "agent_id": "Tools A Monitor",
-    "title": "IHSG Menguat di Tengah Wait and See Jelang Keputusan Suku Bunga BI - Suara Surabaya",
-    "summary": "IHSG Menguat di Tengah Wait and See Jelang Keputusan Suku Bunga BI - Suara Surabaya",
-    "raw_output": "",
-    "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTkRyOU9lMk1IajhpM0Fuc2VJVm03OTV3cnJ3d3FXWFd4b3BpVGgwYnU4NWMwSk95eDV3VXZTQ3JaTTlBMFRJRllla0pHdFB2bEtsZWtoMmlzNXpDR3R5alFIel9jRGVJWGo5MUxvbTBZend5WHFwRUYwekhfNEEtVGo2ZGlXNU02WlNBTTFxbGYta0labS1xNXFvb29rOHdXRGZJN0VKQV9XdWJCM0RBSVREUDdWVkU?oc=5",
-    "category": "",
-    "priority": "High",
-    "confidentiality_level": "internal",
-    "created_at": "2026-07-21T09:33:28.287119+00:00",
-    "is_processed": true,
-    "report_id": "r20260722"
-  },
-  {
     "output_id": "o61dc87",
     "agent_id": "Tools A Monitor",
     "title": "DJP Perjelas Siapa Saja yang Berwenang Mengakses Rekening Wajib Pajak - Ikatan Konsultan Pajak Indonesia",
@@ -13968,6 +13954,19 @@
     "priority": "High",
     "confidentiality_level": "internal",
     "created_at": "2026-09-08T16:19:21.420271+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "occc41",
+    "agent_id": "Tools A Monitor",
+    "title": "Top 5 Ways To Recover Funds From Crypto Scam in 2025 - Blockchain Council",
+    "summary": "Top 5 Ways To Recover Funds From Crypto Scam in 2025 - Blockchain Council",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOR2tXcHcwVnJVVDlLSGM3LVRBaERJbmh4UHpsZG5LZlhxblE5dk16Ym1LWHRDSjB2dW43SS1OeWRWbnlEMHNxUF8tR2xCRlRXUkVjcEdvdW9kcWkzTjI0MS1PWGNtNDVLTC1tbWdhQjdTQUVCOHltWl8tZ3dzMWZSS1EyemVzOXBhUlE1SkZsWkRDMWFNZzdzajFTUQ?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-09-08T20:53:58.721348+00:00",
     "is_processed": false
   }
 ]
