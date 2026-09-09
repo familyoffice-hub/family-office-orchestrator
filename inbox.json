@@ -1,47 +1,5 @@
 [
   {
-    "output_id": "o61dc87",
-    "agent_id": "Tools A Monitor",
-    "title": "DJP Perjelas Siapa Saja yang Berwenang Mengakses Rekening Wajib Pajak - Ikatan Konsultan Pajak Indonesia",
-    "summary": "DJP Perjelas Siapa Saja yang Berwenang Mengakses Rekening Wajib Pajak - Ikatan Konsultan Pajak Indonesia",
-    "raw_output": "",
-    "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWDVzRFNid0VnZS1QVnRvU1BiWDRWZFN5M3FWSzE3UlEwUzZWTlI0VDM3VThGVl92ZmNBNDB0SjZhNTRHMjk0YXotNU5oaU1kcE5fYnVjTFpwRmozRENQbGRCcllia293d01lRUkyeVRONUZ0c1FUTUhTM0hLRUVhZWpFLWMtRUdUNjBzRWtkbjl1ZktTU0Jv?oc=5",
-    "category": "",
-    "priority": "High",
-    "confidentiality_level": "internal",
-    "created_at": "2026-07-21T09:33:33.447496+00:00",
-    "is_processed": true,
-    "report_id": "r20260722"
-  },
-  {
-    "output_id": "o61f0c4",
-    "agent_id": "Tools A Monitor",
-    "title": "Cara DJP Minta Informasi Keuangan WP untuk Kepentingan Sengketa Pajak - DDTCNews",
-    "summary": "Cara DJP Minta Informasi Keuangan WP untuk Kepentingan Sengketa Pajak - DDTCNews",
-    "raw_output": "",
-    "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTjg1bF91eWpTbVhDOC1kR2VaSWs4ekQ5VURFdG0wWC1uVzR3ckNGM3ZSc1ZWOGV6dDdvSkFsQjliaWhjN3JnX29vYS1rUG5Wa0ZWcFZQNnpURFpMWlgwWTZHVDV3NERybkdqWTNILXFPRkw5QTUwS2FkM2FVWXkzQWl4Tnk4b1hCVm5TQ19TX0hwc3k5dnQ4YTZWczRJa0tWcVpzTU5sbXZlVWliV3o0ZVR5X2VpWXcx?oc=5",
-    "category": "",
-    "priority": "High",
-    "confidentiality_level": "internal",
-    "created_at": "2026-07-21T09:33:38.628582+00:00",
-    "is_processed": true,
-    "report_id": "r20260722"
-  },
-  {
-    "output_id": "o6204de",
-    "agent_id": "Tools A Monitor",
-    "title": "DJP Klarifikasi Aturan Akses Rekening, HWI Tak Otomatis Jadi Sasaran - Ikatan Konsultan Pajak Indonesia",
-    "summary": "DJP Klarifikasi Aturan Akses Rekening, HWI Tak Otomatis Jadi Sasaran - Ikatan Konsultan Pajak Indonesia",
-    "raw_output": "",
-    "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPX0NjUnQ0RkhxLTlMZmJyaDFyS2JtWjl1aTgzVUNPdXcxZXBjS1lpak51dnVMUTlRclFUd3JIZ0xyOEMyS1pSaEpIcFI4NE1RcExHaWZ4ODJ2eFU0NzZOUWdITmxJT3Jjdko2QlUzTEVQNHQ2ZjVvWGxCNC1NQmhZMmZUN3I1S1k1c1hrdUQ4XzY?oc=5",
-    "category": "",
-    "priority": "High",
-    "confidentiality_level": "internal",
-    "created_at": "2026-07-21T09:33:43.774118+00:00",
-    "is_processed": true,
-    "report_id": "r20260722"
-  },
-  {
     "output_id": "o621934",
     "agent_id": "Tools A Monitor",
     "title": "Heboh Pelibatan Babinsa dan Bhabinkamtibmas Awasi Pajak, DJP Tegaskan Hanya Pendampingan Saja - AFU.id",
@@ -13990,5 +13948,44 @@
     "created_at": "2026-09-08T20:53:58.721348+00:00",
     "is_processed": true,
     "report_id": "r20260909"
+  },
+  {
+    "output_id": "o5af912",
+    "agent_id": "Tools A Monitor",
+    "title": "SEC Charges San Francisco Bay Area Private Fund Executives with Multimillion Dollar Ponzi-Like Scheme",
+    "summary": "SEC Charges San Francisco Bay Area Private Fund Executives with Multimillion Dollar Ponzi-Like Scheme",
+    "raw_output": "",
+    "source_url": "https://www.sec.gov/newsroom/press-releases/2026-82-sec-charges-san-francisco-bay-area-private-fund-executives-multimillion-dollar-ponzi-scheme",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-09-09T03:52:42.002530+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o5b0cff",
+    "agent_id": "Tools A Monitor",
+    "title": "DJP Bicara Kepastian, Wajib Pajak: Uang Kami Mana? - DelikAsia.com",
+    "summary": "DJP Bicara Kepastian, Wajib Pajak: Uang Kami Mana? - DelikAsia.com",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSkdONWlCU2tUQk12UGxaSVNTT2NoLVhDVFo2czdNZ0lGUXhWX2MtaWRueWNLZlJJTWJ5a3dyY0dBZGxMS3dvNnFQVURhZ2IxclFJV2F1SEZoWG83c3BpeHFVR3VKVUZSdFlST1dFN1BKWTJYOXNsSllRdi0zLTJ3TjRMU3lJRjlFaHUwZ3NKd3k?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-09-09T03:52:47.103702+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o5b2101",
+    "agent_id": "Tools A Monitor",
+    "title": "DJP Klaim Coretax Tambah 2 Juta Basis Pajak, Apa Dampaknya? - tv.kontan.co.id",
+    "summary": "DJP Klaim Coretax Tambah 2 Juta Basis Pajak, Apa Dampaknya? - tv.kontan.co.id",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5oM0pSY3dkdWtOMEs3MWxXRVZrRVVOcVRHWUp3UzYtU0VyN1NleWU0SDZhN2ZHakE3WExCMmQwREhnVmtJRzRCYmNMRXVzOW82NDBv?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-09-09T03:52:52.225081+00:00",
+    "is_processed": false
   }
 ]
