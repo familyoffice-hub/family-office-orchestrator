@@ -1,47 +1,5 @@
 [
   {
-    "output_id": "o62e15e",
-    "agent_id": "Tools A Monitor",
-    "title": "DJP: Tidak Semua Insentif Pajak di PFII Punya Masa Berlaku 50 Tahun - DDTCNews",
-    "summary": "DJP: Tidak Semua Insentif Pajak di PFII Punya Masa Berlaku 50 Tahun - DDTCNews",
-    "raw_output": "",
-    "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPalJsVUkyYmIxNjR1dWNkZENSRzRkZE41bmJobUlBZzRVei0zbHhrdDlDQlZ0SkJMNW5tX3o0cm5BSFJUekY2cFR3WVhOaHFkVkJ4ejhpLVdTUTJSZ3ZxVUhDX1ZjQVJtNFdBNWJ5X1ItejVEZm5HQU1kWWNVUWRGbEhiRnVDamI4Z0t0V2M2Qnk5dWZTZExBWWNaWnBZb2trcGkwVzZobldVdDdQaXVYOVBUOXk?oc=5",
-    "category": "",
-    "priority": "High",
-    "confidentiality_level": "internal",
-    "created_at": "2026-07-21T09:34:40.222253+00:00",
-    "is_processed": true,
-    "report_id": "r20260722"
-  },
-  {
-    "output_id": "o62f59b",
-    "agent_id": "Tools A Monitor",
-    "title": "BPK Catat Piutang Pajak Bengkak, DJP Bakal Tagih Libatkan APH - CNBC Indonesia",
-    "summary": "BPK Catat Piutang Pajak Bengkak, DJP Bakal Tagih Libatkan APH - CNBC Indonesia",
-    "raw_output": "",
-    "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOanZ1RjlaZlhlM3gyZWdfRWxtSXZFUnZIUkg0a2ZwQjJwNEk3T3RQdXJvUzlET0Nianl5ZUMtZVBPTmRGNkRNTWlDN2piVm5pd05YVFdsR191ZmlzZExBMThfNnduY3Q5ZlVHVGJQYTNiLUMzWjFxVWIydUhoLUN6dG0yNFYzcDlZZERlVF9ZSEI2dWpyRHFudDVXZGJEWk15WnI1STVxNkM3U2VCWFVMNFVPZGlEb1RPMTR30gHAAUFVX3lxTE5RTjFvVDBUTk1BaGIzSU5lNk5mTlZod2hsSXBGOXFOQUxjQXJkZlVNZU9VODl0cGhsWnZOSERPTGJNRmpGclpPT0EtRVNJRzNEd2tVMENfanNselp0WVFNSk50RTNOS214MGdnUi1rOUdnWDE0NkxhejcyN2xnZWdEdzJSX2tuNkpoa3R5SUNVZXdpWkJPaVp5VTBsZmpjOWFnNlFCcWVySzBFeUhsdG5hX1dZVnBmMFZiazdHVVlDbw?oc=5",
-    "category": "",
-    "priority": "High",
-    "confidentiality_level": "internal",
-    "created_at": "2026-07-21T09:34:45.403574+00:00",
-    "is_processed": true,
-    "report_id": "r20260722"
-  },
-  {
-    "output_id": "o6309e6",
-    "agent_id": "Tools A Monitor",
-    "title": "DJP Tetapkan Kriteria Wajib Pajak yang Layak Dimintakan Data Rekening - Ikatan Konsultan Pajak Indonesia",
-    "summary": "DJP Tetapkan Kriteria Wajib Pajak yang Layak Dimintakan Data Rekening - Ikatan Konsultan Pajak Indonesia",
-    "raw_output": "",
-    "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPT2JaSFhVOWZkZ25GRzhhallLcktRaUFsSnNuZk5Kd0psQzFHYU1qMV94MjU2bExqY04xbGtCVmEwRnBXWTAzVk9ObDJYdzJzN3E4bU1KQmVNRHRNVVhaNVFLZXV4dVhPSUNMcHNNSnVuWVpiOUxRUGVQLWY1cTZtZV95TVhDQXZiQ3hqZ0ltTG1nRVk?oc=5",
-    "category": "",
-    "priority": "High",
-    "confidentiality_level": "internal",
-    "created_at": "2026-07-21T09:34:50.598232+00:00",
-    "is_processed": true,
-    "report_id": "r20260722"
-  },
-  {
     "output_id": "o257ab1",
     "agent_id": "Tools A Monitor",
     "title": "Market Optimism Builds Despite Inflation Concerns, Morgan Stanley Wealth Management Pulse Survey Finds - AOL.com",
@@ -13981,6 +13939,45 @@
     "priority": "High",
     "confidentiality_level": "internal",
     "created_at": "2026-09-09T10:59:25.832453+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o66cc4",
+    "agent_id": "Tools A Monitor",
+    "title": "Spark Capital Private Wealth Management Strengthens Team with Eight Senior Bankers as It Accelerates Growth Across India - Asian Wealth Management and Asian Private Banking - Hubbis",
+    "summary": "Spark Capital Private Wealth Management Strengthens Team with Eight Senior Bankers as It Accelerates Growth Across India - Asian Wealth Management and Asian Private Banking - Hubbis",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQVVQ5Vnlra0toblBXV0dfMW1iaVF1S19YU2ZGRWpVckNFcVU5NWZlS09TcTM2dV9RNk4yUWtmLTVmVlRhNGItY3FOYThrbzZEeUI1S1hnU3dfSjhNdjdZLXRzdVlsNDJoSDlHdkRWQ192RlY5ckl3M0Iza2gxZlFnZGozcVVfOTZwUlg3bERadEtWcXVmNUw0RjE2STJjSTBRZWlZczBOdUdRMjhuZ1p2WFptSHBCM0g2WXhtX1g3Yl9relJObFpJUU9HdHRlS1hZb2FoS0ZGR0pLdlpEeUlnVmlR?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-09-09T16:13:41.060206+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o682c0",
+    "agent_id": "Tools A Monitor",
+    "title": "SEC Proposes New Regulation Crypto Assets",
+    "summary": "SEC Proposes New Regulation Crypto Assets",
+    "raw_output": "",
+    "source_url": "https://www.sec.gov/newsroom/press-releases/2026-76-sec-proposes-new-regulation-crypto-assets",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-09-09T16:13:46.688129+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o69894",
+    "agent_id": "Tools A Monitor",
+    "title": "DJP Hapus Sanksi Pajak bagi Wajib Pajak Terdampak Bencana di NTT - Ortax",
+    "summary": "DJP Hapus Sanksi Pajak bagi Wajib Pajak Terdampak Bencana di NTT - Ortax",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZVMxRDlkR01vNXYtaU90VXpzdlk3TUVmeFFoa2o3LUlEVVFoSzM5eG93TWx0SjZHVlhiYUJXQ19JU3U4Tk5iWmM5YzlGVDBlTUl0UWtHTjdOelBTbVdEc01BSVQ5Ymlac1dRRUNrR2tvc0dpcVc1bmJzblF2cm8wcWZZYkRYcld6dGc?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-09-09T16:13:52.276895+00:00",
     "is_processed": false
   }
 ]
