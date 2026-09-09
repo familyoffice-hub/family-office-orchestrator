@@ -1,47 +1,5 @@
 [
   {
-    "output_id": "o257ab1",
-    "agent_id": "Tools A Monitor",
-    "title": "Market Optimism Builds Despite Inflation Concerns, Morgan Stanley Wealth Management Pulse Survey Finds - AOL.com",
-    "summary": "Market Optimism Builds Despite Inflation Concerns, Morgan Stanley Wealth Management Pulse Survey Finds - AOL.com",
-    "raw_output": "",
-    "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeXpVT05IeW9aRzNIbXNMY3U0a1pCaWozLUF0Z2pxWWVpZjZJdElLNzZZUUR4M0ptN0g2WExrUUVIS1A4bFVnc25ickVWMlQwYnlUc19MY2hhZ3FGTkFKNnB5V1c2T3k5OFNjdG5aZkpwVkZoRHM0V19FNWJKSktZMzg1VVRNd0t6ODdVZg?oc=5",
-    "category": "",
-    "priority": "High",
-    "confidentiality_level": "internal",
-    "created_at": "2026-07-21T14:00:56.241846+00:00",
-    "is_processed": true,
-    "report_id": "r20260722"
-  },
-  {
-    "output_id": "o259080",
-    "agent_id": "Tools A Monitor",
-    "title": "Gold Price Forecast: Goldman Sachs Says Central Bank Buying Provides Price Floor - Exchange Rates UK",
-    "summary": "Gold Price Forecast: Goldman Sachs Says Central Bank Buying Provides Price Floor - Exchange Rates UK",
-    "raw_output": "",
-    "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNay1NQ0xHTVp1WHRPMnYxckFkeWxnSG1qR3B4ZkxjdTlXRF9kYTdDVFJ0cFVJNDNuNVc2YWY0alZwMUFrZjRkaW1QdEdBUnJFYlA2S2E2VklXaXVDZDZ0TjhvSmFmUUFiejVMaE8yclZPYXNuUHhLdVRJeExoT29VRXVvZjkwYkZ4aUVDYWNPaVVlRDhsUzQyanlzaWJtQ3kzOUZfbEh1V0szWTZka000dGgyeVJ3OUZPd3BIVE5STGNIR25tMmRIY0I4S1VZdG1nY1pVZDJR?oc=5",
-    "category": "",
-    "priority": "High",
-    "confidentiality_level": "internal",
-    "created_at": "2026-07-21T14:01:01.824496+00:00",
-    "is_processed": true,
-    "report_id": "r20260722"
-  },
-  {
-    "output_id": "o25a66c",
-    "agent_id": "Tools A Monitor",
-    "title": "BPKAD Bartim Perkuat Kepatuhan Pajak OPD Melalui Kelas Pajak Bersama DJP - Pemerintah Kabupaten Barito Timur",
-    "summary": "BPKAD Bartim Perkuat Kepatuhan Pajak OPD Melalui Kelas Pajak Bersama DJP - Pemerintah Kabupaten Barito Timur",
-    "raw_output": "",
-    "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaU16MzZnQnJDRFBQVFlkRGNfTVdSZ0MycEZyWWpEX1FuNWo0Q3BjMGtQc191VmVqUURLd090Z3g4bUdrd2t6VF80MFhsa2YtbFNkOG44SU9maVBYWFpPSEZtbmhKdkoyUkxhaWJDaG82SFZLX3ZTdFQwRnpWbEVnanVQMW5GRlNhdGNac0lOWi1CYnl0WjlLdFIxZmJhbUxNbEpDMTViRl9HMHBMTnpaWnpUbXQ?oc=5",
-    "category": "",
-    "priority": "High",
-    "confidentiality_level": "internal",
-    "created_at": "2026-07-21T14:01:07.436948+00:00",
-    "is_processed": true,
-    "report_id": "r20260722"
-  },
-  {
     "output_id": "o25bc6c",
     "agent_id": "Tools A Monitor",
     "title": "Bos DJP Blak-blakan soal Libatkan TNI-Polri Awasi Wajib Pajak - CNN Indonesia",
@@ -13978,6 +13936,45 @@
     "priority": "High",
     "confidentiality_level": "internal",
     "created_at": "2026-09-09T16:13:52.276895+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o639e84",
+    "agent_id": "Tools A Monitor",
+    "title": "JPMorgan Veteran Hofmann Joins HSBC in Global Family Office Push - AdvisorHub",
+    "summary": "JPMorgan Veteran Hofmann Joins HSBC in Global Family Office Push - AdvisorHub",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVlMxOG4zQ1c2LXBvWHN5RnFvYWhNODZ6SVNnT0FVaXNEOEJ5QTJMdXhuVFFhOU0zcUdNNUZtbTd4WTVvMmJ5a2JzRVVzUTQ5bUxlb3haNXBWYzR3ZEZ3SFFpQ1RzZkxVQ0Q4MnRTbnJ3WUVZa2FDSndManlzWlE4QUIyaVFseW1WZzFZbWRIaXUzSFVVVVE0?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-09-09T20:42:08.644957+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o63b354",
+    "agent_id": "Tools A Monitor",
+    "title": "Holdun Family Office (Bahamas) Limited Confirms the Conclusion of its Licensed Wealth Management Business - Yahoo Finance Singapore",
+    "summary": "Holdun Family Office (Bahamas) Limited Confirms the Conclusion of its Licensed Wealth Management Business - Yahoo Finance Singapore",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPX283S1FzdjlqM202OW9TNTJ5aExReW91Ri0wVUZlNGM3MktUOVdvZy0yeU1WbzlQdnMwLXRUODY2bVdyNmVNempORGxBdENWb25oWEd0V3BtUld4Wm1pTHAwMnZudG12TXZRbk0xM0xwY21kSlNEWkZQUDk4MjJyT2FKTkdwN1otVERfM1lB?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-09-09T20:42:13.972483+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o63c82c",
+    "agent_id": "Tools A Monitor",
+    "title": "Holdun Family Office (Bahamas) Limited Confirms the Conclusion of its Licensed Wealth Management Business - Yahoo Finance Singapore",
+    "summary": "Holdun Family Office (Bahamas) Limited Confirms the Conclusion of its Licensed Wealth Management Business - Yahoo Finance Singapore",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPX283S1FzdjlqM202OW9TNTJ5aExReW91Ri0wVUZlNGM3MktUOVdvZy0yeU1WbzlQdnMwLXRUODY2bVdyNmVNempORGxBdENWb25oWEd0V3BtUld4Wm1pTHAwMnZudG12TXZRbk0xM0xwY21kSlNEWkZQUDk4MjJyT2FKTkdwN1otVERfM1lB?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-09-09T20:42:19.308052+00:00",
     "is_processed": false
   }
 ]
