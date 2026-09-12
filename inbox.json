@@ -1,19 +1,5 @@
 [
   {
-    "output_id": "o8a5cbb",
-    "agent_id": "Tools A Monitor",
-    "title": "DJP Bangun Literasi Pajak bersama Politeknik Piksi Ganesha Indonesia Kebumen - Direktorat Jenderal Pajak",
-    "summary": "DJP Bangun Literasi Pajak bersama Politeknik Piksi Ganesha Indonesia Kebumen - Direktorat Jenderal Pajak",
-    "raw_output": "",
-    "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdWtNYmhONi1CZm41V2ZFWnFrNGlsSHVyZEtxY0w3V1hwYkpJWHhsem1WVmdqSmtfdnlZVjV3RXlCVXBQRktLa1d2ekFINGI3TktPelh3NnBOdndCVzdVSUZIMHhpalplc2JQekpEaDQyRUh5bF91OXM1MHdXMjhMbmgxX2NNVHEtWWo4NlBJUUVGMzZGN3ZSa1dBQkJVNXNnWGlXUVFkZWFaTHkxbEdV?oc=5",
-    "category": "",
-    "priority": "High",
-    "confidentiality_level": "internal",
-    "created_at": "2026-07-22T14:04:27.707314+00:00",
-    "is_processed": true,
-    "report_id": "r20260723"
-  },
-  {
     "output_id": "o8a70f2",
     "agent_id": "Tools A Monitor",
     "title": "Bayar PPh Badan Tahun Pajak 2023 Masih Lewat DJP Online, Bukan Coretax - DDTCNews",
@@ -13986,6 +13972,19 @@
     "priority": "High",
     "confidentiality_level": "internal",
     "created_at": "2026-09-12T03:51:23.257310+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o8151ce",
+    "agent_id": "Tools A Monitor",
+    "title": "Cek Tagihan Pajak, DJP Minta WP Rutin Buka Coretax - DDTCNews",
+    "summary": "Cek Tagihan Pajak, DJP Minta WP Rutin Buka Coretax - DDTCNews",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNlpVSkhlOFR3NnNQbXU3ai1mUGE0SmdNZmtqVVY3NjV0MWp1anRnOXN1T3o5S3Ywc3RwTXl2cFZRZVRVVURnam9FS0wwa05DMzdBM2JSZThrekFMbDFKc3Mtam1PYUxmNzVxcHpKZERoYzFJd1Z0Mmc5bDNfV2FRQk42RkRqbG82NFdUSjBQdmJTc1RkZ1BWYlROeHpSZw?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-09-12T10:21:15.086581+00:00",
     "is_processed": false
   }
 ]
