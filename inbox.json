@@ -1,60 +1,5 @@
 [
   {
-    "output_id": "o8a0c3e",
-    "agent_id": "Tools A Monitor",
-    "title": "Eurojust Arrests 5 in €100M Cryptocurrency Investment Fraud Spanning 23 Countries - The Hacker News",
-    "summary": "Eurojust Arrests 5 in €100M Cryptocurrency Investment Fraud Spanning 23 Countries - The Hacker News",
-    "raw_output": "",
-    "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8ySktpTG5hQ2NHbUdFVnpnZVBJeW93RnA0eC1ZSlNXcHR6Z2U5Z1JrbWVDOXMyb1FUa3VONm82c3JpQ3MxQjZucHowUWFTUENmTFRzMGM2NTJIb2VaRWM4SkM3bnFrclhnaG5mY1VxYXBtdE0?oc=5",
-    "category": "",
-    "priority": "High",
-    "confidentiality_level": "internal",
-    "created_at": "2026-07-22T14:04:07.102356+00:00",
-    "is_processed": true,
-    "report_id": "r20260723"
-  },
-  {
-    "output_id": "o8a206a",
-    "agent_id": "Tools A Monitor",
-    "title": "Bank Indonesia Kembali Tahan BI-Rate di Level 5,75% - Ikatan Konsultan Pajak Indonesia",
-    "summary": "Bank Indonesia Kembali Tahan BI-Rate di Level 5,75% - Ikatan Konsultan Pajak Indonesia",
-    "raw_output": "",
-    "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4yc2hCZ1ZnaTR2cEVmT000Z3JsZ2tjLW1lNkdFNXdQa3pwdWxUR2NIcWs2R1VYcS0ycGVCcVh5MkJjWG1tRjhrYXc3eTRqcHR6NGUyWHFSdzBzUWlYcThvOWJEdl9PQlBMSTE2SVY5RGw5RDZEeVkyVA?oc=5",
-    "category": "",
-    "priority": "High",
-    "confidentiality_level": "internal",
-    "created_at": "2026-07-22T14:04:12.266030+00:00",
-    "is_processed": false
-  },
-  {
-    "output_id": "o8a34af",
-    "agent_id": "Tools A Monitor",
-    "title": "Bank Indonesia Menahan Suku Bunga Acuan 5,75 Persen - Tempo.co",
-    "summary": "Bank Indonesia Menahan Suku Bunga Acuan 5,75 Persen - Tempo.co",
-    "raw_output": "",
-    "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSmloME5NUWFVMFJYVGFkRk51bmZzUlB2RDJfN1VQMU9pOFJHaW9iTHNEQThIOHpWTjhvMG5RZlhFUmtqa24waHNlV2VvOC1DUWhiM0ZmSkV0YTZ3Z3FySnNsNlBVeHlMZUZwUFdicDhGeGU4cnVEOEhabVU3RF9QeGlha0RzLV80dTJGNW5yQno?oc=5",
-    "category": "",
-    "priority": "High",
-    "confidentiality_level": "internal",
-    "created_at": "2026-07-22T14:04:17.455459+00:00",
-    "is_processed": true,
-    "report_id": "r20260723"
-  },
-  {
-    "output_id": "o8a48b5",
-    "agent_id": "Tools A Monitor",
-    "title": "Bank Indonesia Tahan Suku Bunga di 5,75% - SWA.co.id",
-    "summary": "Bank Indonesia Tahan Suku Bunga di 5,75% - SWA.co.id",
-    "raw_output": "",
-    "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBsU3N5ZTFjZnFmZ25GTlhMZmMwaEQ4RjF1WXVmUUk2VU9JUkoxS3VHNnZaZWx1M2FKZWtIUWI1bkppbE1SMmR3OWJrTk1Lekg4bDBNN1hTRWZSc24tZXZDcG9EZ192VXdncFN5ZUo0SGtSVjVaRlo0?oc=5",
-    "category": "",
-    "priority": "High",
-    "confidentiality_level": "internal",
-    "created_at": "2026-07-22T14:04:22.581372+00:00",
-    "is_processed": true,
-    "report_id": "r20260723"
-  },
-  {
     "output_id": "o8a5cbb",
     "agent_id": "Tools A Monitor",
     "title": "DJP Bangun Literasi Pajak bersama Politeknik Piksi Ganesha Indonesia Kebumen - Direktorat Jenderal Pajak",
@@ -13990,5 +13935,57 @@
     "created_at": "2026-09-11T20:42:44.231264+00:00",
     "is_processed": true,
     "report_id": "r20260912"
+  },
+  {
+    "output_id": "o4d53dc",
+    "agent_id": "Tools A Monitor",
+    "title": "Kanwil DJP Jawa Timur II Amankan Rp140,88 Miliar lewat Penegakan Hukum Berbasis Teknologi - Ikatan Konsultan Pajak Indonesia",
+    "summary": "Kanwil DJP Jawa Timur II Amankan Rp140,88 Miliar lewat Penegakan Hukum Berbasis Teknologi - Ikatan Konsultan Pajak Indonesia",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNLTFjTWhpc2dkUlVMcTBtNmpiX0NLa21EUzRwQ0g2ZHF0NFRhempZd051cHlzbXZHZUdCbEdfeTVMWDFZNTFiTUZ0MlN0TGsyMG5tV0ZNbXJKbGdWcUp2TU5iWkt1T1BhU1U4c2piaVBMOUlMTXNsa1JSbjllWTBvYnRqZ0lSTWZYRnNfMnhiQ19yd0hNeXNxTk9YSEsxbl9DTWs4dC0xcjJ1eE9zX0xUTUxQVUhMUEU?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-09-12T03:51:07.740052+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o4d6830",
+    "agent_id": "Tools A Monitor",
+    "title": "DJP Jatim II Amankan Rp140,88 Miliar, Penegakan Hukum Pajak Diperkuat dengan Teknologi - KilasJatim.com",
+    "summary": "DJP Jatim II Amankan Rp140,88 Miliar, Penegakan Hukum Pajak Diperkuat dengan Teknologi - KilasJatim.com",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOa2RmQzhRRHFPT1lMeXpaSXRwQVlRLWxiMkMtZHNIWGVvWThnbnhmd0poRF9LMFNwVlI0aV9vYnN2Nl84OV9RdTlzTlRWV0lvclJ1RFhfcDVheFpaWVNpUnpYWlhHNzJBZlloQzNhc1IzUFVYeUJ6QUZVcmZIZ1pKS3h4UHoxWThia0pvMm53T2NUVjVIcVJickFEelUybmw4UmthVnFQMTg0Um5UbjZVZmh5dWIxZFpNbWxB?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-09-12T03:51:12.944425+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o4d7c26",
+    "agent_id": "Tools A Monitor",
+    "title": "Week 3 2026 Live Football Scores: Sept. 10-12 - Powered by Generational Wealth Management - D9 and 10 Sports",
+    "summary": "Week 3 2026 Live Football Scores: Sept. 10-12 - Powered by Generational Wealth Management - D9 and 10 Sports",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSUR0NnZFOXJ6eEhmN09TSHZSd0hrWVlnUmRWWWxQZEJpNl9uMjhPNktkTWJQOXpQU3JDU3ZITk5qSURSX0lqbmVvYXY2OEtvbUFuaURsVG1OQ0ZWZHA3Z0xkREk4RzBxV18tSm4xaXRtbERRWTdBeU5yTlN5NUJ6MmRCZlk1MTVhMTlZQ0xzdzRsOUFuVWhqVHkxZjNIOTU5U1c5NDYzdnZhdVQ0ekpuR093?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-09-12T03:51:18.054791+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o4d9079",
+    "agent_id": "Tools A Monitor",
+    "title": "Who's Moving Where In Wealth Management? – Katten, Citi Private Bank, Baird - Family Wealth Report",
+    "summary": "Who's Moving Where In Wealth Management? – Katten, Citi Private Bank, Baird - Family Wealth Report",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPZ0VOa2lkREZaOTVFbjgxOUJzckRScE81NzJjTXBvMVZIc25kbzNycGhJR0xocVlqNUw4U3BPVzIyanc3MkhuTC1oeHc3ZUg5ZE9zOGxuWEFHR2dTc29zRUdFbkM3WGVIU3MxT3dUdmRzR29DY0tLdG96Sk94c0VGNnhDcmpFeFFOVDFXQXVsSUdDY0xRd292RzNFaGdVOHZ2cjhDRkZBa3BPY1hVNFEzZnFDQ2s3WHlEaEhkMzdfYlBHR05xOFdTM1hubVVnVWNJUl9DOWU2OXhNUC0za0pNQlRJMA?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-09-12T03:51:23.257310+00:00",
+    "is_processed": false
   }
 ]
