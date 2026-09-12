@@ -1,19 +1,5 @@
 [
   {
-    "output_id": "o90e42d",
-    "agent_id": "Tools A Monitor",
-    "title": "Bank Indonesia Tahan Suku Bunga di 5,75% - fxstreet-id.com",
-    "summary": "Bank Indonesia Tahan Suku Bunga di 5,75% - fxstreet-id.com",
-    "raw_output": "",
-    "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOc0d3clZ6R2N1bUV3NkIyRmJKdmwwUE9qUzNSenpWUnktUFVzQlZ2NjdJSXliY1RqTGV1bi1nakdxQU9mVnVOeDBkVXc4YmY3ZkNRdkFPem8yWWJJcHd4Y05HMXZod213NmNhZ016U1BLQzEzWFpFVHYzajU3dXdGMjlhT05kNEdqQ3cyeTBn0gGTAUFVX3lxTE9DQUp5Rjd2RERtWDliTXZFMEZsNzhveXVLU3B5bVpCT2JSc0NlSFBPdkhiaEdXOWxLMENPYzJoeTc5ODlMTWc2US1HbDNCWmptaWpZTF9sSVdyUHVtTnBsaUJGWU94TDRCWjFJXzFybEtWa0tpSWlNZXVQUFMyanctWjJpSDlENTN2ZUhBWkFHN3FiSQ?oc=5",
-    "category": "",
-    "priority": "High",
-    "confidentiality_level": "internal",
-    "created_at": "2026-07-22T14:11:35.597329+00:00",
-    "is_processed": true,
-    "report_id": "r20260723"
-  },
-  {
     "output_id": "o7f511e",
     "agent_id": "Tools A Monitor",
     "title": "OpenAI cyber models broke out of training environment to hack Hugging Face",
@@ -13981,6 +13967,19 @@
     "priority": "High",
     "confidentiality_level": "internal",
     "created_at": "2026-09-12T15:16:26.604296+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o871ea6",
+    "agent_id": "Tools A Monitor",
+    "title": "SEC Charges Toms River Trio in Connection with Alleged $47 Million Fraud Targeting Orthodox Jewish Communities",
+    "summary": "SEC Charges Toms River Trio in Connection with Alleged $47 Million Fraud Targeting Orthodox Jewish Communities",
+    "raw_output": "",
+    "source_url": "https://www.sec.gov/newsroom/press-releases/2026-74-sec-charges-toms-river-trio-connection-alleged-47-million-fraud-targeting-orthodox-jewish",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-09-12T21:34:15.206949+00:00",
     "is_processed": false
   }
 ]
