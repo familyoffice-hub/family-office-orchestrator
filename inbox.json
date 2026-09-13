@@ -1,19 +1,5 @@
 [
   {
-    "output_id": "o5806f8",
-    "agent_id": "Tools A Monitor",
-    "title": "DJP Larang Wajib Pajak Rekam Pembahasan SP2DK via Video Conference - Ikatan Konsultan Pajak Indonesia",
-    "summary": "DJP Larang Wajib Pajak Rekam Pembahasan SP2DK via Video Conference - Ikatan Konsultan Pajak Indonesia",
-    "raw_output": "",
-    "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZHE4LTBtSGRzQ1JIVjRVV3VidWxIcTFlcjhTMUduaUlaVktkN1htZkN2SExpYmVWY3RJVDI1OW5sWk95WlJZVFlkMzJONWpCcm9QSUVfZkRDaW9Sd2M3LTg2TXh0aXkzc1A3dFNRZTk3aGd1aWpKOHRYNXJ3UlR0MXZacUNSNDdHUDc2SHRZRQ?oc=5",
-    "category": "",
-    "priority": "High",
-    "confidentiality_level": "internal",
-    "created_at": "2026-07-23T08:36:08.952166+00:00",
-    "is_processed": true,
-    "report_id": "r20260724"
-  },
-  {
     "output_id": "o581c54",
     "agent_id": "Tools A Monitor",
     "title": "DJP Tegaskan Penerapan Pajak Marketplace Hanya Ubah Cara Pemungutan - DDTCNews",
@@ -13976,6 +13962,19 @@
     "priority": "High",
     "confidentiality_level": "internal",
     "created_at": "2026-09-13T15:52:24.666814+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o16896b",
+    "agent_id": "Tools A Monitor",
+    "title": "Wujudkan Penegakan Hukum Responsif, Beretika, dan Berkeadilan, PPNS DJP Raih Penghargaan dari Bareskrim Polri - Pajak",
+    "summary": "Wujudkan Penegakan Hukum Responsif, Beretika, dan Berkeadilan, PPNS DJP Raih Penghargaan dari Bareskrim Polri - Pajak",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSmhTem16aE9jUzhoS1lfRVFtWHJmM25pSXFSSjRmSU9MSkdDM1hFMnd2U1hubjV6czVYOG0xWDdtVEpDQm4tcFk0aXZ2d01UY1VxX0ZGQzcydnVlQnpBaGtlX2xmUGFGTXlKWjRsNHdKU0xhZTlxeGw0Ni1BVDNDM19XZnVzTjByME5MS1B3aTJzelM4V0RDZlNqVnZPZ2RfeFNoWm82OHF5cHdzRXNYUXhiekxsazkzT1VLVjc3TTYwQQ?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-09-13T20:31:16.971458+00:00",
     "is_processed": false
   }
 ]
