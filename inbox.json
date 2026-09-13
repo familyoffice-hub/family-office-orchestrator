@@ -1,33 +1,5 @@
 [
   {
-    "output_id": "o57dcc4",
-    "agent_id": "Tools A Monitor",
-    "title": "IHSG Naik ke 6.430 Pasca Bank Indonesia Pertahankan Suku Bunga - fxstreet-id.com",
-    "summary": "IHSG Naik ke 6.430 Pasca Bank Indonesia Pertahankan Suku Bunga - fxstreet-id.com",
-    "raw_output": "",
-    "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVjFaTTRfa1RyLUE0M21DZlpmdmVSbGVoM044RTh0bEl5MVRRdktlWGFvT3hYTkdUbkk3UTE1WU9DRDNGVlRVN2NRaWdTT2daT0J4YTgzb0VXTm5ldlFwbk1mVXROZXg3YXJ4QkFRYjdRcU1PMnpmQ2ctOWJPLTBVV0EyRXlKcXZlS0E2M0ptRWgzc1pJOFRwbXVkSjJTb0REVF9NRzlLeXNPRGvSAbABQVVfeXFMTjhnNkFmZUQ1WWtuLV94SV96ZE1KYWpGU1NFMVI3dE9qRzBaMjBPSTViWHZ4WjFUd0lkdWoyenVqcF9uZUFPUE04U2N2aHBoeGw5bmR3blJral84ZGVyTjRxZDNqcWp2andzb1JqbnBMMGtEQjFqZkEtWGVYTVMwMFZ6aFg0alhtMm9MUWxjMkxpRzkzV24zVmx2czRRWTVlQk9vWGI3MVZuWXVNUXZIbEI?oc=5",
-    "category": "",
-    "priority": "High",
-    "confidentiality_level": "internal",
-    "created_at": "2026-07-23T08:35:58.148668+00:00",
-    "is_processed": true,
-    "report_id": "r20260724"
-  },
-  {
-    "output_id": "o57f1c9",
-    "agent_id": "Tools A Monitor",
-    "title": "IHSG Rebound, Rupiah Tetap Menguat Usai BI Pertahankan Suku Bunga - Ajaib",
-    "summary": "IHSG Rebound, Rupiah Tetap Menguat Usai BI Pertahankan Suku Bunga - Ajaib",
-    "raw_output": "",
-    "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRi02Q0RuSmhsOXd4MnlyTm1YQmVIUDQyRzZkak5RTFNwUDFBc1hLT2p4TTVpaGxESXNQeUdsNXAwc2wyY3Y5QVNUVEY2MnZQdVVOTmg2ZlN6Q1lfek5raUF0T1FlU1JKU2xJWVVlMXNVR2JQVFlScE9qSjJBT0Z1MUZ4c0hkRDZXeHI3d0U4ckk0U3M1Vkd3V2ZfV0w1RVVK?oc=5",
-    "category": "",
-    "priority": "High",
-    "confidentiality_level": "internal",
-    "created_at": "2026-07-23T08:36:03.529719+00:00",
-    "is_processed": true,
-    "report_id": "r20260724"
-  },
-  {
     "output_id": "o5806f8",
     "agent_id": "Tools A Monitor",
     "title": "DJP Larang Wajib Pajak Rekam Pembahasan SP2DK via Video Conference - Ikatan Konsultan Pajak Indonesia",
@@ -13978,6 +13950,32 @@
     "priority": "High",
     "confidentiality_level": "internal",
     "created_at": "2026-09-13T11:22:55.808054+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o485011",
+    "agent_id": "Tools A Monitor",
+    "title": "SEC Charges Boiler Room Operator and Three Entities with Defrauding Retail Investors in $74 Million Pre-IPO Investment Scam",
+    "summary": "SEC Charges Boiler Room Operator and Three Entities with Defrauding Retail Investors in $74 Million Pre-IPO Investment Scam",
+    "raw_output": "",
+    "source_url": "https://www.sec.gov/newsroom/press-releases/2026-75-sec-charges-boiler-room-operator-three-entities-defrauding-retail-investors-74-million-pre-ipo",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-09-13T15:52:19.089625+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o4865da",
+    "agent_id": "Tools A Monitor",
+    "title": "DJP Jakarta Pusat Pelimpahkan Dirut PT GR Terkait Kasus Pajak - SuaraGarut.ID",
+    "summary": "DJP Jakarta Pusat Pelimpahkan Dirut PT GR Terkait Kasus Pajak - SuaraGarut.ID",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORkdhRXFIeW9xN3NBa2FoVm1QWm82c01FdzJ5ZG1TaGRrdk5MRlpvR0pjU0k2Z2VPcHZPaDlLMFdBVDJkM25MajhoZHpfdm9FRTlnQmV6aGtGckJYc2hSM0pSZUM0aHJwZ1pucklLMWY3c0FZU0JLV2xpa2NPRi1MTw?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-09-13T15:52:24.666814+00:00",
     "is_processed": false
   }
 ]
