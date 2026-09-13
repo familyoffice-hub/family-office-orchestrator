@@ -1,33 +1,5 @@
 [
   {
-    "output_id": "o7f511e",
-    "agent_id": "Tools A Monitor",
-    "title": "OpenAI cyber models broke out of training environment to hack Hugging Face",
-    "summary": "OpenAI cyber models broke out of training environment to hack Hugging Face",
-    "raw_output": "",
-    "source_url": "https://www.cnbc.com/2026/07/22/open-ai-cyber-models-hack-hugging-face.html",
-    "category": "",
-    "priority": "High",
-    "confidentiality_level": "internal",
-    "created_at": "2026-07-22T19:25:43.838923+00:00",
-    "is_processed": true,
-    "report_id": "r20260723"
-  },
-  {
-    "output_id": "o80ee05",
-    "agent_id": "Tools A Monitor",
-    "title": "Civic Financial Selects Altruist as Exclusive Custodian and Wealth Management Platform - Business Wire",
-    "summary": "Civic Financial Selects Altruist as Exclusive Custodian and Wealth Management Platform - Business Wire",
-    "raw_output": "",
-    "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQeGo0ZldHR2tPRllPQ0lxZkxZV3ZlaHJrUWlid0hZc1lERWNQa0NPTVU0TTd3djZGaXpDMV90dlFuNHVoOVkzVVZYcmNHbXp0VG96WXBDTUgyS2Fma0w0OWR2bjhUVEZIUmZqRUE4SXp3LWstSmFTS3c2enBMNXFIa1RuZW9pS3ZDVkNLUU5DNm93WE9meTFZTWRuY0JJYXZXcVZIVWd6TUxsQkh3cGhYS2VKbXZ2cnNUVnRCbHQ2ZG1oT2QydXZ1WnV4amROUlhOR1gteFI5NFRtcm8?oc=5",
-    "category": "",
-    "priority": "High",
-    "confidentiality_level": "internal",
-    "created_at": "2026-07-22T19:27:29.541532+00:00",
-    "is_processed": true,
-    "report_id": "r20260723"
-  },
-  {
     "output_id": "o828af0",
     "agent_id": "Tools A Monitor",
     "title": "Interest Rate Predictions for the Next 5 Years: 2026-2030 - Norada Real Estate Investments",
@@ -13991,5 +13963,31 @@
     "created_at": "2026-09-12T21:34:15.206949+00:00",
     "is_processed": true,
     "report_id": "r20260913"
+  },
+  {
+    "output_id": "o1e0729",
+    "agent_id": "Tools A Monitor",
+    "title": "KPK Dalami Mekanisme Pemeriksaan Pajak di KPP Madya Banjarmasin, ASN DJP Diperiksa. - Koran Jakarta ®",
+    "summary": "KPK Dalami Mekanisme Pemeriksaan Pajak di KPP Madya Banjarmasin, ASN DJP Diperiksa. - Koran Jakarta ®",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPeDJiYXE1Tnp1emY2ZlpJT3BHRHB6UV9pZVJPdk9BOFJZT011c01wTUlVcTdld3piWGUtcTdfUFRLRFJZY3RmeVduYXU5MDJQNUo2QWRzM3NWa1QtVXRUQ1FfdS1NTFpHNlBWbWI5VGVCNHpCX1JlN21IQnFTd0ZXSWt4Y0thbUk4VmlmTjlsZGlsTmZ4QW01Y2RtbUFXTDROREFkV3kwUGYxV0dqM2pHNDR3TENFVThIQnfSAb8BQVVfeXFMT1ZCVzVKdURYYzlYbmRqVDlvd2IxeTdoQ0d3bGVZZHJFQVVZNzlmUzhheDE4a1RrUmYxZFFyY0VZN2ZzNXpvZ0xubWZjRWItSWNOWDJZdkFXU1N5R2lFSElidDhpQWNfV3UzZnBHTmdFWHlxbmZNOW8zM2RIRnFZRld1LVJvcjVQLVJIODl3R2c5Wm5id3VsV2ZVOUE2YXJsQVF1d1lDR0YzanVFbnNFNG10M2tHNDRtcFF4Y2xZZUU?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-09-13T03:59:27.913332+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o1e1b37",
+    "agent_id": "Tools A Monitor",
+    "title": "Urus Pajak Semudah Chatting-an? Kenalin Yuk, \"Tanya Fiska\" dari DJP! - pajak.go.id",
+    "summary": "Urus Pajak Semudah Chatting-an? Kenalin Yuk, \"Tanya Fiska\" dari DJP! - pajak.go.id",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQakpnWjBvWGxmT01aUC04cmxDNUVUUkQzUjJfWUhDckw4RWlOVkdMR0E0WlA1eFRjSWU0dVloY2ZOTC04MkxlZWJKUEEzTzk0Uk81Nl8zdHpGN1p4Y184b3pxOHZqRDlpQUdEa0RzN2xQTmdmeE1uRWJjLWt5ZFI0dFpQNUlTLUEycGd6cWFqaWRUWmg4c2c?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-09-13T03:59:33.047349+00:00",
+    "is_processed": false
   }
 ]
