@@ -1,19 +1,5 @@
 [
   {
-    "output_id": "o19b881",
-    "agent_id": "Tools A Monitor",
-    "title": "Begini Mekanisme Pengawasan Otomatis DJP melalui Coretax - Ortax",
-    "summary": "Begini Mekanisme Pengawasan Otomatis DJP melalui Coretax - Ortax",
-    "raw_output": "",
-    "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBBT2tMb2V0RVotLTdiSktiV0xKeGVfZ3dWd05xTW45ejBfWHRUN0hnN1RLbTl3UjNabVZaemE5UEo2RVR2RjhqRGhUMVkyOTBxMEF3Ull1ZURkUm5ObkdOOUlBemU4OUVIbVlUTTJHN1ZibnVhNVE1SDRqWXZVLUE?oc=5",
-    "category": "",
-    "priority": "High",
-    "confidentiality_level": "internal",
-    "created_at": "2026-07-24T19:34:45.633697+00:00",
-    "is_processed": true,
-    "report_id": "r20260725"
-  },
-  {
     "output_id": "o19cdd1",
     "agent_id": "Tools A Monitor",
     "title": "Perkuat Sinergi dan Transparansi Layanan Perpajakan, Kantor Wilayah DJP Jawa Barat III Gelar Forum Konsultasi Publik - Direktorat Jenderal Pajak",
@@ -13971,6 +13957,19 @@
     "priority": "High",
     "confidentiality_level": "internal",
     "created_at": "2026-09-15T16:36:00.943255+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o5c89b6",
+    "agent_id": "Tools A Monitor",
+    "title": "Interest Rate Predictions for the Next 2 Years: 2026-2028 - Norada Real Estate Investments",
+    "summary": "Interest Rate Predictions for the Next 2 Years: 2026-2028 - Norada Real Estate Investments",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUlhMTEFheG1UWnI0c0J0RHJJZEZUR0lWMGtNQUdqbzg1X2c1Zng4b2x3Nkx3TC0wQWI4T1c5N3lwNUl5QzJ5T1lWemhLLTJ4V1JSTzdRX1BBVGMzVEtSLVFZWjdnS25aZ3p4WGRGTEhlRUFTY0VKZ3ktX1JFVHBWMlgxekpmSEJjR20zUw?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-09-15T21:01:04.566804+00:00",
     "is_processed": false
   }
 ]
