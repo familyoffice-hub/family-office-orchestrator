@@ -1,19 +1,5 @@
 [
   {
-    "output_id": "o5d7bc",
-    "agent_id": "Tools A Monitor",
-    "title": "Tagihan Pajak Macet DJP Capai Rp47,4 Triliun di Akhir 2025 - rmoljatim",
-    "summary": "Tagihan Pajak Macet DJP Capai Rp47,4 Triliun di Akhir 2025 - rmoljatim",
-    "raw_output": "",
-    "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdE9UbVlUaGhWWnVveUNoNmhHQ2lwU2pnWVRURy1SWmgwUUYyd2JiMkIxYnZhX0VHSWwzSmYyVlRMWmdnMVUtUDVsZ3QtUFhwZWdydzM5aTEzdEdnYTRQV1BTWjRBeDlxSHRxb2xWcDBzVlctU2NZNk1OQjB1UFROWC1hNEtnalJFUEE?oc=5",
-    "category": "",
-    "priority": "High",
-    "confidentiality_level": "internal",
-    "created_at": "2026-07-30T08:33:02.908538+00:00",
-    "is_processed": true,
-    "report_id": "r20260731"
-  },
-  {
     "output_id": "o5ec49",
     "agent_id": "Tools A Monitor",
     "title": "JPMorgan Chase & Co. $JPM Shares Sold by Evercore Wealth Management LLC - MarketBeat",
@@ -13979,6 +13965,19 @@
     "priority": "High",
     "confidentiality_level": "internal",
     "created_at": "2026-09-19T10:34:23.217744+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o231d28",
+    "agent_id": "Tools A Monitor",
+    "title": "DJP: Pertumbuhan Ekonomi Papua dan Maluku Dorong Penerimaan Pajak - RRI.co.id",
+    "summary": "DJP: Pertumbuhan Ekonomi Papua dan Maluku Dorong Penerimaan Pajak - RRI.co.id",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNLW1EUUREM3U3NjJjQkJjdU8tSVhfazZPWVZjYU1MN0dYRjZLOW1yLVdabFVPS2g1VWpRaklBc3lsQzdmeWV5QS1KUGtkQmRYMDBGd3lqMmlkNkQzQWVIbE1WSmxnMlJ1N010M0lRQXl5NzFjRGJRbnVROFNfUHdDcGtyLUlhenFpZVgwdUdXZlplRGhqV1o5TXZBVUxDdUhNdGtMODNDMmNXUzY1TFE?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-09-19T15:38:21.224617+00:00",
     "is_processed": false
   }
 ]
