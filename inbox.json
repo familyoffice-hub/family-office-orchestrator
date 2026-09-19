@@ -1,19 +1,5 @@
 [
   {
-    "output_id": "o5ec49",
-    "agent_id": "Tools A Monitor",
-    "title": "JPMorgan Chase & Co. $JPM Shares Sold by Evercore Wealth Management LLC - MarketBeat",
-    "summary": "JPMorgan Chase & Co. $JPM Shares Sold by Evercore Wealth Management LLC - MarketBeat",
-    "raw_output": "",
-    "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPQU5DQVFRSDBqUHl0Tl9DNDkzNnZJSFVJYWZZaGdCYjVWQ2s4VFhlZ3Q2MWNLWlJWaWowUlRMQWJWTUZPTnNCcjdDX1RBMkRiYUdRWjVoWnVFXzFqdVVHUUVJZUVDTWhzdy14Y3lpZ3ZBejQ0YktSeF9pZndka2cyMTM2REhnUFJZRGc4ak9OYlhCS3NRRmd6Z0ZuZlczdnJQSGYxZGtNY2Fldzk3WFRLanBYQlJoUDEyNlRUcFgxUERudzJFRTRv?oc=5",
-    "category": "",
-    "priority": "High",
-    "confidentiality_level": "internal",
-    "created_at": "2026-07-30T08:33:08.169867+00:00",
-    "is_processed": true,
-    "report_id": "r20260731"
-  },
-  {
     "output_id": "o600dd",
     "agent_id": "Tools A Monitor",
     "title": "Rupiah Indonesia Bertahan saat Bank Indonesia Meningkatkan Upaya untuk Menstabilkan Pasar - fxstreet-id.com",
@@ -13978,6 +13964,19 @@
     "priority": "High",
     "confidentiality_level": "internal",
     "created_at": "2026-09-19T15:38:21.224617+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o89fda3",
+    "agent_id": "Tools A Monitor",
+    "title": "Who's Moving Where In Wealth Management? – Katten, Citi Private Bank, Baird - Family Wealth Report",
+    "summary": "Who's Moving Where In Wealth Management? – Katten, Citi Private Bank, Baird - Family Wealth Report",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPZ0VOa2lkREZaOTVFbjgxOUJzckRScE81NzJjTXBvMVZIc25kbzNycGhJR0xocVlqNUw4U3BPVzIyanc3MkhuTC1oeHc3ZUg5ZE9zOGxuWEFHR2dTc29zRUdFbkM3WGVIU3MxT3dUdmRzR29DY0tLdG96Sk94c0VGNnhDcmpFeFFOVDFXQXVsSUdDY0xRd292RzNFaGdVOHZ2cjhDRkZBa3BPY1hVNFEzZnFDQ2s3WHlEaEhkMzdfYlBHR05xOFdTM1hubVVnVWNJUl9DOWU2OXhNUC0za0pNQlRJMA?oc=5",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-09-19T20:17:23.363168+00:00",
     "is_processed": false
   }
 ]
