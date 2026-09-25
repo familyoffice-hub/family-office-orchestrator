@@ -13990,6 +13990,7 @@
     "priority": "Low",
     "confidentiality_level": "internal",
     "created_at": "2026-09-25T01:01:25.187915+00:00",
-    "is_processed": false
+    "is_processed": true,
+    "report_id": "r20260925"
   }
 ]
