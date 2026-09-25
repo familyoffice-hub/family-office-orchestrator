@@ -1,19 +1,5 @@
 [
   {
-    "output_id": "o600dd",
-    "agent_id": "Tools A Monitor",
-    "title": "Rupiah Indonesia Bertahan saat Bank Indonesia Meningkatkan Upaya untuk Menstabilkan Pasar - fxstreet-id.com",
-    "summary": "Rupiah Indonesia Bertahan saat Bank Indonesia Meningkatkan Upaya untuk Menstabilkan Pasar - fxstreet-id.com",
-    "raw_output": "",
-    "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOQlBpcDVYbmNEemFGQThZel9wOElpUHVHUDgyVnp2MEU3TUdQTFJQamx4SVZaTHR5T19RemJwYTBRUjhRdEQ3OHdMVWNZSjR5bWFDYnF0MklYSXV0NEQ3RjJ1UC1TUm04c3JBMV9CR3QwOU1PVUVYMTlJVUJIU0pLc1hVcTRmYW8wNXV5aWs0R3hfYnNqa2NqODlON0tEU0RVdDRKcHBJZ3otQmgzT3EzME1Rckw3aEFSS0UtTTgwZTQyaHVJZTJrQ29aMmZsMXRr0gHWAUFVX3lxTE5xTzVFTVpiM2RDLUZ2MEV4V3FrcExyS3dpMWstVXhybU1wOExmT09fX0Mzc2UtRVF3SzNWOHNIdElzZFFzNTd4N1dNSlN2T1ppZmFJX2I3MFA1VW9uR2t3VEdvOEhPblh5MlpQekthNzlSRXZLdEt6RzdXV1lBZVZMYVc3TzBYRC1NVDduRDBUVXc3cGU2VWJKeUZlWlFtclhldXZNUElzMDN5NzF5N1lLSURydFNwc3pnTkdsaVotVl9VRUVWX0dqYnkweEZURFprUlc5Qnc?oc=5",
-    "category": "",
-    "priority": "High",
-    "confidentiality_level": "internal",
-    "created_at": "2026-07-30T08:33:13.437570+00:00",
-    "is_processed": true,
-    "report_id": "r20260731"
-  },
-  {
     "output_id": "o97d6b",
     "agent_id": "Tools A Monitor",
     "title": "New details in the OpenAI Hugging Face hack show how far agents will go: 'It's now remarkably easy'",
@@ -13992,5 +13978,18 @@
     "created_at": "2026-09-19T20:17:23.363168+00:00",
     "is_processed": true,
     "report_id": "r20260920"
+  },
+  {
+    "output_id": "o7b5ec3",
+    "agent_id": "Tools A Monitor",
+    "title": "Crypto Hacks and DeFi Runs - Bank Policy Institute",
+    "summary": "Crypto Hacks and DeFi Runs - Bank Policy Institute",
+    "raw_output": "",
+    "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9VV2p2UlplMDlUcDRKV3NJMU9Idno2eWp0U0pJalVOX3VMd3pjczZ1QmNxZml2dnhPYlh4LWs5LU1qV09KZjFhMUotRUhPTGI2UlR3bHVn?oc=5",
+    "category": "",
+    "priority": "Low",
+    "confidentiality_level": "internal",
+    "created_at": "2026-09-25T01:01:25.187915+00:00",
+    "is_processed": false
   }
 ]
