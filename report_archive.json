@@ -978,5 +978,15 @@
     "sent_at": "2026-10-01T01:15:41.640003+00:00",
     "item_count": 60,
     "confidentiality_level": "internal"
+  },
+  {
+    "report_id": "r20261002",
+    "report_date": "2026-10-02",
+    "report_title": "Daily Brief 02 Oct 2026",
+    "delivery_channel": "telegram",
+    "delivery_status": "sent",
+    "sent_at": "2026-10-02T01:15:50.696310+00:00",
+    "item_count": 60,
+    "confidentiality_level": "internal"
   }
 ]
