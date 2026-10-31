@@ -2,34 +2,6 @@
   {
     "output_id": "o7b322f",
     "agent_id": "Tools A Monitor",
-    "title": "Legal Corner: What is the importance of estate planning - KPLC 7 News",
-    "summary": "Legal Corner: What is the importance of estate planning - KPLC 7 News",
-    "raw_output": "",
-    "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTFc5dWdyZXprT0VpN19KTDhYY0NXT3JkWG1RYjdROTVnaFh2V3ZZa1BCS2xFZWpHT1BILUxPNzJPSVVuVWFfdkZNMzlGX0tycm1RZ3JQNGtYR2Q2QXAzQmEwUGlDSXFhdml0ck1XUm0wRjdCTUpFbjZCNEE1VS1yanE3M2FMS093RGfSAZ4BQVVfeXFMUG9fRFFELWVzZzNEYmx1cXdGRzVBbENIbjMtTGFhWlNOSGl4bEVjeFNJTTZkYmhHTVh6VlJZVEs4ME84bU80MkpXcXRsVHplYTB4UzJaMjhvMDdmSGVOZS03MThlR0xsQnI0eDdjdUk3N3I2ZXd5UlNucUpHd0U1VzRNMHM5VlhXbEdBak9QYTgxVGtXOXRnS21vMlVYRWc?oc=5",
-    "category": "",
-    "priority": "Low",
-    "confidentiality_level": "internal",
-    "created_at": "2026-10-24T10:34:33.775797+00:00",
-    "is_processed": true,
-    "report_id": "r20261025"
-  },
-  {
-    "output_id": "o7b322f",
-    "agent_id": "Tools A Monitor",
-    "title": "South Korean Industry Proposes Exchange for Crypto and Tokenized Assets - TOKENPOST",
-    "summary": "South Korean Industry Proposes Exchange for Crypto and Tokenized Assets - TOKENPOST",
-    "raw_output": "",
-    "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5FRWMzR0dNZ2VLaDhzbnJzY0cxb2J4NWpJUThzMGFoQ0ZqTEU4a0VHM0k4QmNEQTlxWnZ0dlE3cnpYbWNNR25OTXM4dnNwdmJPbmhzLVZBZ1RvZTA?oc=5",
-    "category": "",
-    "priority": "Low",
-    "confidentiality_level": "internal",
-    "created_at": "2026-10-24T10:34:33.775799+00:00",
-    "is_processed": true,
-    "report_id": "r20261025"
-  },
-  {
-    "output_id": "o7b322f",
-    "agent_id": "Tools A Monitor",
     "title": "The Outlook for India’s Economy in 2026 amid A New US Trade Deal - Goldman Sachs",
     "summary": "The Outlook for India’s Economy in 2026 amid A New US Trade Deal - Goldman Sachs",
     "raw_output": "",
@@ -13901,6 +13873,32 @@
     "priority": "Low",
     "confidentiality_level": "internal",
     "created_at": "2026-10-31T17:01:15.148711+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o12f53c",
+    "agent_id": "Tools A Monitor",
+    "title": "SEC Proposes Expanding Securities Eligible for Cross Trading by Registered Funds",
+    "summary": "SEC Proposes Expanding Securities Eligible for Cross Trading by Registered Funds",
+    "raw_output": "",
+    "source_url": "https://www.sec.gov/newsroom/press-releases/2026-104-sec-proposes-expanding-securities-eligible-cross-trading-registered-funds",
+    "category": "",
+    "priority": "Medium",
+    "confidentiality_level": "internal",
+    "created_at": "2026-10-31T21:14:02.428432+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o12f53c",
+    "agent_id": "Tools A Monitor",
+    "title": "Federal Reserve Board releases results of the 2025 Survey of Consumer Finances, which provides the public and policymakers with detailed insights into the economic condition of American families",
+    "summary": "Federal Reserve Board releases results of the 2025 Survey of Consumer Finances, which provides the public and policymakers with detailed insights into the economic condition of American families",
+    "raw_output": "",
+    "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/other20261009a.htm",
+    "category": "",
+    "priority": "Medium",
+    "confidentiality_level": "internal",
+    "created_at": "2026-10-31T21:14:02.428447+00:00",
     "is_processed": false
   }
 ]
