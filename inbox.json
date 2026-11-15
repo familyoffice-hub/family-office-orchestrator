@@ -2,20 +2,6 @@
   {
     "output_id": "o12516a",
     "agent_id": "Tools A Monitor",
-    "title": "Federal Reserve Board announces approval of application by BancFirst Corporation",
-    "summary": "Federal Reserve Board announces approval of application by BancFirst Corporation",
-    "raw_output": "",
-    "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260922a.htm",
-    "category": "",
-    "priority": "Medium",
-    "confidentiality_level": "internal",
-    "created_at": "2026-11-05T23:26:40.490967+00:00",
-    "is_processed": true,
-    "report_id": "r20261106"
-  },
-  {
-    "output_id": "o12516a",
-    "agent_id": "Tools A Monitor",
     "title": "HSA-eligible health plans in 2027: What to know about tax savings vs. higher deductibles",
     "summary": "HSA-eligible health plans in 2027: What to know about tax savings vs. higher deductibles",
     "raw_output": "",
@@ -13986,5 +13972,18 @@
     "created_at": "2026-11-14T22:07:34.007128+00:00",
     "is_processed": true,
     "report_id": "r20261115"
+  },
+  {
+    "output_id": "o10f23e",
+    "agent_id": "Tools A Monitor",
+    "title": "SEC Issues “Innovation Exemption” to Facilitate the Trading of Tokenized NMS Stock and Request for Comment",
+    "summary": "SEC Issues “Innovation Exemption” to Facilitate the Trading of Tokenized NMS Stock and Request for Comment",
+    "raw_output": "",
+    "source_url": "https://www.sec.gov/newsroom/press-releases/2026-90-sec-issues-innovation-exemption-facilitate-trading-tokenized-nms-stock-request-comment",
+    "category": "",
+    "priority": "High",
+    "confidentiality_level": "internal",
+    "created_at": "2026-11-15T05:38:30.590154+00:00",
+    "is_processed": false
   }
 ]
