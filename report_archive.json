@@ -1478,5 +1478,15 @@
     "sent_at": "2026-11-20T01:16:19.967818+00:00",
     "item_count": 60,
     "confidentiality_level": "internal"
+  },
+  {
+    "report_id": "r20261121",
+    "report_date": "2026-11-21",
+    "report_title": "Daily Brief 21 Nov 2026",
+    "delivery_channel": "telegram",
+    "delivery_status": "failed",
+    "sent_at": "2026-11-21T01:15:41.911880+00:00",
+    "item_count": 60,
+    "confidentiality_level": "internal"
   }
 ]
