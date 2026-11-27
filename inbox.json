@@ -2,34 +2,6 @@
   {
     "output_id": "o5114a3",
     "agent_id": "Tools A Monitor",
-    "title": "Legally Speaking: What to Know About Beneficiaries and Estate Planning - WIS News 10",
-    "summary": "Legally Speaking: What to Know About Beneficiaries and Estate Planning - WIS News 10",
-    "raw_output": "",
-    "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONjBjSnBuaGpVbGJ6aXpwNEZxWDItQ3pxNmVfVVYtZnRZV0ZGRVZOWlpEZ2NMa0N3Rmx2NkxqRC05T3ZPeWhqdlpva3Q0c0dycEpfVkFDOEhfTDlNOVdHTFBmdUJmbnR4SS03dGF4bTBpM2xmMEtidHFoV2ZrVWlVWjRZbFkzQlBZMlVPbkgzWnhvWFl6eng1cDhMZUfSAbABQVVfeXFMUEZlYk14MEdZd3pUMGd4TmVaNFlOZTFfanVUYVA2Z0ZQWGFxaVpjeGdvSHN4dHpWaUxFR1BJeUhGU1M5NFJXOEZiSzZBbjNIV2lub3JodktIWDJJRUxqVHF1MHNMNGRhYkFsX0pDTFJLV2lfaDVBczdFS3ZFdmtlREFWeGh4MWtyM3M5V0FrbG9OQkdpWk91YTltYVhPLUphZF93dndVYVM3eUltbzhqaFo?oc=5",
-    "category": "",
-    "priority": "Medium",
-    "confidentiality_level": "internal",
-    "created_at": "2026-11-18T15:21:53.699636+00:00",
-    "is_processed": true,
-    "report_id": "r20261119"
-  },
-  {
-    "output_id": "o5114a3",
-    "agent_id": "Tools A Monitor",
-    "title": "Insurance, Taxes & Estate Planning—Finally Made Simple #shorts - BlackPressUSA",
-    "summary": "Insurance, Taxes & Estate Planning—Finally Made Simple #shorts - BlackPressUSA",
-    "raw_output": "",
-    "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbEluZ0w4ZTR1UWZtd29oSGlnbk9yS1loVVBaTTdMMWlTbHdfckVPR2RyYlFYdmdmSXJEOUdqdUxwekcwS21tTlAwWTNrU0lGVFVjN2lNTmNqWFVGaW5BXzhRT0FqUldTd19jeVNQZlNPQzZlS25CaU9BUkhoanllSi1yTHV3M2RxanVmZ1dB?oc=5",
-    "category": "",
-    "priority": "Medium",
-    "confidentiality_level": "internal",
-    "created_at": "2026-11-18T15:21:53.699638+00:00",
-    "is_processed": true,
-    "report_id": "r20261119"
-  },
-  {
-    "output_id": "o5114a3",
-    "agent_id": "Tools A Monitor",
     "title": "HR Perspectives by Arijit Pal Choudhury: “If succession planning begins when a role becomes vacant, you are already too late” - HR Katha",
     "summary": "HR Perspectives by Arijit Pal Choudhury: “If succession planning begins when a role becomes vacant, you are already too late” - HR Katha",
     "raw_output": "",
@@ -13998,5 +13970,31 @@
     "created_at": "2026-11-26T21:09:01.773901+00:00",
     "is_processed": true,
     "report_id": "r20261127"
+  },
+  {
+    "output_id": "o481907",
+    "agent_id": "Tools A Monitor",
+    "title": "China’s factories are growing profits again, but the AI boom is picking the winners",
+    "summary": "China’s factories are growing profits again, but the AI boom is picking the winners",
+    "raw_output": "",
+    "source_url": "https://www.cnbc.com/2026/11/27/china-industrial-profits-october.html",
+    "category": "",
+    "priority": "Medium",
+    "confidentiality_level": "internal",
+    "created_at": "2026-11-27T07:32:04.999631+00:00",
+    "is_processed": false
+  },
+  {
+    "output_id": "o481907",
+    "agent_id": "Tools A Monitor",
+    "title": "Sovereign wealth funds are acting more like private equity giants — and inheriting their risks",
+    "summary": "Sovereign wealth funds are acting more like private equity giants — and inheriting their risks",
+    "raw_output": "",
+    "source_url": "https://www.cnbc.com/2026/11/27/swf-private-equity-risks.html",
+    "category": "",
+    "priority": "Low",
+    "confidentiality_level": "internal",
+    "created_at": "2026-11-27T07:32:04.999648+00:00",
+    "is_processed": false
   }
 ]
